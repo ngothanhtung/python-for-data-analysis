@@ -1,0 +1,21 @@
+Date,Product,Category,Region,Sales,Profit,Quantity,Customer_ID
+2024-01-01,Laptop,Electronics,North,1200,350,2,C001
+2024-01-02,Mouse,Electronics,South,25,8,5,C002
+2024-01-03,Desk,Furniture,East,450,120,1,C003
+2024-01-04,Chair,Furniture,West,280,75,2,C004
+2024-01-05,Monitor,Electronics,North,380,95,1,C005
+2024-01-06,Keyboard,Electronics,South,65,18,3,C006
+2024-01-07,Bookshelf,Furniture,East,220,55,1,C007
+2024-01-08,Laptop,Electronics,West,1150,340,1,C008
+2024-01-09,Pen,Stationery,North,5,1,20,C009
+2024-01-10,Notebook,Stationery,South,15,4,10,C010
+2024-01-11,Desk Lamp,Electronics,East,45,12,2,C011
+2024-01-12,Office Chair,Furniture,West,520,145,1,C012
+2024-01-13,USB Cable,Electronics,North,12,3,8,C013
+2024-01-14,Stapler,Stationery,South,8,2,4,C014
+2024-01-15,Printer,Electronics,East,280,70,1,C015
+2024-01-16,Paper,Stationery,West,25,6,5,C016
+2024-01-17,Tablet,Electronics,North,650,180,1,C017
+2024-01-18,Whiteboard,Furniture,South,120,30,1,C018
+2024-01-19,Marker,Stationery,East,3,1,15,C019
+2024-01-20,Headphones,Electronics,West,85,22,2,C020
