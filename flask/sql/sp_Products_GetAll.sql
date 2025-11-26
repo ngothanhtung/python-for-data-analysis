@@ -1,0 +1,7 @@
+CREATE OR ALTER PROCEDURE sp_Products_GetAll
+AS
+BEGIN
+  SELECT *
+  FROM Products
+  ORDER BY Price
+END

@@ -1,0 +1,20 @@
+/* Statistic color styles */
+.statistic-success :where(.ant-statistic-content-value) {
+  color: #3f8600;
+}
+
+.statistic-danger :where(.ant-statistic-content-value) {
+  color: #cf1322;
+}
+
+.statistic-warning :where(.ant-statistic-content-value) {
+  color: #faad14;
+}
+
+.statistic-success-light :where(.ant-statistic-content-value) {
+  color: #52c41a;
+}
+
+.statistic-danger-light :where(.ant-statistic-content-value) {
+  color: #f5222d;
+}
