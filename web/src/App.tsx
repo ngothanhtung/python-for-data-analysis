@@ -43,6 +43,20 @@ const items = [
       },
     ],
   },
+  {
+    key: '/hang_hoa',
+    label: 'Hàng hóa',
+    children: [
+      {
+        key: '/hang_hoa/them_moi',
+        label: 'Thêm mới',
+      },
+      {
+        key: '/hang_hoa/danh_sach',
+        label: 'Danh sách',
+      },
+    ],
+  },
 ];
 
 export default function App() {

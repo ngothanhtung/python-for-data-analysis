@@ -12,3 +12,7 @@
 ## Cấu trúc dự án
 
 - main.tsx khai báo route
+
+## Khai báo tạo MENU
+
+- Vào src/App.tsx

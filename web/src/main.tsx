@@ -13,6 +13,7 @@ import ToKhai from './pages/bao-cao/to-khai/thong-ke.tsx';
 import Home from './pages/home.tsx';
 import BieuDo from './pages/bao-cao/no-thue/bieu-do.tsx';
 import HangHoaThemMoi from './pages/hang_hoa/them_moi.tsx';
+import DanhSachHangHoa from './pages/hang_hoa/danh_sach.tsx';
 
 const router = createBrowserRouter([
   {
@@ -69,6 +70,10 @@ const router = createBrowserRouter([
           {
             path: '/hang_hoa/them_moi',
             element: <HangHoaThemMoi />,
+          },
+          {
+            path: '/hang_hoa/danh_sach',
+            element: <DanhSachHangHoa />,
           },
         ],
       },
