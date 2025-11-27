@@ -31,6 +31,11 @@ const items = [
         key: '/bao-cao/logistics/thong-ke-tong-hop-theo-cang',
         label: 'Tổng hợp theo cảng',
       },
+
+      {
+        key: '/bao-cao/logistics/thong-ke-hang-hoa-theo-nha-cung-cap',
+        label: 'Tổng hợp theo nhà cung cấp',
+      },
     ],
   },
   {

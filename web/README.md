@@ -11,7 +11,7 @@
 
 ## Cấu trúc dự án
 
-- main.tsx khai báo route
+- main.tsx khai báo routes
 
 ## Khai báo tạo MENU
 

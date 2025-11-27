@@ -1,6 +1,21 @@
 from flask import Blueprint, jsonify
 import pandas as pd
 
+import pymssql
+from config import MSSQL_CONFIG
+
+
+def get_db_connection():
+    """Tạo kết nối đến MSSQL"""
+    conn = pymssql.connect(
+        server=MSSQL_CONFIG['server'],
+        user=MSSQL_CONFIG['user'],
+        password=MSSQL_CONFIG['password'],
+        database=MSSQL_CONFIG['database']
+    )
+    return conn
+
+
 logistics_bp = Blueprint('logistics', __name__)
 
 
@@ -55,3 +70,80 @@ def báo_cao_2():
 
     # Chuyển DataFrame thành dictionary để trả về JSON
     return jsonify(port_stats.reset_index().to_dict('records'))
+
+
+@logistics_bp.route('/api/bao-cao/logistics/thong-ke-hang-hoa-theo-danh-muc')
+def bao_cao_3():
+    try:
+        conn = get_db_connection()
+        cursor = conn.cursor(as_dict=True)
+        cursor.execute('EXEC sp_ProductsWithCategoryAndSupplier')
+        products = cursor.fetchall()
+        conn.close()
+
+        # Dùng pandas để phân tích dữ liệu
+        df = pd.DataFrame(products)
+
+        # Phân tích theo danh mục (CategoryName)
+        category_stats = df.groupby('CategoryName').agg({
+            'Id': 'count',
+            'Price': ['mean', 'min', 'max'],
+            'Stock': 'sum'
+
+        }).round(2)
+
+        category_stats.columns = [
+            'Số lượng sản phẩm',
+            'Giá TB',
+            'Giá min',
+            'Giá max',
+            'Tồn kho'
+
+        ]
+        category_stats = category_stats.sort_values(
+            'Số lượng sản phẩm', ascending=False)
+
+        return jsonify(category_stats.reset_index().to_dict('records'))
+    except Exception as e:
+        return jsonify({
+            "success": False,
+            "error": str(e)
+        }), 500
+
+
+@logistics_bp.route('/api/bao-cao/logistics/thong-ke-hang-hoa-theo-nha-cung-cap')
+def bao_cao_4():
+    try:
+        conn = get_db_connection()
+        cursor = conn.cursor(as_dict=True)
+        cursor.execute('EXEC sp_ProductsWithCategoryAndSupplier')
+        products = cursor.fetchall()
+        conn.close()
+
+        # Dùng pandas để phân tích dữ liệu
+        df = pd.DataFrame(products)
+
+        # Phân tích theo nhà cung cấp (SupplierName)
+        supplier_stats = df.groupby('SupplierName').agg({
+            'Id': 'count',
+            'Price': ['mean', 'min', 'max'],
+            'Stock': 'sum'
+
+        }).round(2)
+
+        supplier_stats.columns = [
+            'Số lượng sản phẩm',
+            'Giá TB',
+            'Giá min',
+            'Giá max',
+            'Tồn kho'
+        ]
+        supplier_stats = supplier_stats.sort_values(
+            'Số lượng sản phẩm', ascending=False)
+
+        return jsonify(supplier_stats.reset_index().to_dict('records'))
+    except Exception as e:
+        return jsonify({
+            "success": False,
+            "error": str(e)
+        }), 500
