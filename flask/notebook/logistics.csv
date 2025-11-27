@@ -1,0 +1,2001 @@
+ShipmentID,Country,Port,Product,Quantity(kg),Value(USD),TransportMode,ETA,ClearanceTime(days),Status
+S1000,Thailand,Cat Lai,Machinery,1082.0,185418.0,Air,2025-05-03,7,Hold
+S1001,USA,Danang,Spices,512.0,220834.0,Air,2025-11-05,5,Delayed
+S1002,Germany,Ho Chi Minh,Textiles,1039.0,20216.0,Sea,2025-07-03,2,Hold
+S1003,Thailand,Danang,Spices,2766.0,8009.0,Road,2025-07-06,4,Delivered
+S1004,South Korea,Danang,Machinery,3477.0,165399.0,Air,2025-07-17,5,Delayed
+S1005,Vietnam,Cat Lai,Pharmaceuticals,574.0,150281.0,Air,2025-03-19,5,Hold
+S1006,Germany,Danang,Toys,650.0,184515.0,Road,2025-12-14,3,In Transit
+S1007,Germany,Cat Lai,Automotive Parts,3897.0,20029.0,Road,2025-07-05,7,Delivered
+S1008,Thailand,Haiphong,Toys,3262.0,215515.0,Sea,2025-12-10,1,Delivered
+S1009,Japan,Haiphong,Toys,794.0,193069.0,Air,2025-09-10,4,In Transit
+S1010,South Korea,Cat Lai,Pharmaceuticals,3450.0,,Air,2025-01-13,1,In Transit
+S1011,Thailand,Haiphong,Spices,1433.0,247471.0,Sea,2025-10-26,6,Hold
+S1012,South Korea,Ho Chi Minh,Automotive Parts,699.0,38783.0,Road,2025-03-17,6,Delivered
+S1013,South Korea,Danang,Electronics,663.0,39152.0,Sea,2025-02-20,4,Hold
+S1014,Vietnam,Ho Chi Minh,Furniture,3395.0,63741.0,Road,2025-10-02,7,In Transit
+S1015,Germany,Danang,Pharmaceuticals,312.0,34092.0,Sea,2025-05-29,2,Delivered
+S1016,USA,Haiphong,Machinery,1235.0,153725.0,Road,2025-08-07,6,In Transit
+S1017,Vietnam,Ho Chi Minh,Electronics,3397.0,235636.0,Sea,2025-05-02,3,Hold
+S1018,Vietnam,Haiphong,Furniture,3836.0,176541.0,Road,2025-07-30,2,Hold
+S1019,South Korea,Danang,Machinery,2578.0,259136.0,Road,2025-10-07,5,Hold
+S1020,India,Cat Lai,Toys,2124.0,166050.0,Road,2025-01-26,6,Delivered
+S1021,Germany,Cat Lai,Textiles,3554.0,92592.0,Road,2025-06-22,3,In Transit
+S1022,Japan,Ho Chi Minh,Machinery,339.0,48169.0,Road,2025-06-05,5,In Transit
+S1023,Vietnam,Haiphong,Automotive Parts,1624.0,59745.0,Air,2025-08-26,2,Hold
+S1024,USA,Haiphong,Automotive Parts,3149.0,,Road,2025-03-23,4,Hold
+S1025,India,Ho Chi Minh,Textiles,3368.0,118985.0,Air,2025-12-22,5,Hold
+S1026,India,Cat Lai,Electronics,716.0,272687.0,Road,2025-09-30,1,Hold
+S1027,Japan,Danang,Furniture,,192464.0,Air,2025-03-09,4,Delayed
+S1028,Vietnam,Ho Chi Minh,Machinery,2147.0,26067.0,Air,2025-02-13,4,Delayed
+S1029,USA,Danang,Automotive Parts,3093.0,56033.0,Sea,2025-03-02,2,Delayed
+S1030,Germany,Cat Lai,Electronics,3340.0,50256.0,Road,2025-05-03,2,Hold
+S1031,China,Haiphong,Textiles,2365.0,226705.0,Sea,2025-12-15,3,Hold
+S1032,USA,Cat Lai,Spices,1087.0,244455.0,Sea,2025-07-15,3,In Transit
+S1033,Japan,Ho Chi Minh,Pharmaceuticals,3330.0,205417.0,Road,2025-11-26,1,Delivered
+S1034,India,Haiphong,Spices,3304.0,91803.0,Sea,2025-11-19,4,In Transit
+S1035,Germany,Ho Chi Minh,Spices,1541.0,208814.0,Road,2025-04-21,7,Delayed
+S1036,USA,Ho Chi Minh,Automotive Parts,249.0,123843.0,Sea,2025-09-15,1,In Transit
+S1037,China,Cat Lai,Toys,37600.0,33992.0,Road,2025-03-30,1,Hold
+S1038,China,Ho Chi Minh,Toys,218.0,217603.0,Road,2025-07-17,7,Delayed
+S1039,South Korea,Cat Lai,Textiles,925.0,53803.0,Road,2025-10-09,7,Delayed
+S1040,South Korea,Haiphong,Machinery,,199549.0,Air,2025-07-19,7,Delivered
+S1041,Thailand,Cat Lai,Toys,1673.0,149282.0,Sea,2025-04-09,2,Delivered
+S1042,Japan,Haiphong,Spices,2806.0,,Air,2025-01-27,1,Delayed
+S1043,Vietnam,Cat Lai,Toys,3950.0,249929.0,Sea,2025-03-30,1,Delayed
+S1044,USA,Danang,Spices,,12452.0,Sea,2025-05-26,5,In Transit
+S1045,USA,Danang,Furniture,2536.0,19859.0,Sea,2025-07-01,7,Delayed
+S1046,Vietnam,Ho Chi Minh,Automotive Parts,1364.0,37083.0,Air,2025-09-14,7,Hold
+S1047,Thailand,Cat Lai,Automotive Parts,1307.0,116462.0,Sea,2025-07-08,3,In Transit
+S1048,India,Cat Lai,Machinery,3965.0,152735.0,Air,2025-08-28,3,Hold
+S1049,India,Haiphong,Toys,2638.0,254737.0,Road,2025-12-25,4,Hold
+S1050,Thailand,Ho Chi Minh,Toys,3862.0,286197.0,Sea,2025-07-15,3,Hold
+S1051,India,Cat Lai,Pharmaceuticals,414.0,147157.0,Sea,2025-10-24,6,Delayed
+S1052,South Korea,Ho Chi Minh,Electronics,1749.0,195167.0,Road,2025-06-14,4,Delivered
+S1053,USA,Danang,Furniture,,74517.0,Road,2025-11-03,7,Delivered
+S1054,Thailand,Cat Lai,Automotive Parts,3674.0,157225.0,Sea,2025-09-28,5,Hold
+S1055,USA,Cat Lai,Furniture,327.0,141319.0,Road,2025-01-08,3,Delayed
+S1056,Vietnam,Ho Chi Minh,Automotive Parts,,231453.0,Air,2025-02-07,5,In Transit
+S1057,China,Cat Lai,Furniture,3748.0,,Air,2025-04-24,3,Hold
+S1058,South Korea,Ho Chi Minh,Textiles,959.0,84267.0,Sea,2025-12-05,3,In Transit
+S1059,Germany,Cat Lai,Spices,2651.0,143261.0,Air,2025-02-25,5,In Transit
+S1060,South Korea,Haiphong,Automotive Parts,3300.0,136004.0,Air,2025-12-25,1,Delayed
+S1061,Thailand,Ho Chi Minh,Furniture,2015.0,58687.0,Sea,2025-05-18,1,Delayed
+S1062,Germany,Cat Lai,Toys,2585.0,112615.0,Road,2025-04-12,1,Delivered
+S1063,China,Danang,Electronics,3078.0,32564.0,Sea,2025-11-30,6,Delivered
+S1064,Thailand,Cat Lai,Textiles,2961.0,295979.0,Air,2025-06-26,1,Delayed
+S1065,Japan,Danang,Textiles,560.0,12697.0,Sea,2025-06-18,3,Hold
+S1066,USA,Danang,Electronics,768.0,85165.0,Sea,2025-12-05,7,Delivered
+S1067,China,Haiphong,Furniture,1615.0,209994.0,Air,2025-10-13,2,In Transit
+S1068,USA,Ho Chi Minh,Toys,2465.0,62823.0,Air,2025-09-18,5,Hold
+S1069,India,Cat Lai,Machinery,1797.0,14615.0,Sea,2025-08-11,7,In Transit
+S1070,Japan,Haiphong,Electronics,1892.0,81436.0,Air,2025-07-18,2,Delayed
+S1071,Japan,Cat Lai,Furniture,401.0,196591.0,Air,2025-07-30,7,In Transit
+S1072,China,Danang,Electronics,2264.0,39782.0,Air,2025-10-14,6,Hold
+S1073,Japan,Ho Chi Minh,Electronics,2569.0,83533.0,Air,2025-06-29,2,Delayed
+S1074,Germany,Cat Lai,Automotive Parts,717.0,245011.0,Air,2025-09-07,4,Hold
+S1075,Japan,Cat Lai,Furniture,3841.0,194327.0,Air,2025-08-19,1,In Transit
+S1076,USA,Danang,Machinery,1548.0,77684.0,Road,2025-01-23,6,Hold
+S1077,USA,Cat Lai,Spices,1635.0,262165.0,Sea,2025-02-17,7,Delayed
+S1078,Thailand,Cat Lai,Automotive Parts,1541.0,220356.0,Air,2025-04-19,3,In Transit
+S1079,USA,Danang,Electronics,880.0,221621.0,Sea,2025-10-23,1,In Transit
+S1080,Thailand,Haiphong,Spices,2188.0,240295.0,Road,2025-01-06,1,Delivered
+S1081,USA,Danang,Pharmaceuticals,3353.0,256435.0,Air,2025-02-07,2,Delivered
+S1082,Germany,Haiphong,Spices,3745.0,262424.0,Sea,2025-06-18,4,Hold
+S1083,Vietnam,Ho Chi Minh,Electronics,1691.0,273782.0,Air,2025-12-22,1,Delivered
+S1084,Thailand,Haiphong,Electronics,624.0,38377.0,Air,2025-10-10,7,Delivered
+S1085,South Korea,Haiphong,Toys,2168.0,111244.0,Air,2025-07-22,7,Delivered
+S1086,India,Ho Chi Minh,Furniture,1912.0,179188.0,Air,2025-11-21,5,Delivered
+S1087,China,Haiphong,Furniture,3475.0,218363.0,Air,2025-11-09,5,Delayed
+S1088,USA,Danang,Automotive Parts,3854.0,28382.0,Air,2025-09-30,1,Delayed
+S1089,Japan,Haiphong,Machinery,3266.0,251375.0,Air,2025-09-01,2,Delivered
+S1090,Vietnam,Ho Chi Minh,Automotive Parts,2634.0,192135.0,Road,2025-11-23,2,Hold
+S1091,USA,Danang,Textiles,977.0,158466.0,Road,2025-02-16,3,Delayed
+S1092,Japan,Ho Chi Minh,Electronics,2345.0,239318.0,Air,2025-09-06,6,Delivered
+S1093,India,Ho Chi Minh,Spices,3616.0,,Air,2025-03-20,6,Delayed
+S1094,India,Cat Lai,Pharmaceuticals,2026.0,128664.0,Road,2025-04-20,6,In Transit
+S1095,India,Cat Lai,Electronics,407.0,157027.0,Road,2025-01-13,4,Delayed
+S1096,Japan,Ho Chi Minh,Electronics,1737.0,108533.0,Road,2025-12-31,2,Delayed
+S1097,USA,Ho Chi Minh,Automotive Parts,1859.0,252997.0,Air,2025-03-31,3,Hold
+S1098,India,Ho Chi Minh,Pharmaceuticals,,74590.0,Sea,2025-12-08,5,Delayed
+S1099,Germany,Cat Lai,Pharmaceuticals,2413.0,249936.0,Sea,2025-12-14,7,Hold
+S1100,Thailand,Cat Lai,Pharmaceuticals,,53924.0,Sea,2025-10-07,6,In Transit
+S1101,Japan,Haiphong,Automotive Parts,353.0,14726.0,Sea,2025-08-09,5,Delivered
+S1102,Japan,Haiphong,Electronics,2162.0,196896.0,Air,2025-03-14,5,Hold
+S1103,USA,Ho Chi Minh,Automotive Parts,3710.0,45542.0,Sea,2025-08-22,1,Delayed
+S1104,Japan,Danang,Furniture,3566.0,39753.0,Road,2025-09-17,4,Delayed
+S1105,Japan,Danang,Furniture,418.0,288460.0,Road,2025-04-23,3,Hold
+S1106,India,Cat Lai,Automotive Parts,868.0,238979.0,Sea,2025-02-15,4,In Transit
+S1107,USA,Cat Lai,Pharmaceuticals,1718.0,89698.0,Road,2025-10-01,1,Delivered
+S1108,India,Cat Lai,Toys,2477.0,283104.0,Air,2025-02-12,3,Delayed
+S1109,Thailand,Ho Chi Minh,Electronics,2267.0,35791.0,Sea,2025-07-27,3,In Transit
+S1110,Vietnam,Danang,Automotive Parts,2800.0,292360.0,Sea,2025-12-15,2,Delivered
+S1111,Thailand,Haiphong,Automotive Parts,1149.0,78290.0,Air,2025-04-13,4,Delivered
+S1112,Vietnam,Ho Chi Minh,Automotive Parts,2395.0,52014.0,Road,2025-05-04,4,Delayed
+S1113,India,Haiphong,Toys,3379.0,140150.0,Air,2025-01-10,2,Hold
+S1114,Thailand,Haiphong,Toys,,55519.0,Air,2025-11-25,5,Delayed
+S1115,USA,Ho Chi Minh,Textiles,795.0,271186.0,Road,2025-07-06,1,Delayed
+S1116,China,Haiphong,Furniture,3754.0,54052.0,Air,2025-01-31,4,Delayed
+S1117,India,Danang,Spices,2614.0,19389.0,Road,2025-06-05,2,In Transit
+S1118,Vietnam,Haiphong,Pharmaceuticals,1637.0,73111.0,Road,2025-03-01,7,Hold
+S1119,Germany,Danang,Machinery,3580.0,162753.0,Air,2025-09-06,3,In Transit
+S1120,Vietnam,Danang,Toys,3049.0,94524.0,Road,2025-09-27,6,Delayed
+S1121,Germany,Danang,Spices,3165.0,291848.0,Air,2025-08-05,7,Hold
+S1122,Japan,Cat Lai,Toys,,99913.0,Road,2025-01-02,2,Delivered
+S1123,Thailand,Haiphong,Pharmaceuticals,1942.0,99108.0,Sea,2025-01-24,6,Hold
+S1124,Germany,Ho Chi Minh,Machinery,1506.0,259803.0,Road,2025-07-25,5,Delayed
+S1125,Vietnam,Ho Chi Minh,Textiles,272.0,274637.0,Road,2025-11-16,1,Hold
+S1126,Japan,Haiphong,Automotive Parts,680.0,1119585.0,Air,2025-07-18,6,Delivered
+S1127,China,Cat Lai,Textiles,3623.0,236452.0,Road,2025-12-22,5,Delivered
+S1128,USA,Cat Lai,Toys,,139066.0,Sea,2025-04-24,6,Hold
+S1129,USA,Danang,Textiles,3597.0,205352.0,Sea,2025-10-07,3,Delivered
+S1130,USA,Haiphong,Spices,944.0,133674.0,Road,2025-06-04,3,In Transit
+S1131,Germany,Haiphong,Electronics,1666.0,,Road,2025-06-14,3,Hold
+S1132,China,Ho Chi Minh,Toys,299.0,241907.0,Sea,2025-08-10,3,Delivered
+S1133,Germany,Haiphong,Toys,1282.0,274515.0,Air,2025-04-01,2,Delivered
+S1134,Thailand,Cat Lai,Spices,2755.0,52315.0,Sea,2025-06-16,3,Hold
+S1135,Germany,Haiphong,Furniture,2505.0,219636.0,Sea,2025-07-26,7,In Transit
+S1136,China,Ho Chi Minh,Machinery,612.0,1983765.0,Road,2025-10-09,3,Hold
+S1137,China,Danang,Automotive Parts,3723.0,237520.0,Road,2025-03-06,7,Delivered
+S1138,Thailand,Ho Chi Minh,Spices,1288.0,84526.0,Sea,2025-01-04,2,Hold
+S1139,China,Ho Chi Minh,Machinery,2842.0,248459.0,Air,2025-06-06,3,Delivered
+S1140,Vietnam,Danang,Pharmaceuticals,1377.0,152698.0,Sea,2025-09-06,5,Delayed
+S1141,China,Ho Chi Minh,Machinery,2208.0,242330.0,Sea,2025-09-14,5,Hold
+S1142,USA,Ho Chi Minh,Pharmaceuticals,2513.0,110573.0,Air,2025-08-23,4,Hold
+S1143,Vietnam,Haiphong,Spices,1020.0,142900.0,Sea,2025-11-02,5,Delivered
+S1144,Vietnam,Haiphong,Toys,3350.0,240707.0,Sea,2025-03-15,1,Delivered
+S1145,Thailand,Danang,Toys,3586.0,188736.0,Road,2025-07-06,1,Delivered
+S1146,South Korea,Haiphong,Furniture,861.0,153955.0,Air,2025-03-03,1,Delivered
+S1147,South Korea,Haiphong,Spices,31940.0,179131.0,Road,2025-12-03,2,Hold
+S1148,China,Ho Chi Minh,Pharmaceuticals,759.0,179004.0,Road,2025-06-13,5,Delivered
+S1149,Vietnam,Cat Lai,Machinery,3164.0,269179.0,Air,2025-02-25,7,Hold
+S1150,South Korea,Haiphong,Machinery,3138.0,114767.0,Air,2025-04-21,1,In Transit
+S1151,South Korea,Cat Lai,Pharmaceuticals,1471.0,22241.0,Sea,2025-08-06,4,Hold
+S1152,China,Haiphong,Textiles,2013.0,57975.0,Road,2025-08-28,2,Delivered
+S1153,South Korea,Haiphong,Furniture,3115.0,159226.0,Air,2025-01-21,4,Delivered
+S1154,Germany,Danang,Electronics,809.0,61396.0,Road,2025-05-21,5,In Transit
+S1155,Japan,Danang,Toys,2661.0,123920.0,Road,2025-09-22,3,Hold
+S1156,Thailand,Danang,Automotive Parts,224.0,199999.0,Air,2025-05-19,4,In Transit
+S1157,Japan,Cat Lai,Machinery,2228.0,91226.0,Sea,2025-03-11,3,Hold
+S1158,China,Ho Chi Minh,Automotive Parts,483.0,89719.0,Road,2025-04-28,2,Delivered
+S1159,USA,Haiphong,Electronics,1672.0,,Air,2025-07-17,4,Hold
+S1160,Thailand,Haiphong,Spices,3128.0,44346.0,Sea,2025-07-24,4,Delivered
+S1161,China,Haiphong,Automotive Parts,500.0,75411.0,Road,2025-08-02,6,Delivered
+S1162,Vietnam,Cat Lai,Electronics,1291.0,190550.0,Air,2025-02-25,2,Delayed
+S1163,USA,Danang,Toys,1230.0,148326.0,Road,2025-10-14,2,Delayed
+S1164,Japan,Ho Chi Minh,Pharmaceuticals,1016.0,191806.0,Air,2025-10-20,1,Hold
+S1165,China,Cat Lai,Textiles,3408.0,51121.0,Air,2025-06-24,5,Delivered
+S1166,Vietnam,Danang,Toys,3435.0,217490.0,Road,2025-12-13,4,In Transit
+S1167,Thailand,Cat Lai,Machinery,282.0,89577.0,Road,2025-05-08,4,Delivered
+S1168,Thailand,Ho Chi Minh,Electronics,21200.0,254106.0,Air,2025-11-21,7,In Transit
+S1169,India,Danang,Automotive Parts,3921.0,140909.0,Sea,2025-10-19,2,Hold
+S1170,Vietnam,Cat Lai,Machinery,3691.0,6466.0,Road,2025-10-15,2,Hold
+S1171,Germany,Ho Chi Minh,Textiles,3344.0,297915.0,Air,2025-08-14,5,In Transit
+S1172,South Korea,Haiphong,Pharmaceuticals,3508.0,234638.0,Air,2025-03-05,2,In Transit
+S1173,USA,Ho Chi Minh,Spices,2293.0,93422.0,Sea,2025-02-17,3,Delivered
+S1174,Vietnam,Haiphong,Machinery,817.0,4035555.0,Sea,2025-07-21,3,Hold
+S1175,India,Cat Lai,Spices,3175.0,297717.0,Sea,2025-12-03,6,Delivered
+S1176,South Korea,Danang,Electronics,2509.0,101907.0,Road,2025-03-01,3,In Transit
+S1177,South Korea,Danang,Textiles,375.0,213434.0,Air,2025-09-14,3,Delayed
+S1178,China,Cat Lai,Automotive Parts,1389.0,223532.0,Air,2025-03-06,5,Delayed
+S1179,South Korea,Danang,Textiles,2904.0,263093.0,Air,2025-08-27,4,Delayed
+S1180,Germany,Danang,Textiles,1041.0,157271.0,Sea,2025-10-16,3,In Transit
+S1181,Thailand,Haiphong,Furniture,569.0,210400.0,Air,2025-02-07,6,Delivered
+S1182,India,Cat Lai,Textiles,2018.0,172477.0,Road,2025-01-25,2,Hold
+S1183,South Korea,Ho Chi Minh,Textiles,2301.0,234304.0,Sea,2025-02-28,3,In Transit
+S1184,China,Haiphong,Toys,889.0,20989.0,Sea,2025-12-23,6,Delayed
+S1185,Germany,Cat Lai,Machinery,3690.0,296075.0,Sea,2025-10-24,5,Delivered
+S1186,Japan,Haiphong,Automotive Parts,1979.0,,Sea,2025-06-07,7,Hold
+S1187,Thailand,Ho Chi Minh,Toys,3778.0,,Road,2025-02-26,7,Hold
+S1188,Thailand,Ho Chi Minh,Toys,1564.0,212370.0,Air,2025-02-17,7,In Transit
+S1189,India,Cat Lai,Machinery,,131299.0,Road,2025-11-24,2,In Transit
+S1190,Thailand,Ho Chi Minh,Machinery,1632.0,166205.0,Air,2025-02-25,6,Hold
+S1191,South Korea,Haiphong,Electronics,566.0,248688.0,Road,2025-03-06,3,Hold
+S1192,China,Ho Chi Minh,Machinery,3542.0,110686.0,Sea,2025-09-25,4,Delayed
+S1193,Thailand,Haiphong,Furniture,843.0,87666.0,Sea,2025-03-10,2,Hold
+S1194,Thailand,Haiphong,Furniture,3876.0,193728.0,Road,2025-08-04,2,In Transit
+S1195,Japan,Ho Chi Minh,Toys,2626.0,,Road,2025-03-30,7,Delivered
+S1196,Japan,Cat Lai,Spices,272.0,112573.0,Air,2025-10-08,4,Delayed
+S1197,USA,Danang,Electronics,3162.0,,Road,2025-09-14,7,Delayed
+S1198,Germany,Ho Chi Minh,Spices,1471.0,274152.0,Road,2025-06-09,2,Hold
+S1199,South Korea,Haiphong,Spices,1059.0,163477.0,Air,2025-08-22,3,Delivered
+S1200,Thailand,Haiphong,Toys,242.0,253141.0,Air,2025-05-11,7,Delayed
+S1201,Vietnam,Ho Chi Minh,Pharmaceuticals,2624.0,95909.0,Air,2025-02-18,7,In Transit
+S1202,Thailand,Cat Lai,Toys,1264.0,156899.0,Road,2025-05-27,7,Hold
+S1203,China,Cat Lai,Automotive Parts,2417.0,65354.0,Air,2025-11-12,2,In Transit
+S1204,USA,Haiphong,Automotive Parts,2459.0,23157.0,Sea,2025-01-02,3,Hold
+S1205,Germany,Haiphong,Machinery,,40315.0,Sea,2025-11-25,4,Delayed
+S1206,Vietnam,Cat Lai,Machinery,3951.0,150486.0,Sea,2025-05-25,1,Hold
+S1207,USA,Danang,Pharmaceuticals,2286.0,263669.0,Road,2025-03-02,4,Delivered
+S1208,India,Ho Chi Minh,Machinery,568.0,137018.0,Sea,2025-09-30,3,In Transit
+S1209,Germany,Haiphong,Automotive Parts,3004.0,281837.0,Road,2025-02-18,5,Delivered
+S1210,Thailand,Haiphong,Spices,350.0,,Road,2025-11-28,7,In Transit
+S1211,Thailand,Cat Lai,Toys,1334.0,100790.0,Sea,2025-05-11,4,In Transit
+S1212,Germany,Ho Chi Minh,Textiles,1703.0,77255.0,Air,2025-02-12,5,Hold
+S1213,Thailand,Cat Lai,Furniture,1659.0,200829.0,Road,2025-02-26,5,Delayed
+S1214,South Korea,Ho Chi Minh,Textiles,1270.0,177275.0,Sea,2025-02-19,3,Delayed
+S1215,Germany,Ho Chi Minh,Textiles,1223.0,197933.0,Road,2025-06-27,3,Delivered
+S1216,USA,Ho Chi Minh,Automotive Parts,17980.0,266439.0,Air,2025-10-20,7,Hold
+S1217,Germany,Haiphong,Textiles,2984.0,16350.0,Air,2025-02-15,1,Delayed
+S1218,Vietnam,Danang,Toys,2240.0,191584.0,Sea,2025-06-19,6,In Transit
+S1219,Thailand,Cat Lai,Pharmaceuticals,1589.0,106894.0,Road,2025-09-28,2,In Transit
+S1220,South Korea,Danang,Electronics,268.0,36728.0,Road,2025-12-02,4,Hold
+S1221,South Korea,Cat Lai,Machinery,2546.0,284720.0,Road,2025-05-19,3,Delivered
+S1222,India,Ho Chi Minh,Electronics,1143.0,88384.0,Road,2025-09-04,4,Hold
+S1223,USA,Haiphong,Spices,1001.0,5390.0,Sea,2025-05-28,6,Delivered
+S1224,Japan,Danang,Toys,2543.0,16569.0,Air,2025-08-18,6,Hold
+S1225,Japan,Haiphong,Toys,2450.0,27490.0,Sea,2025-10-07,7,In Transit
+S1226,Germany,Cat Lai,Furniture,260.0,273011.0,Road,2025-05-05,5,Hold
+S1227,India,Haiphong,Toys,1145.0,85820.0,Road,2025-07-11,7,Delayed
+S1228,China,Haiphong,Machinery,3210.0,276265.0,Air,2025-03-21,2,Delayed
+S1229,Germany,Danang,Toys,1537.0,6539.0,Road,2025-04-04,1,Hold
+S1230,India,Ho Chi Minh,Textiles,1384.0,68965.0,Sea,2025-08-14,4,Delivered
+S1231,USA,Haiphong,Furniture,530.0,102799.0,Sea,2025-03-06,2,Delivered
+S1232,USA,Ho Chi Minh,Machinery,1751.0,98948.0,Air,2025-03-29,1,In Transit
+S1233,USA,Cat Lai,Pharmaceuticals,537.0,148314.0,Sea,2025-03-29,4,In Transit
+S1234,USA,Haiphong,Pharmaceuticals,1829.0,253099.0,Sea,2025-07-20,2,Delivered
+S1235,USA,Danang,Pharmaceuticals,1527.0,276091.0,Sea,2025-08-02,3,Hold
+S1236,India,Cat Lai,Pharmaceuticals,1726.0,248322.0,Sea,2025-07-23,4,In Transit
+S1237,India,Cat Lai,Textiles,1873.0,207538.0,Road,2025-03-30,2,Delivered
+S1238,South Korea,Danang,Toys,1561.0,239778.0,Sea,2025-03-02,6,Delivered
+S1239,Vietnam,Haiphong,Electronics,1773.0,260821.0,Air,2025-09-28,1,Hold
+S1240,Japan,Haiphong,Machinery,2886.0,197888.0,Air,2025-04-04,2,Delayed
+S1241,Thailand,Cat Lai,Textiles,474.0,4014765.0,Sea,2025-11-03,3,Delivered
+S1242,USA,Haiphong,Pharmaceuticals,1387.0,163223.0,Air,2025-01-27,7,In Transit
+S1243,China,Ho Chi Minh,Spices,3714.0,16618.0,Sea,2025-08-02,4,Hold
+S1244,Thailand,Danang,Toys,2566.0,283266.0,Air,2025-03-15,4,Hold
+S1245,India,Ho Chi Minh,Electronics,2836.0,143426.0,Air,2025-03-02,4,Hold
+S1246,China,Haiphong,Spices,2751.0,91436.0,Sea,2025-07-05,3,Delayed
+S1247,China,Cat Lai,Furniture,3957.0,215448.0,Sea,2025-01-31,1,Delayed
+S1248,China,Danang,Spices,2634.0,141109.0,Road,2025-08-07,4,In Transit
+S1249,South Korea,Haiphong,Furniture,2193.0,33633.0,Sea,2025-01-12,1,In Transit
+S1250,India,Haiphong,Furniture,1069.0,291639.0,Sea,2025-10-29,2,Hold
+S1251,China,Cat Lai,Pharmaceuticals,3080.0,,Road,2025-02-01,6,In Transit
+S1252,USA,Cat Lai,Furniture,1214.0,143442.0,Sea,2025-06-09,6,Delivered
+S1253,Germany,Ho Chi Minh,Automotive Parts,2111.0,124873.0,Sea,2025-08-25,1,Delayed
+S1254,China,Danang,Machinery,802.0,76947.0,Road,2025-08-15,1,Hold
+S1255,South Korea,Danang,Machinery,1999.0,175205.0,Sea,2025-06-30,6,Hold
+S1256,Thailand,Cat Lai,Pharmaceuticals,890.0,232107.0,Sea,2025-11-13,4,Delivered
+S1257,India,Ho Chi Minh,Automotive Parts,693.0,100761.0,Road,2025-02-15,5,Delivered
+S1258,Vietnam,Danang,Spices,689.0,33926.0,Road,2025-12-07,5,Delivered
+S1259,South Korea,Cat Lai,Textiles,2968.0,109700.0,Air,2025-03-21,3,Delivered
+S1260,China,Haiphong,Spices,3344.0,54593.0,Sea,2025-05-15,7,Hold
+S1261,India,Danang,Toys,2756.0,10209.0,Air,2025-09-17,6,Delayed
+S1262,Germany,Ho Chi Minh,Textiles,589.0,131700.0,Air,2025-11-04,6,Delayed
+S1263,China,Ho Chi Minh,Furniture,3890.0,91597.0,Road,2025-09-04,3,Delivered
+S1264,South Korea,Ho Chi Minh,Electronics,,274355.0,Sea,2025-06-08,5,In Transit
+S1265,Japan,Haiphong,Textiles,1592.0,14927.0,Sea,2025-07-22,2,Hold
+S1266,USA,Danang,Electronics,3043.0,213535.0,Road,2025-04-22,4,Delayed
+S1267,Vietnam,Danang,Machinery,3112.0,122333.0,Air,2025-10-19,4,Delivered
+S1268,Thailand,Haiphong,Electronics,1917.0,160666.0,Road,2025-11-06,2,In Transit
+S1269,South Korea,Danang,Machinery,2796.0,210924.0,Sea,2025-04-29,2,In Transit
+S1270,India,Haiphong,Automotive Parts,848.0,213785.0,Road,2025-01-17,5,Delivered
+S1271,Vietnam,Haiphong,Automotive Parts,2073.0,144005.0,Sea,2025-11-27,3,Hold
+S1272,Vietnam,Haiphong,Pharmaceuticals,767.0,108780.0,Air,2025-08-15,2,Delayed
+S1273,Vietnam,Ho Chi Minh,Pharmaceuticals,3458.0,45696.0,Sea,2025-12-27,3,In Transit
+S1274,China,Danang,Furniture,3100.0,201521.0,Air,2025-04-27,7,Delayed
+S1275,USA,Haiphong,Textiles,3017.0,162195.0,Air,2025-02-12,1,Delayed
+S1276,China,Danang,Furniture,644.0,55013.0,Sea,2025-04-25,4,In Transit
+S1277,India,Ho Chi Minh,Machinery,3841.0,221486.0,Sea,2025-10-10,5,Delivered
+S1278,China,Haiphong,Furniture,562.0,244350.0,Air,2025-02-06,4,In Transit
+S1279,Japan,Cat Lai,Electronics,2370.0,31140.0,Road,2025-10-29,5,In Transit
+S1280,USA,Ho Chi Minh,Machinery,1411.0,268328.0,Sea,2025-04-23,1,Hold
+S1281,USA,Cat Lai,Pharmaceuticals,941.0,160918.0,Air,2025-02-04,4,Delayed
+S1282,India,Danang,Automotive Parts,2241.0,116361.0,Air,2025-05-12,1,Delivered
+S1283,Thailand,Danang,Pharmaceuticals,879.0,158267.0,Road,2025-12-02,5,Delayed
+S1284,Japan,Ho Chi Minh,Textiles,2667.0,272750.0,Sea,2025-12-02,2,In Transit
+S1285,South Korea,Danang,Machinery,3897.0,21555.0,Air,2025-08-16,7,Delivered
+S1286,China,Cat Lai,Machinery,3523.0,95385.0,Road,2025-05-27,4,Delivered
+S1287,Germany,Haiphong,Electronics,1842.0,260658.0,Air,2025-05-02,1,Delivered
+S1288,China,Haiphong,Textiles,1772.0,162419.0,Sea,2025-03-22,6,Delivered
+S1289,Vietnam,Haiphong,Automotive Parts,1558.0,234797.0,Road,2025-06-22,4,Hold
+S1290,China,Ho Chi Minh,Spices,2339.0,,Air,2025-06-03,4,Delivered
+S1291,South Korea,Danang,Machinery,3801.0,96321.0,Road,2025-05-30,4,In Transit
+S1292,China,Cat Lai,Machinery,262.0,199923.0,Sea,2025-02-27,3,Hold
+S1293,Japan,Danang,Electronics,3933.0,103234.0,Road,2025-03-04,1,In Transit
+S1294,Japan,Danang,Furniture,2759.0,232705.0,Sea,2025-06-05,1,In Transit
+S1295,USA,Danang,Toys,1362.0,,Air,2025-12-22,4,Delayed
+S1296,India,Haiphong,Automotive Parts,3969.0,294987.0,Sea,2025-11-18,2,Delivered
+S1297,Thailand,Cat Lai,Pharmaceuticals,3456.0,34793.0,Air,2025-06-17,4,Delivered
+S1298,Germany,Cat Lai,Textiles,1428.0,153929.0,Air,2025-06-15,3,In Transit
+S1299,Vietnam,Danang,Machinery,3019.0,24627.0,Sea,2025-03-26,5,Delivered
+S1300,China,Haiphong,Machinery,3485.0,227633.0,Air,2025-05-17,3,Hold
+S1301,China,Haiphong,Pharmaceuticals,455.0,229440.0,Road,2025-07-08,2,Delayed
+S1302,South Korea,Cat Lai,Automotive Parts,334.0,180188.0,Air,2025-01-02,4,Delivered
+S1303,India,Haiphong,Toys,3844.0,263191.0,Sea,2025-04-16,1,Delivered
+S1304,Japan,Haiphong,Furniture,1074.0,128099.0,Road,2025-12-30,7,Hold
+S1305,Germany,Haiphong,Machinery,1021.0,214074.0,Road,2025-03-13,6,Delayed
+S1306,USA,Ho Chi Minh,Toys,2335.0,178686.0,Air,2025-05-06,4,Hold
+S1307,Japan,Danang,Automotive Parts,3235.0,279864.0,Air,2025-06-19,2,In Transit
+S1308,Vietnam,Cat Lai,Pharmaceuticals,3478.0,112449.0,Sea,2025-07-24,1,In Transit
+S1309,India,Cat Lai,Electronics,3400.0,107828.0,Road,2025-11-09,3,Delivered
+S1310,Vietnam,Ho Chi Minh,Furniture,,131613.0,Sea,2025-12-03,5,Delayed
+S1311,Thailand,Danang,Textiles,3274.0,77095.0,Air,2025-07-14,5,In Transit
+S1312,USA,Cat Lai,Machinery,1173.0,110924.0,Road,2025-06-07,7,Hold
+S1313,Thailand,Haiphong,Automotive Parts,3181.0,101452.0,Sea,2025-05-21,4,In Transit
+S1314,South Korea,Cat Lai,Electronics,1977.0,92593.0,Sea,2025-10-02,3,In Transit
+S1315,Vietnam,Haiphong,Textiles,320.0,171964.0,Sea,2025-01-07,7,Hold
+S1316,South Korea,Ho Chi Minh,Spices,3656.0,131202.0,Sea,2025-02-23,6,Delivered
+S1317,China,Haiphong,Automotive Parts,1837.0,82606.0,Sea,2025-04-14,6,Delayed
+S1318,Thailand,Cat Lai,Automotive Parts,3309.0,128769.0,Road,2025-12-08,7,Delivered
+S1319,India,Cat Lai,Textiles,1564.0,123542.0,Sea,2025-12-04,2,Hold
+S1320,Vietnam,Cat Lai,Electronics,1207.0,4021020.0,Road,2025-03-02,5,In Transit
+S1321,Germany,Ho Chi Minh,Spices,1124.0,56322.0,Sea,2025-03-28,3,Delayed
+S1322,USA,Ho Chi Minh,Toys,844.0,162550.0,Air,2025-09-15,4,Delivered
+S1323,Japan,Danang,Toys,2232.0,76042.0,Air,2025-06-27,1,Hold
+S1324,India,Cat Lai,Pharmaceuticals,2961.0,51418.0,Sea,2025-08-30,4,In Transit
+S1325,India,Haiphong,Electronics,3107.0,105699.0,Air,2025-07-22,4,In Transit
+S1326,South Korea,Ho Chi Minh,Furniture,2268.0,95140.0,Road,2025-01-31,3,Delivered
+S1327,Thailand,Cat Lai,Machinery,441.0,16781.0,Sea,2025-10-16,5,Hold
+S1328,Vietnam,Cat Lai,Textiles,2702.0,102628.0,Road,2025-03-21,3,In Transit
+S1329,Vietnam,Ho Chi Minh,Pharmaceuticals,3210.0,81946.0,Sea,2025-01-11,1,In Transit
+S1330,China,Danang,Spices,2868.0,90058.0,Air,2025-09-11,7,Delayed
+S1331,China,Ho Chi Minh,Textiles,2550.0,156542.0,Road,2025-10-14,3,In Transit
+S1332,USA,Ho Chi Minh,Textiles,1819.0,275675.0,Air,2025-06-25,2,Delivered
+S1333,South Korea,Haiphong,Electronics,3866.0,47674.0,Air,2025-05-06,4,Hold
+S1334,India,Haiphong,Machinery,1002.0,132572.0,Sea,2025-02-16,5,Hold
+S1335,Vietnam,Danang,Furniture,1163.0,230730.0,Road,2025-07-25,6,Delayed
+S1336,Germany,Cat Lai,Toys,268.0,296975.0,Air,2025-04-17,1,Hold
+S1337,South Korea,Ho Chi Minh,Automotive Parts,1352.0,62174.0,Sea,2025-10-02,6,Delivered
+S1338,USA,Danang,Automotive Parts,395.0,278423.0,Sea,2025-12-03,4,In Transit
+S1339,USA,Haiphong,Textiles,2387.0,261008.0,Sea,2025-05-03,3,Delayed
+S1340,South Korea,Ho Chi Minh,Toys,3715.0,58051.0,Air,2025-05-14,6,Hold
+S1341,USA,Cat Lai,Toys,2530.0,208085.0,Sea,2025-04-17,2,Delayed
+S1342,South Korea,Haiphong,Machinery,2559.0,70524.0,Road,2025-11-01,3,Delayed
+S1343,Japan,Haiphong,Spices,945.0,273614.0,Road,2025-11-25,4,Hold
+S1344,South Korea,Haiphong,Spices,3806.0,,Air,2025-02-19,6,Delayed
+S1345,Thailand,Danang,Pharmaceuticals,1888.0,49439.0,Road,2025-12-03,7,Hold
+S1346,South Korea,Cat Lai,Electronics,476.0,281452.0,Sea,2025-04-05,1,Delivered
+S1347,USA,Ho Chi Minh,Machinery,260.0,96563.0,Air,2025-09-25,6,Hold
+S1348,Vietnam,Danang,Machinery,3590.0,232328.0,Sea,2025-01-23,7,In Transit
+S1349,Thailand,Danang,Electronics,2113.0,211314.0,Air,2025-02-23,7,Hold
+S1350,USA,Danang,Toys,2299.0,,Air,2025-09-11,6,In Transit
+S1351,China,Haiphong,Spices,2400.0,240207.0,Sea,2025-08-23,5,Delayed
+S1352,China,Cat Lai,Spices,1972.0,123128.0,Road,2025-02-28,6,Hold
+S1353,Vietnam,Danang,Toys,1534.0,,Road,2025-06-13,4,In Transit
+S1354,Vietnam,Ho Chi Minh,Spices,2037.0,169145.0,Air,2025-09-16,7,Hold
+S1355,Thailand,Cat Lai,Textiles,2791.0,102624.0,Sea,2025-11-10,1,Hold
+S1356,Japan,Ho Chi Minh,Machinery,766.0,194933.0,Sea,2025-08-04,4,Hold
+S1357,Vietnam,Cat Lai,Automotive Parts,3660.0,35063.0,Air,2025-07-02,2,Delivered
+S1358,China,Ho Chi Minh,Electronics,1771.0,74453.0,Road,2025-02-26,3,In Transit
+S1359,South Korea,Haiphong,Spices,821.0,259371.0,Sea,2025-05-25,6,Delivered
+S1360,USA,Danang,Pharmaceuticals,2225.0,107166.0,Road,2025-03-31,5,Delivered
+S1361,China,Ho Chi Minh,Spices,1400.0,19506.0,Road,2025-11-07,1,In Transit
+S1362,China,Cat Lai,Spices,36330.0,230413.0,Air,2025-02-14,5,Hold
+S1363,Japan,Danang,Furniture,513.0,118604.0,Air,2025-09-14,5,Delivered
+S1364,Thailand,Danang,Textiles,3054.0,31026.0,Road,2025-01-21,5,Delivered
+S1365,Thailand,Cat Lai,Electronics,3095.0,260116.0,Sea,2025-01-21,6,Delivered
+S1366,India,Ho Chi Minh,Furniture,2344.0,195285.0,Sea,2025-02-21,1,Hold
+S1367,Japan,Haiphong,Furniture,3128.0,55971.0,Air,2025-12-04,1,Delivered
+S1368,South Korea,Haiphong,Pharmaceuticals,1436.0,118978.0,Road,2025-06-20,7,Delayed
+S1369,Thailand,Ho Chi Minh,Machinery,3076.0,164163.0,Sea,2025-03-08,5,In Transit
+S1370,USA,Danang,Pharmaceuticals,336.0,108864.0,Sea,2025-04-23,7,Delayed
+S1371,Vietnam,Danang,Machinery,1229.0,100386.0,Air,2025-10-27,7,Hold
+S1372,Japan,Danang,Machinery,3258.0,91126.0,Road,2025-06-09,3,Delivered
+S1373,Vietnam,Danang,Electronics,2356.0,167023.0,Sea,2025-09-23,6,In Transit
+S1374,China,Ho Chi Minh,Spices,2794.0,85863.0,Air,2025-11-16,6,Delivered
+S1375,USA,Danang,Electronics,3310.0,130659.0,Sea,2025-08-20,4,Hold
+S1376,USA,Cat Lai,Textiles,861.0,195944.0,Sea,2025-11-21,7,In Transit
+S1377,China,Danang,Machinery,2672.0,12235.0,Sea,2025-03-09,6,Delayed
+S1378,Japan,Haiphong,Furniture,2877.0,67712.0,Air,2025-01-28,5,In Transit
+S1379,China,Danang,Spices,2508.0,157545.0,Road,2025-04-26,2,Delivered
+S1380,Vietnam,Ho Chi Minh,Automotive Parts,3697.0,203639.0,Air,2025-02-20,5,In Transit
+S1381,India,Haiphong,Textiles,286.0,242890.0,Road,2025-06-30,1,Hold
+S1382,USA,Ho Chi Minh,Electronics,2712.0,130849.0,Sea,2025-09-17,6,Hold
+S1383,Germany,Ho Chi Minh,Pharmaceuticals,2323.0,260493.0,Road,2025-03-20,6,In Transit
+S1384,Germany,Haiphong,Textiles,2718.0,84823.0,Sea,2025-09-30,4,Hold
+S1385,Vietnam,Ho Chi Minh,Textiles,2661.0,109215.0,Sea,2025-04-18,7,Hold
+S1386,South Korea,Ho Chi Minh,Spices,3072.0,246071.0,Air,2025-03-15,2,Hold
+S1387,Thailand,Danang,Textiles,3142.0,37230.0,Sea,2025-06-24,6,Delayed
+S1388,China,Cat Lai,Textiles,2973.0,228660.0,Air,2025-07-03,4,Delivered
+S1389,China,Ho Chi Minh,Automotive Parts,2704.0,184736.0,Road,2025-01-23,4,Hold
+S1390,South Korea,Ho Chi Minh,Toys,1508.0,128246.0,Road,2025-10-01,2,In Transit
+S1391,South Korea,Ho Chi Minh,Pharmaceuticals,3510.0,89817.0,Sea,2025-05-09,5,Hold
+S1392,Vietnam,Danang,Pharmaceuticals,1900.0,243657.0,Air,2025-10-18,5,Delayed
+S1393,Vietnam,Cat Lai,Pharmaceuticals,3870.0,222033.0,Sea,2025-11-16,5,In Transit
+S1394,South Korea,Haiphong,Machinery,2900.0,236414.0,Air,2025-07-05,3,Delivered
+S1395,USA,Danang,Furniture,2919.0,261812.0,Air,2025-02-28,7,In Transit
+S1396,Vietnam,Danang,Toys,3829.0,75219.0,Air,2025-01-01,7,In Transit
+S1397,India,Cat Lai,Pharmaceuticals,3643.0,175956.0,Road,2025-05-11,5,In Transit
+S1398,Vietnam,Cat Lai,Textiles,694.0,262134.0,Air,2025-03-08,2,In Transit
+S1399,China,Danang,Textiles,1847.0,26650.0,Road,2025-10-20,3,Hold
+S1400,Vietnam,Haiphong,Pharmaceuticals,2142.0,175521.0,Air,2025-10-12,7,Delivered
+S1401,USA,Danang,Spices,1268.0,2635995.0,Road,2025-03-30,5,Hold
+S1402,South Korea,Cat Lai,Pharmaceuticals,1624.0,296853.0,Road,2025-04-10,3,Delayed
+S1403,China,Haiphong,Textiles,3518.0,247037.0,Road,2025-07-08,2,Delayed
+S1404,Vietnam,Cat Lai,Machinery,3887.0,85428.0,Sea,2025-12-12,5,In Transit
+S1405,USA,Haiphong,Electronics,796.0,211251.0,Air,2025-08-29,1,Hold
+S1406,India,Ho Chi Minh,Electronics,649.0,14943.0,Sea,2025-09-27,6,Hold
+S1407,Vietnam,Cat Lai,Toys,684.0,179312.0,Air,2025-08-07,2,Delivered
+S1408,USA,Cat Lai,Toys,845.0,26042.0,Air,2025-06-25,4,Delivered
+S1409,India,Danang,Pharmaceuticals,2867.0,257842.0,Sea,2025-12-07,4,Delivered
+S1410,South Korea,Cat Lai,Automotive Parts,3289.0,191443.0,Road,2025-08-21,2,Hold
+S1411,Vietnam,Cat Lai,Pharmaceuticals,1829.0,156990.0,Air,2025-05-31,4,Delivered
+S1412,India,Ho Chi Minh,Spices,861.0,295523.0,Road,2025-10-04,7,Delivered
+S1413,China,Cat Lai,Pharmaceuticals,957.0,219304.0,Sea,2025-08-17,2,Delivered
+S1414,South Korea,Ho Chi Minh,Toys,488.0,149923.0,Road,2025-06-20,1,In Transit
+S1415,China,Ho Chi Minh,Electronics,3685.0,206904.0,Air,2025-08-11,2,Delayed
+S1416,Germany,Ho Chi Minh,Textiles,920.0,192428.0,Air,2025-08-01,5,Delayed
+S1417,Japan,Ho Chi Minh,Pharmaceuticals,837.0,150817.0,Air,2025-10-09,5,Hold
+S1418,Vietnam,Haiphong,Textiles,2482.0,10730.0,Sea,2025-02-10,3,Hold
+S1419,India,Danang,Textiles,2663.0,234502.0,Air,2025-05-02,4,In Transit
+S1420,Japan,Haiphong,Automotive Parts,3185.0,207210.0,Sea,2025-08-15,6,Delayed
+S1421,Japan,Cat Lai,Textiles,698.0,219183.0,Road,2025-10-21,4,Delivered
+S1422,India,Haiphong,Electronics,3221.0,24023.0,Air,2025-03-29,7,Delivered
+S1423,South Korea,Haiphong,Machinery,833.0,,Air,2025-09-24,2,Hold
+S1424,Vietnam,Cat Lai,Machinery,1873.0,289981.0,Air,2025-01-29,6,Delayed
+S1425,Germany,Cat Lai,Furniture,2230.0,181111.0,Road,2025-09-04,6,Hold
+S1426,China,Cat Lai,Spices,3267.0,25923.0,Air,2025-11-12,4,Hold
+S1427,USA,Haiphong,Pharmaceuticals,314.0,276020.0,Sea,2025-09-01,6,Delivered
+S1428,China,Haiphong,Spices,3179.0,199795.0,Road,2025-03-02,6,Delivered
+S1429,USA,Cat Lai,Electronics,873.0,238462.0,Road,2025-05-27,5,Delayed
+S1430,China,Danang,Textiles,1936.0,56413.0,Road,2025-06-23,1,Hold
+S1431,India,Danang,Machinery,1457.0,260719.0,Road,2025-10-05,2,In Transit
+S1432,Germany,Ho Chi Minh,Spices,3811.0,33756.0,Road,2025-11-30,4,Delayed
+S1433,Vietnam,Cat Lai,Electronics,3282.0,123248.0,Sea,2025-05-22,5,Hold
+S1434,USA,Ho Chi Minh,Machinery,2453.0,277448.0,Road,2025-02-13,7,Delayed
+S1435,Vietnam,Danang,Textiles,3950.0,35341.0,Air,2025-05-24,7,Delayed
+S1436,Vietnam,Ho Chi Minh,Spices,2494.0,132039.0,Road,2025-12-19,3,Delayed
+S1437,Vietnam,Cat Lai,Machinery,3830.0,196830.0,Road,2025-11-29,6,In Transit
+S1438,Thailand,Cat Lai,Pharmaceuticals,3005.0,167730.0,Road,2025-02-24,6,In Transit
+S1439,South Korea,Cat Lai,Toys,3398.0,185074.0,Road,2025-11-03,4,Delivered
+S1440,China,Haiphong,Pharmaceuticals,346.0,239390.0,Road,2025-12-24,1,Delivered
+S1441,Vietnam,Ho Chi Minh,Furniture,2365.0,137447.0,Sea,2025-06-10,1,Hold
+S1442,China,Danang,Furniture,3653.0,104485.0,Sea,2025-10-12,4,Delayed
+S1443,Vietnam,Danang,Machinery,611.0,289236.0,Road,2025-11-21,4,Hold
+S1444,USA,Danang,Toys,1887.0,136562.0,Sea,2025-07-17,5,Delivered
+S1445,South Korea,Haiphong,Electronics,3855.0,8729.0,Air,2025-06-08,7,In Transit
+S1446,South Korea,Haiphong,Pharmaceuticals,,142046.0,Road,2025-03-21,4,Delivered
+S1447,India,Cat Lai,Electronics,1732.0,123222.0,Air,2025-01-31,7,Hold
+S1448,Thailand,Danang,Toys,336.0,88860.0,Air,2025-04-22,3,Delivered
+S1449,India,Haiphong,Electronics,3446.0,263360.0,Road,2025-02-15,7,Hold
+S1450,India,Cat Lai,Toys,3560.0,26398.0,Air,2025-12-19,5,Hold
+S1451,India,Danang,Machinery,3205.0,108889.0,Air,2025-07-24,6,Hold
+S1452,India,Ho Chi Minh,Electronics,3752.0,270303.0,Air,2025-02-21,6,Hold
+S1453,India,Cat Lai,Pharmaceuticals,218.0,230959.0,Road,2025-05-18,7,Delivered
+S1454,Germany,Haiphong,Textiles,2442.0,107834.0,Road,2025-03-15,6,Hold
+S1455,South Korea,Haiphong,Furniture,2577.0,26638.0,Air,2025-02-10,6,Hold
+S1456,India,Cat Lai,Textiles,2159.0,268217.0,Road,2025-03-18,2,Delayed
+S1457,Vietnam,Cat Lai,Electronics,2422.0,220379.0,Road,2025-07-06,3,Hold
+S1458,South Korea,Haiphong,Textiles,1201.0,237069.0,Air,2025-02-21,5,Delivered
+S1459,South Korea,Ho Chi Minh,Pharmaceuticals,648.0,34320.0,Road,2025-03-28,5,Hold
+S1460,Japan,Danang,Pharmaceuticals,2148.0,39924.0,Sea,2025-04-19,6,In Transit
+S1461,Germany,Ho Chi Minh,Electronics,1145.0,217792.0,Road,2025-08-13,1,In Transit
+S1462,India,Cat Lai,Machinery,1577.0,176097.0,Sea,2025-09-05,5,Hold
+S1463,China,Ho Chi Minh,Textiles,1722.0,7159.0,Air,2025-03-10,3,In Transit
+S1464,USA,Haiphong,Machinery,340.0,53940.0,Road,2025-04-30,4,In Transit
+S1465,Thailand,Cat Lai,Machinery,3005.0,84436.0,Air,2025-03-08,3,Delivered
+S1466,Vietnam,Danang,Toys,2120.0,19678.0,Air,2025-03-02,6,Delayed
+S1467,China,Haiphong,Automotive Parts,3177.0,197147.0,Air,2025-11-23,6,In Transit
+S1468,Germany,Haiphong,Electronics,292.0,142844.0,Air,2025-07-10,2,In Transit
+S1469,USA,Danang,Furniture,438.0,72163.0,Air,2025-07-08,7,Delayed
+S1470,Germany,Danang,Pharmaceuticals,404.0,246040.0,Road,2025-05-31,5,Delayed
+S1471,Vietnam,Ho Chi Minh,Pharmaceuticals,2807.0,209827.0,Sea,2025-10-13,7,In Transit
+S1472,South Korea,Cat Lai,Electronics,1656.0,159536.0,Road,2025-04-06,7,Hold
+S1473,USA,Danang,Toys,444.0,56137.0,Road,2025-11-08,5,In Transit
+S1474,South Korea,Danang,Spices,1031.0,105485.0,Road,2025-11-05,5,Hold
+S1475,Vietnam,Cat Lai,Spices,3588.0,245970.0,Road,2025-09-20,6,Hold
+S1476,China,Danang,Spices,3172.0,110468.0,Sea,2025-04-07,5,Hold
+S1477,Vietnam,Danang,Toys,494.0,5901.0,Road,2025-04-23,1,Delayed
+S1478,China,Ho Chi Minh,Furniture,2887.0,92980.0,Air,2025-05-05,1,In Transit
+S1479,USA,Haiphong,Pharmaceuticals,1055.0,270025.0,Road,2025-05-12,4,In Transit
+S1480,USA,Haiphong,Electronics,3553.0,297007.0,Road,2025-05-01,5,Delivered
+S1481,India,Haiphong,Toys,2264.0,247434.0,Sea,2025-07-16,2,Delayed
+S1482,Germany,Haiphong,Pharmaceuticals,270.0,207258.0,Sea,2025-10-21,4,Delivered
+S1483,India,Danang,Machinery,1492.0,256839.0,Air,2025-05-02,6,Delivered
+S1484,Germany,Cat Lai,Textiles,,77572.0,Road,2025-10-09,5,Hold
+S1485,India,Cat Lai,Textiles,504.0,44255.0,Road,2025-09-17,1,Delayed
+S1486,South Korea,Ho Chi Minh,Toys,3722.0,68212.0,Road,2025-02-08,2,Delivered
+S1487,USA,Ho Chi Minh,Pharmaceuticals,1230.0,27499.0,Air,2025-02-23,4,In Transit
+S1488,China,Danang,Automotive Parts,1537.0,107552.0,Sea,2025-06-10,2,Delivered
+S1489,Germany,Cat Lai,Furniture,1016.0,66360.0,Air,2025-10-16,5,Delayed
+S1490,Vietnam,Cat Lai,Spices,1326.0,148704.0,Road,2025-07-19,3,In Transit
+S1491,Germany,Haiphong,Furniture,1020.0,166679.0,Sea,2025-10-03,2,In Transit
+S1492,China,Danang,Furniture,392.0,96873.0,Sea,2025-01-16,2,In Transit
+S1493,India,Danang,Toys,1976.0,70756.0,Air,2025-06-22,6,Hold
+S1494,Germany,Haiphong,Machinery,3845.0,199454.0,Sea,2025-09-05,1,In Transit
+S1495,Thailand,Danang,Furniture,7280.0,32464.0,Sea,2025-08-06,5,Hold
+S1496,South Korea,Danang,Textiles,2418.0,126897.0,Road,2025-03-28,2,Hold
+S1497,USA,Ho Chi Minh,Machinery,3808.0,88791.0,Road,2025-03-23,5,Delivered
+S1498,China,Cat Lai,Electronics,450.0,160371.0,Sea,2025-03-03,1,Delivered
+S1499,USA,Danang,Furniture,1988.0,184047.0,Sea,2025-10-14,6,In Transit
+S1500,Thailand,Ho Chi Minh,Furniture,3658.0,,Air,2025-02-11,5,Delayed
+S1501,Germany,Cat Lai,Electronics,3478.0,86441.0,Air,2025-01-12,7,In Transit
+S1502,Germany,Haiphong,Furniture,2788.0,242612.0,Sea,2025-11-17,1,Delivered
+S1503,Vietnam,Ho Chi Minh,Electronics,3900.0,236444.0,Road,2025-08-22,1,In Transit
+S1504,Thailand,Ho Chi Minh,Machinery,2226.0,281319.0,Sea,2025-11-25,4,Delivered
+S1505,China,Cat Lai,Textiles,2663.0,142263.0,Sea,2025-05-11,6,In Transit
+S1506,Vietnam,Haiphong,Electronics,3041.0,89518.0,Road,2025-04-25,6,Delayed
+S1507,South Korea,Ho Chi Minh,Automotive Parts,1603.0,216230.0,Road,2025-08-06,7,In Transit
+S1508,Vietnam,Danang,Toys,1367.0,52645.0,Air,2025-05-17,5,Delayed
+S1509,Japan,Danang,Toys,2272.0,244608.0,Air,2025-04-16,3,Delayed
+S1510,China,Danang,Electronics,2915.0,28283.0,Air,2025-06-28,7,In Transit
+S1511,Japan,Haiphong,Toys,1296.0,195195.0,Air,2025-01-16,4,Delayed
+S1512,Thailand,Ho Chi Minh,Furniture,2879.0,107780.0,Road,2025-08-30,6,Delayed
+S1513,India,Danang,Spices,2047.0,,Sea,2025-11-30,1,Delivered
+S1514,Japan,Haiphong,Spices,3364.0,5515.0,Air,2025-08-14,6,Delivered
+S1515,South Korea,Danang,Toys,704.0,233872.0,Air,2025-08-30,7,Delayed
+S1516,Vietnam,Cat Lai,Machinery,1821.0,63755.0,Road,2025-05-21,3,Hold
+S1517,India,Ho Chi Minh,Pharmaceuticals,2583.0,32856.0,Road,2025-07-18,2,In Transit
+S1518,Vietnam,Ho Chi Minh,Machinery,2672.0,78870.0,Sea,2025-04-22,2,Delayed
+S1519,Japan,Haiphong,Pharmaceuticals,2746.0,142080.0,Sea,2025-05-07,6,In Transit
+S1520,Vietnam,Haiphong,Spices,1587.0,275131.0,Road,2025-01-21,6,Delivered
+S1521,Thailand,Ho Chi Minh,Spices,3194.0,101502.0,Air,2025-05-27,4,In Transit
+S1522,India,Danang,Electronics,2877.0,71323.0,Air,2025-03-30,6,Delayed
+S1523,Thailand,Danang,Textiles,,277017.0,Air,2025-10-30,3,Delayed
+S1524,Japan,Cat Lai,Automotive Parts,917.0,218614.0,Sea,2025-07-22,6,Delayed
+S1525,Thailand,Danang,Machinery,3684.0,172516.0,Air,2025-03-26,5,Delayed
+S1526,South Korea,Haiphong,Furniture,538.0,110219.0,Air,2025-06-16,7,Hold
+S1527,Japan,Haiphong,Pharmaceuticals,858.0,10033.0,Road,2025-03-13,3,Hold
+S1528,Japan,Danang,Toys,,282833.0,Air,2025-10-25,4,Hold
+S1529,Japan,Haiphong,Furniture,628.0,114756.0,Road,2025-01-09,5,Delayed
+S1530,China,Ho Chi Minh,Textiles,1098.0,267210.0,Air,2025-10-08,5,Hold
+S1531,Vietnam,Ho Chi Minh,Pharmaceuticals,3380.0,119159.0,Sea,2025-09-15,7,In Transit
+S1532,China,Danang,Machinery,3964.0,181318.0,Air,2025-10-02,2,Delayed
+S1533,China,Ho Chi Minh,Electronics,3189.0,12533.0,Air,2025-08-26,3,Delivered
+S1534,South Korea,Ho Chi Minh,Furniture,741.0,206224.0,Road,2025-01-20,7,Delayed
+S1535,India,Cat Lai,Textiles,2304.0,247653.0,Road,2025-08-21,5,In Transit
+S1536,Vietnam,Cat Lai,Machinery,1455.0,114028.0,Road,2025-08-09,4,Hold
+S1537,Thailand,Ho Chi Minh,Spices,2905.0,278916.0,Air,2025-11-22,7,Delayed
+S1538,Germany,Danang,Spices,2682.0,255231.0,Air,2025-01-17,2,Hold
+S1539,Japan,Cat Lai,Machinery,583.0,17940.0,Sea,2025-03-30,5,Delayed
+S1540,Thailand,Haiphong,Machinery,2807.0,21932.0,Air,2025-07-15,7,In Transit
+S1541,Japan,Haiphong,Machinery,393.0,231377.0,Sea,2025-12-16,3,Delayed
+S1542,South Korea,Haiphong,Pharmaceuticals,3919.0,29648.0,Road,2025-03-25,2,Hold
+S1543,Japan,Danang,Machinery,2781.0,37966.0,Road,2025-03-28,3,Hold
+S1544,China,Ho Chi Minh,Furniture,,260733.0,Road,2025-11-03,3,In Transit
+S1545,Vietnam,Haiphong,Textiles,2963.0,168639.0,Sea,2025-12-04,3,Delayed
+S1546,Germany,Danang,Pharmaceuticals,2998.0,251331.0,Air,2025-06-03,7,Delivered
+S1547,USA,Cat Lai,Machinery,2432.0,713970.0,Road,2025-08-16,2,Delayed
+S1548,Japan,Ho Chi Minh,Automotive Parts,2095.0,195271.0,Air,2025-09-21,7,In Transit
+S1549,Thailand,Cat Lai,Toys,2539.0,180309.0,Air,2025-08-11,7,Delivered
+S1550,China,Danang,Automotive Parts,3606.0,201569.0,Road,2025-05-01,7,In Transit
+S1551,USA,Haiphong,Textiles,931.0,136250.0,Sea,2025-06-22,5,Delayed
+S1552,Germany,Haiphong,Spices,2363.0,253004.0,Air,2025-01-04,6,Delivered
+S1553,USA,Danang,Electronics,3072.0,22118.0,Road,2025-12-08,1,In Transit
+S1554,China,Haiphong,Electronics,3320.0,27616.0,Air,2025-05-08,5,Hold
+S1555,Vietnam,Ho Chi Minh,Toys,884.0,136870.0,Air,2025-04-20,2,Delivered
+S1556,Vietnam,Danang,Spices,281.0,274745.0,Air,2025-12-21,1,Delivered
+S1557,India,Cat Lai,Pharmaceuticals,3081.0,292507.0,Air,2025-02-06,1,In Transit
+S1558,Vietnam,Danang,Pharmaceuticals,2580.0,7795.0,Air,2025-03-12,1,Hold
+S1559,India,Ho Chi Minh,Pharmaceuticals,2804.0,102462.0,Sea,2025-10-16,6,Delivered
+S1560,USA,Ho Chi Minh,Electronics,2582.0,270228.0,Sea,2025-01-31,7,In Transit
+S1561,South Korea,Danang,Automotive Parts,731.0,267875.0,Road,2025-09-25,4,Delivered
+S1562,Thailand,Danang,Electronics,2183.0,137201.0,Sea,2025-01-11,2,Delivered
+S1563,Thailand,Haiphong,Furniture,420.0,164094.0,Sea,2025-12-10,6,Delivered
+S1564,USA,Ho Chi Minh,Machinery,834.0,,Sea,2025-11-24,6,Hold
+S1565,Japan,Danang,Pharmaceuticals,1969.0,82506.0,Air,2025-02-01,4,Delayed
+S1566,Japan,Danang,Automotive Parts,2570.0,245313.0,Air,2025-02-26,1,Delayed
+S1567,Vietnam,Ho Chi Minh,Textiles,2074.0,49130.0,Road,2025-06-15,7,Hold
+S1568,Thailand,Danang,Toys,,168402.0,Road,2025-07-07,4,Hold
+S1569,Thailand,Haiphong,Textiles,1917.0,151259.0,Road,2025-12-08,4,In Transit
+S1570,India,Ho Chi Minh,Machinery,405.0,206682.0,Air,2025-01-19,6,Delivered
+S1571,South Korea,Haiphong,Automotive Parts,2055.0,228034.0,Sea,2025-04-26,2,Hold
+S1572,China,Haiphong,Electronics,239.0,104694.0,Sea,2025-07-03,3,In Transit
+S1573,Japan,Haiphong,Electronics,2306.0,24773.0,Air,2025-09-27,7,Delayed
+S1574,Thailand,Haiphong,Furniture,3198.0,271383.0,Road,2025-02-02,4,Delayed
+S1575,India,Ho Chi Minh,Furniture,2821.0,288007.0,Road,2025-01-10,7,Delayed
+S1576,Germany,Haiphong,Electronics,843.0,73968.0,Road,2025-03-21,4,Delayed
+S1577,India,Haiphong,Textiles,1730.0,65430.0,Air,2025-07-11,1,In Transit
+S1578,Japan,Danang,Toys,3843.0,255072.0,Road,2025-11-16,7,Delivered
+S1579,Japan,Ho Chi Minh,Pharmaceuticals,2107.0,6515.0,Road,2025-07-09,1,In Transit
+S1580,India,Ho Chi Minh,Textiles,3090.0,1533090.0,Air,2025-03-09,6,Delivered
+S1581,China,Cat Lai,Toys,3393.0,250282.0,Sea,2025-12-14,1,Delayed
+S1582,USA,Ho Chi Minh,Furniture,3750.0,240702.0,Air,2025-05-05,7,Hold
+S1583,Japan,Ho Chi Minh,Machinery,2866.0,158790.0,Air,2025-12-02,5,Hold
+S1584,India,Cat Lai,Toys,2343.0,250277.0,Air,2025-02-28,7,Hold
+S1585,Thailand,Ho Chi Minh,Electronics,3685.0,36186.0,Air,2025-04-07,4,Delivered
+S1586,India,Ho Chi Minh,Furniture,3506.0,31928.0,Sea,2025-10-02,1,Delayed
+S1587,South Korea,Ho Chi Minh,Furniture,1097.0,234336.0,Road,2025-05-29,2,In Transit
+S1588,USA,Ho Chi Minh,Pharmaceuticals,1285.0,219159.0,Air,2025-10-05,5,Hold
+S1589,Germany,Cat Lai,Electronics,1479.0,25711.0,Sea,2025-09-22,6,Delivered
+S1590,China,Ho Chi Minh,Pharmaceuticals,2808.0,59962.0,Road,2025-01-09,3,Hold
+S1591,Vietnam,Ho Chi Minh,Electronics,3152.0,,Road,2025-10-10,4,In Transit
+S1592,Germany,Cat Lai,Pharmaceuticals,2595.0,41561.0,Road,2025-09-30,4,Delayed
+S1593,USA,Danang,Toys,870.0,,Air,2025-10-28,2,In Transit
+S1594,USA,Haiphong,Textiles,3395.0,224730.0,Air,2025-01-08,3,Delayed
+S1595,USA,Danang,Machinery,1705.0,6577.0,Road,2025-07-27,3,Delayed
+S1596,Germany,Cat Lai,Machinery,2564.0,,Road,2025-05-05,6,Delayed
+S1597,Thailand,Haiphong,Electronics,3775.0,252980.0,Road,2025-05-03,6,Hold
+S1598,USA,Cat Lai,Automotive Parts,918.0,243540.0,Road,2025-02-02,5,In Transit
+S1599,India,Cat Lai,Spices,1271.0,233506.0,Road,2025-01-01,4,Hold
+S1600,Germany,Ho Chi Minh,Furniture,3680.0,217489.0,Road,2025-07-23,1,In Transit
+S1601,Vietnam,Haiphong,Furniture,2155.0,15785.0,Sea,2025-01-06,6,Delivered
+S1602,USA,Ho Chi Minh,Electronics,1359.0,77227.0,Road,2025-10-24,2,Delivered
+S1603,India,Haiphong,Toys,,70431.0,Air,2025-01-05,2,In Transit
+S1604,Thailand,Cat Lai,Pharmaceuticals,449.0,,Air,2025-03-21,2,In Transit
+S1605,South Korea,Cat Lai,Automotive Parts,2561.0,199844.0,Air,2025-10-01,7,In Transit
+S1606,Thailand,Danang,Textiles,2092.0,155653.0,Road,2025-06-26,6,In Transit
+S1607,Vietnam,Haiphong,Pharmaceuticals,3639.0,268606.0,Air,2025-12-04,6,Delayed
+S1608,USA,Ho Chi Minh,Pharmaceuticals,3700.0,200245.0,Sea,2025-11-17,2,Hold
+S1609,Vietnam,Danang,Electronics,,180486.0,Road,2025-12-05,6,Delayed
+S1610,Germany,Danang,Electronics,3054.0,77573.0,Air,2025-05-16,7,Hold
+S1611,Japan,Danang,Toys,1703.0,229737.0,Sea,2025-01-25,1,Hold
+S1612,USA,Ho Chi Minh,Furniture,3585.0,124682.0,Sea,2025-11-21,1,Hold
+S1613,Japan,Danang,Electronics,3771.0,18386.0,Air,2025-07-02,5,Delayed
+S1614,India,Ho Chi Minh,Electronics,3992.0,59460.0,Sea,2025-06-17,4,In Transit
+S1615,South Korea,Danang,Electronics,3626.0,120375.0,Air,2025-12-04,1,Delayed
+S1616,China,Ho Chi Minh,Toys,2732.0,157117.0,Sea,2025-06-27,5,Delayed
+S1617,Vietnam,Cat Lai,Furniture,1434.0,121582.0,Road,2025-04-05,3,Hold
+S1618,Thailand,Cat Lai,Textiles,3975.0,248015.0,Road,2025-02-02,4,Delivered
+S1619,South Korea,Cat Lai,Textiles,243.0,,Road,2025-04-21,1,Delivered
+S1620,USA,Cat Lai,Spices,3812.0,57335.0,Road,2025-05-26,7,Delayed
+S1621,Japan,Cat Lai,Spices,2818.0,234087.0,Road,2025-08-19,3,Hold
+S1622,Thailand,Danang,Electronics,782.0,57949.0,Air,2025-09-29,5,Delayed
+S1623,Japan,Danang,Spices,3363.0,100558.0,Road,2025-12-02,1,Delayed
+S1624,Germany,Danang,Furniture,1488.0,269860.0,Road,2025-02-07,1,In Transit
+S1625,Japan,Ho Chi Minh,Toys,3142.0,152646.0,Road,2025-05-15,6,Hold
+S1626,Germany,Ho Chi Minh,Textiles,419.0,247887.0,Road,2025-11-30,3,Delivered
+S1627,India,Ho Chi Minh,Pharmaceuticals,2125.0,197898.0,Sea,2025-08-23,1,Delivered
+S1628,Thailand,Ho Chi Minh,Textiles,3172.0,156285.0,Road,2025-11-15,2,Delivered
+S1629,Thailand,Cat Lai,Textiles,3713.0,76916.0,Road,2025-12-11,7,Delayed
+S1630,China,Cat Lai,Furniture,2648.0,202223.0,Air,2025-06-09,6,Hold
+S1631,USA,Cat Lai,Spices,3671.0,264590.0,Sea,2025-02-07,6,In Transit
+S1632,Germany,Haiphong,Pharmaceuticals,2974.0,253090.0,Air,2025-05-30,1,Delivered
+S1633,China,Danang,Furniture,1190.0,55906.0,Road,2025-11-04,7,Hold
+S1634,Japan,Ho Chi Minh,Electronics,3146.0,267607.0,Air,2025-01-29,6,Delivered
+S1635,Japan,Ho Chi Minh,Toys,2012.0,79694.0,Air,2025-05-24,4,In Transit
+S1636,China,Cat Lai,Machinery,3847.0,287152.0,Road,2025-03-17,3,Hold
+S1637,Thailand,Ho Chi Minh,Textiles,1057.0,75474.0,Sea,2025-05-25,4,Delayed
+S1638,Japan,Ho Chi Minh,Machinery,1003.0,43185.0,Sea,2025-08-17,5,Delayed
+S1639,Vietnam,Danang,Toys,689.0,267048.0,Air,2025-03-05,4,Delivered
+S1640,India,Cat Lai,Toys,3756.0,261574.0,Road,2025-12-13,7,Delivered
+S1641,India,Danang,Furniture,1980.0,207211.0,Air,2025-12-11,2,Hold
+S1642,Vietnam,Haiphong,Furniture,1693.0,27504.0,Air,2025-09-26,6,In Transit
+S1643,China,Haiphong,Furniture,3845.0,59970.0,Air,2025-11-24,7,Delivered
+S1644,Vietnam,Haiphong,Machinery,3185.0,283910.0,Road,2025-07-03,6,Hold
+S1645,Germany,Cat Lai,Furniture,3091.0,121944.0,Road,2025-09-18,2,In Transit
+S1646,Germany,Ho Chi Minh,Toys,1905.0,178615.0,Sea,2025-09-25,6,Delivered
+S1647,China,Cat Lai,Electronics,3716.0,,Road,2025-06-18,4,Delivered
+S1648,Vietnam,Cat Lai,Furniture,3540.0,125494.0,Air,2025-09-16,5,Hold
+S1649,Germany,Ho Chi Minh,Automotive Parts,2514.0,239941.0,Air,2025-08-15,1,Delivered
+S1650,Thailand,Danang,Spices,253.0,13802.0,Sea,2025-02-02,2,Delayed
+S1651,Vietnam,Haiphong,Machinery,2775.0,176277.0,Road,2025-08-02,4,In Transit
+S1652,Thailand,Danang,Automotive Parts,3791.0,16516.0,Air,2025-02-19,7,In Transit
+S1653,Germany,Haiphong,Furniture,815.0,296230.0,Sea,2025-07-29,4,Delayed
+S1654,India,Cat Lai,Toys,1282.0,118758.0,Sea,2025-01-29,4,Hold
+S1655,Germany,Haiphong,Electronics,2048.0,,Air,2025-02-08,1,Delayed
+S1656,Thailand,Cat Lai,Textiles,3311.0,188163.0,Air,2025-12-13,3,Delayed
+S1657,South Korea,Danang,Pharmaceuticals,3508.0,133023.0,Road,2025-04-10,6,In Transit
+S1658,USA,Cat Lai,Spices,1154.0,183838.0,Sea,2025-06-22,6,Hold
+S1659,Japan,Danang,Pharmaceuticals,2633.0,276409.0,Air,2025-01-17,7,Delivered
+S1660,Vietnam,Ho Chi Minh,Furniture,,119165.0,Sea,2025-02-25,5,Delayed
+S1661,South Korea,Ho Chi Minh,Spices,2981.0,124501.0,Road,2025-08-14,7,Delayed
+S1662,Germany,Ho Chi Minh,Spices,2963.0,254329.0,Air,2025-02-15,3,Hold
+S1663,India,Cat Lai,Electronics,849.0,282530.0,Road,2025-03-08,6,Delayed
+S1664,China,Ho Chi Minh,Spices,2547.0,126635.0,Sea,2025-07-16,5,Hold
+S1665,Germany,Haiphong,Machinery,594.0,179326.0,Road,2025-05-22,7,Delivered
+S1666,India,Danang,Automotive Parts,3478.0,225935.0,Road,2025-11-19,5,Hold
+S1667,USA,Danang,Automotive Parts,1559.0,58634.0,Sea,2025-01-23,4,Delivered
+S1668,Germany,Haiphong,Automotive Parts,2840.0,183734.0,Road,2025-04-04,2,Hold
+S1669,Thailand,Cat Lai,Machinery,2761.0,239856.0,Sea,2025-08-30,4,Delayed
+S1670,China,Cat Lai,Pharmaceuticals,3449.0,223599.0,Air,2025-08-25,1,Delivered
+S1671,India,Danang,Electronics,2643.0,242919.0,Sea,2025-02-23,6,Delayed
+S1672,India,Ho Chi Minh,Spices,570.0,72443.0,Sea,2025-05-18,5,Delivered
+S1673,India,Cat Lai,Machinery,1057.0,296568.0,Air,2025-11-29,7,Hold
+S1674,USA,Cat Lai,Automotive Parts,990.0,46505.0,Sea,2025-09-29,2,Hold
+S1675,Germany,Haiphong,Furniture,857.0,107478.0,Air,2025-02-10,7,Hold
+S1676,USA,Haiphong,Textiles,3589.0,67699.0,Air,2025-04-08,6,In Transit
+S1677,Vietnam,Ho Chi Minh,Spices,2983.0,159721.0,Sea,2025-07-02,5,In Transit
+S1678,Japan,Cat Lai,Machinery,1592.0,141668.0,Road,2025-05-08,5,Delivered
+S1679,Japan,Cat Lai,Toys,583.0,283518.0,Road,2025-08-17,4,In Transit
+S1680,Vietnam,Haiphong,Machinery,,123686.0,Air,2025-11-13,2,Hold
+S1681,Germany,Cat Lai,Electronics,2752.0,270919.0,Road,2025-03-27,2,In Transit
+S1682,Thailand,Danang,Electronics,438.0,294532.0,Road,2025-09-13,6,In Transit
+S1683,USA,Haiphong,Machinery,394.0,288173.0,Sea,2025-07-28,5,Delayed
+S1684,China,Ho Chi Minh,Automotive Parts,2925.0,88981.0,Air,2025-08-03,2,Delivered
+S1685,India,Haiphong,Textiles,3493.0,119010.0,Air,2025-04-10,2,Delivered
+S1686,India,Cat Lai,Spices,2308.0,36105.0,Sea,2025-02-18,7,Delivered
+S1687,Germany,Ho Chi Minh,Electronics,1352.0,,Road,2025-07-20,6,In Transit
+S1688,Thailand,Haiphong,Spices,3237.0,152032.0,Air,2025-09-15,4,Hold
+S1689,Japan,Danang,Automotive Parts,2932.0,131519.0,Road,2025-06-27,7,Delayed
+S1690,Japan,Danang,Spices,2215.0,147429.0,Air,2025-09-02,7,Delivered
+S1691,India,Haiphong,Furniture,,282948.0,Air,2025-05-03,3,In Transit
+S1692,Germany,Danang,Electronics,3649.0,132732.0,Air,2025-12-08,1,Hold
+S1693,USA,Danang,Automotive Parts,3893.0,150698.0,Air,2025-06-20,3,Delayed
+S1694,Japan,Danang,Automotive Parts,1122.0,164204.0,Road,2025-11-29,2,Delayed
+S1695,USA,Ho Chi Minh,Textiles,3115.0,275095.0,Road,2025-05-16,5,Delivered
+S1696,Thailand,Danang,Textiles,3150.0,286209.0,Road,2025-02-28,1,Delivered
+S1697,Japan,Danang,Furniture,1809.0,110072.0,Road,2025-07-12,1,Hold
+S1698,Japan,Danang,Automotive Parts,3246.0,145202.0,Sea,2025-09-25,5,In Transit
+S1699,South Korea,Ho Chi Minh,Pharmaceuticals,3708.0,94360.0,Air,2025-09-17,1,Hold
+S1700,Japan,Haiphong,Automotive Parts,1174.0,67287.0,Air,2025-04-05,5,Delivered
+S1701,Vietnam,Cat Lai,Textiles,1430.0,243009.0,Air,2025-05-05,1,Hold
+S1702,China,Danang,Pharmaceuticals,2635.0,187774.0,Sea,2025-02-10,7,In Transit
+S1703,Vietnam,Haiphong,Electronics,3751.0,173065.0,Road,2025-09-11,6,Delayed
+S1704,Germany,Danang,Electronics,2014.0,167947.0,Air,2025-01-07,6,Delayed
+S1705,Germany,Ho Chi Minh,Spices,3134.0,251356.0,Road,2025-08-04,3,Delayed
+S1706,USA,Haiphong,Machinery,1037.0,142126.0,Road,2025-03-10,7,Delayed
+S1707,Vietnam,Ho Chi Minh,Textiles,2207.0,235881.0,Sea,2025-03-10,1,Delivered
+S1708,Vietnam,Danang,Machinery,1563.0,112357.0,Sea,2025-03-22,4,Delivered
+S1709,Vietnam,Danang,Pharmaceuticals,2587.0,212440.0,Road,2025-01-30,5,In Transit
+S1710,Thailand,Ho Chi Minh,Textiles,403.0,34670.0,Air,2025-03-14,7,In Transit
+S1711,Japan,Cat Lai,Furniture,360.0,164379.0,Air,2025-09-19,1,In Transit
+S1712,China,Ho Chi Minh,Automotive Parts,3811.0,249159.0,Sea,2025-03-30,6,In Transit
+S1713,USA,Danang,Furniture,591.0,,Sea,2025-07-27,6,Hold
+S1714,Vietnam,Ho Chi Minh,Pharmaceuticals,968.0,199152.0,Sea,2025-08-01,5,In Transit
+S1715,Vietnam,Cat Lai,Textiles,3948.0,84335.0,Sea,2025-11-18,4,Delayed
+S1716,South Korea,Ho Chi Minh,Toys,2822.0,293456.0,Sea,2025-09-23,1,Delayed
+S1717,USA,Cat Lai,Pharmaceuticals,2781.0,71985.0,Sea,2025-10-20,1,Delayed
+S1718,Vietnam,Cat Lai,Toys,1293.0,135744.0,Sea,2025-07-26,4,Hold
+S1719,USA,Ho Chi Minh,Automotive Parts,3140.0,256713.0,Air,2025-11-29,4,In Transit
+S1720,Japan,Ho Chi Minh,Electronics,604.0,176349.0,Sea,2025-03-18,4,Delayed
+S1721,South Korea,Haiphong,Electronics,807.0,36551.0,Sea,2025-10-15,6,Delayed
+S1722,USA,Danang,Pharmaceuticals,3946.0,94813.0,Air,2025-02-16,5,Delayed
+S1723,China,Cat Lai,Machinery,1814.0,181284.0,Air,2025-04-20,7,Delayed
+S1724,China,Haiphong,Textiles,1740.0,14637.0,Road,2025-07-19,4,Delivered
+S1725,Germany,Ho Chi Minh,Textiles,3075.0,134553.0,Sea,2025-07-29,5,In Transit
+S1726,South Korea,Danang,Electronics,3391.0,31950.0,Sea,2025-06-03,3,In Transit
+S1727,South Korea,Haiphong,Spices,,132870.0,Sea,2025-01-10,1,Hold
+S1728,Germany,Cat Lai,Furniture,889.0,5215.0,Sea,2025-12-19,1,Delivered
+S1729,USA,Haiphong,Spices,3959.0,278667.0,Road,2025-06-06,2,Hold
+S1730,South Korea,Cat Lai,Automotive Parts,3149.0,28834.0,Air,2025-09-18,3,Delayed
+S1731,China,Ho Chi Minh,Furniture,1440.0,48066.0,Air,2025-03-18,7,Hold
+S1732,China,Danang,Furniture,2303.0,277544.0,Sea,2025-09-14,4,Delayed
+S1733,Vietnam,Danang,Pharmaceuticals,565.0,15345.0,Sea,2025-05-11,4,Delayed
+S1734,Japan,Danang,Electronics,1922.0,38896.0,Sea,2025-03-08,7,In Transit
+S1735,South Korea,Ho Chi Minh,Spices,3775.0,296043.0,Road,2025-08-16,6,In Transit
+S1736,USA,Cat Lai,Spices,654.0,295373.0,Road,2025-06-12,3,In Transit
+S1737,Germany,Ho Chi Minh,Electronics,303.0,272727.0,Air,2025-01-15,4,In Transit
+S1738,Germany,Danang,Spices,276.0,76537.0,Sea,2025-08-20,2,In Transit
+S1739,USA,Ho Chi Minh,Toys,429.0,245489.0,Sea,2025-07-14,5,Delivered
+S1740,Thailand,Ho Chi Minh,Electronics,2137.0,79807.0,Sea,2025-12-15,1,In Transit
+S1741,India,Ho Chi Minh,Pharmaceuticals,3529.0,134648.0,Sea,2025-01-30,3,Hold
+S1742,Japan,Cat Lai,Machinery,3535.0,149401.0,Road,2025-12-25,1,Delayed
+S1743,Germany,Haiphong,Furniture,2578.0,237117.0,Air,2025-12-04,5,In Transit
+S1744,South Korea,Haiphong,Pharmaceuticals,1405.0,253780.0,Air,2025-11-27,3,Delivered
+S1745,Japan,Ho Chi Minh,Textiles,1092.0,218286.0,Road,2025-11-12,5,Hold
+S1746,South Korea,Haiphong,Automotive Parts,1773.0,42052.0,Sea,2025-10-23,4,Hold
+S1747,Thailand,Haiphong,Machinery,2935.0,51032.0,Air,2025-11-26,7,Delayed
+S1748,China,Ho Chi Minh,Textiles,2274.0,103802.0,Air,2025-08-08,4,Hold
+S1749,Japan,Ho Chi Minh,Furniture,3547.0,239337.0,Road,2025-05-27,7,Hold
+S1750,Vietnam,Danang,Spices,1875.0,177857.0,Sea,2025-09-16,4,Hold
+S1751,Germany,Haiphong,Electronics,498.0,201753.0,Air,2025-10-19,5,Hold
+S1752,Japan,Cat Lai,Furniture,1156.0,225934.0,Sea,2025-10-26,5,Delivered
+S1753,Japan,Ho Chi Minh,Pharmaceuticals,3046.0,231599.0,Air,2025-05-23,5,Delayed
+S1754,Japan,Danang,Automotive Parts,1314.0,118221.0,Road,2025-08-23,1,In Transit
+S1755,India,Cat Lai,Pharmaceuticals,2727.0,,Sea,2025-04-25,5,Hold
+S1756,Japan,Haiphong,Machinery,2820.0,283720.0,Road,2025-12-31,4,Delivered
+S1757,South Korea,Danang,Machinery,2705.0,124875.0,Air,2025-03-31,2,Delayed
+S1758,China,Ho Chi Minh,Automotive Parts,1674.0,36601.0,Road,2025-07-27,5,In Transit
+S1759,Thailand,Cat Lai,Toys,564.0,109186.0,Road,2025-06-13,2,Delayed
+S1760,USA,Ho Chi Minh,Textiles,3106.0,170707.0,Road,2025-03-25,7,Delivered
+S1761,Japan,Haiphong,Textiles,1898.0,4119135.0,Air,2025-03-18,4,Delivered
+S1762,Germany,Cat Lai,Machinery,550.0,61754.0,Sea,2025-06-10,5,Delivered
+S1763,Japan,Haiphong,Machinery,3926.0,234047.0,Road,2025-01-05,1,Hold
+S1764,Germany,Haiphong,Spices,3671.0,97850.0,Sea,2025-03-19,1,Delivered
+S1765,South Korea,Danang,Electronics,2500.0,221191.0,Air,2025-04-01,7,In Transit
+S1766,Germany,Ho Chi Minh,Spices,3028.0,43871.0,Sea,2025-03-28,2,Hold
+S1767,Vietnam,Cat Lai,Spices,2104.0,198946.0,Road,2025-09-27,6,Delayed
+S1768,USA,Haiphong,Toys,3050.0,296655.0,Road,2025-04-14,1,In Transit
+S1769,China,Haiphong,Textiles,1211.0,254200.0,Road,2025-12-05,1,Hold
+S1770,Germany,Cat Lai,Toys,2706.0,206239.0,Road,2025-06-24,1,Delivered
+S1771,Germany,Haiphong,Toys,3970.0,239453.0,Road,2025-02-23,4,Delayed
+S1772,China,Danang,Automotive Parts,3164.0,37574.0,Road,2025-07-30,1,Delivered
+S1773,USA,Danang,Textiles,698.0,107072.0,Air,2025-04-05,3,In Transit
+S1774,Japan,Danang,Electronics,1149.0,209603.0,Air,2025-08-11,5,In Transit
+S1775,Germany,Danang,Pharmaceuticals,2194.0,161258.0,Air,2025-01-09,7,Hold
+S1776,China,Haiphong,Machinery,2246.0,158885.0,Sea,2025-02-22,1,In Transit
+S1777,Vietnam,Cat Lai,Machinery,707.0,214884.0,Sea,2025-03-18,6,Delayed
+S1778,Vietnam,Cat Lai,Electronics,1527.0,221597.0,Air,2025-07-25,6,Hold
+S1779,South Korea,Cat Lai,Toys,2748.0,114779.0,Sea,2025-11-12,1,Delayed
+S1780,China,Cat Lai,Spices,3050.0,23557.0,Sea,2025-10-29,1,Delivered
+S1781,South Korea,Ho Chi Minh,Automotive Parts,,164132.0,Road,2025-11-06,3,Delayed
+S1782,Vietnam,Cat Lai,Toys,365.0,236977.0,Road,2025-11-26,1,Delayed
+S1783,USA,Ho Chi Minh,Machinery,3686.0,,Sea,2025-04-22,1,In Transit
+S1784,Japan,Ho Chi Minh,Furniture,2709.0,149926.0,Sea,2025-12-17,5,Delivered
+S1785,China,Danang,Spices,1119.0,203767.0,Air,2025-06-14,6,In Transit
+S1786,Thailand,Ho Chi Minh,Machinery,313.0,163097.0,Sea,2025-10-06,3,Delivered
+S1787,Vietnam,Haiphong,Furniture,3704.0,189054.0,Road,2025-01-27,6,Delivered
+S1788,Vietnam,Ho Chi Minh,Toys,1191.0,46081.0,Sea,2025-03-11,3,Delayed
+S1789,Thailand,Danang,Electronics,3627.0,235693.0,Air,2025-08-06,6,In Transit
+S1790,India,Ho Chi Minh,Electronics,2151.0,294238.0,Road,2025-12-31,1,Delayed
+S1791,Vietnam,Haiphong,Spices,3966.0,160063.0,Road,2025-07-08,6,Delayed
+S1792,Germany,Haiphong,Machinery,2454.0,268445.0,Road,2025-11-29,6,Delayed
+S1793,USA,Haiphong,Textiles,1458.0,164682.0,Road,2025-11-02,3,Delivered
+S1794,China,Danang,Furniture,3713.0,86463.0,Sea,2025-05-04,7,In Transit
+S1795,Thailand,Danang,Automotive Parts,3626.0,170750.0,Air,2025-01-19,2,In Transit
+S1796,Germany,Cat Lai,Machinery,714.0,291610.0,Sea,2025-09-14,3,Delayed
+S1797,Thailand,Danang,Automotive Parts,1431.0,31081.0,Sea,2025-10-23,3,Delivered
+S1798,China,Haiphong,Machinery,908.0,29354.0,Road,2025-01-22,3,In Transit
+S1799,South Korea,Haiphong,Textiles,3396.0,,Air,2025-02-09,4,Hold
+S1800,China,Danang,Textiles,2385.0,285444.0,Road,2025-02-07,7,In Transit
+S1801,India,Ho Chi Minh,Spices,538.0,69384.0,Sea,2025-02-17,4,Delayed
+S1802,China,Danang,Spices,2784.0,126684.0,Sea,2025-07-02,4,Hold
+S1803,China,Danang,Textiles,267.0,40525.0,Road,2025-03-16,3,Delivered
+S1804,India,Haiphong,Pharmaceuticals,1796.0,11464.0,Sea,2025-07-28,2,Hold
+S1805,USA,Cat Lai,Textiles,1764.0,21562.0,Sea,2025-07-02,3,Hold
+S1806,Vietnam,Haiphong,Electronics,582.0,60514.0,Road,2025-04-17,1,Delayed
+S1807,China,Cat Lai,Electronics,218.0,1763460.0,Sea,2025-07-07,2,In Transit
+S1808,India,Haiphong,Pharmaceuticals,2930.0,37634.0,Air,2025-09-21,4,Delivered
+S1809,Germany,Danang,Toys,3721.0,267204.0,Road,2025-03-27,6,Hold
+S1810,South Korea,Haiphong,Furniture,2321.0,276413.0,Air,2025-11-20,6,Delayed
+S1811,South Korea,Haiphong,Toys,7720.0,199215.0,Sea,2025-11-27,7,In Transit
+S1812,China,Haiphong,Automotive Parts,3186.0,28065.0,Sea,2025-05-17,5,Hold
+S1813,USA,Danang,Toys,3936.0,270039.0,Road,2025-12-12,7,Delayed
+S1814,USA,Danang,Machinery,1499.0,148424.0,Sea,2025-12-02,2,Delayed
+S1815,Germany,Danang,Toys,3319.0,109127.0,Road,2025-04-05,4,Delayed
+S1816,China,Danang,Machinery,2458.0,101426.0,Road,2025-11-22,2,Delivered
+S1817,South Korea,Cat Lai,Pharmaceuticals,3102.0,197376.0,Road,2025-09-02,2,In Transit
+S1818,USA,Cat Lai,Electronics,2143.0,16962.0,Road,2025-03-31,6,Hold
+S1819,China,Ho Chi Minh,Spices,850.0,38302.0,Road,2025-02-28,3,In Transit
+S1820,Thailand,Danang,Machinery,1845.0,9011.0,Air,2025-01-28,1,In Transit
+S1821,USA,Cat Lai,Electronics,1193.0,24782.0,Road,2025-03-13,5,Hold
+S1822,India,Haiphong,Furniture,2942.0,203763.0,Air,2025-09-27,4,In Transit
+S1823,Thailand,Danang,Automotive Parts,2787.0,125654.0,Sea,2025-01-24,2,Delivered
+S1824,Vietnam,Ho Chi Minh,Furniture,3980.0,14196.0,Road,2025-04-22,5,Hold
+S1825,USA,Ho Chi Minh,Pharmaceuticals,3462.0,48459.0,Sea,2025-10-27,2,Hold
+S1826,South Korea,Ho Chi Minh,Toys,1538.0,92245.0,Road,2025-02-25,6,Delayed
+S1827,Japan,Haiphong,Toys,1100.0,83863.0,Air,2025-08-11,1,In Transit
+S1828,Thailand,Cat Lai,Textiles,3834.0,,Air,2025-04-30,6,Hold
+S1829,Vietnam,Haiphong,Textiles,1884.0,37769.0,Air,2025-06-28,5,Hold
+S1830,Germany,Danang,Textiles,3027.0,261433.0,Sea,2025-10-15,4,Delivered
+S1831,Germany,Ho Chi Minh,Furniture,1785.0,29700.0,Road,2025-10-08,2,Delayed
+S1832,South Korea,Haiphong,Machinery,2123.0,251864.0,Sea,2025-07-08,1,Hold
+S1833,USA,Haiphong,Automotive Parts,1981.0,216428.0,Air,2025-03-07,6,Delivered
+S1834,China,Cat Lai,Textiles,1336.0,236237.0,Sea,2025-10-25,5,Hold
+S1835,USA,Cat Lai,Pharmaceuticals,24170.0,272413.0,Air,2025-09-06,6,Hold
+S1836,South Korea,Ho Chi Minh,Pharmaceuticals,3739.0,119003.0,Air,2025-03-17,2,Hold
+S1837,Germany,Haiphong,Textiles,3949.0,144392.0,Air,2025-05-17,2,Delivered
+S1838,USA,Haiphong,Toys,2144.0,54589.0,Road,2025-06-13,4,In Transit
+S1839,Germany,Cat Lai,Textiles,1237.0,255606.0,Road,2025-08-21,1,Hold
+S1840,Thailand,Haiphong,Automotive Parts,1938.0,212348.0,Air,2025-09-12,3,Hold
+S1841,Vietnam,Haiphong,Textiles,487.0,40897.0,Sea,2025-10-21,6,In Transit
+S1842,China,Haiphong,Automotive Parts,2436.0,194637.0,Sea,2025-06-19,2,Hold
+S1843,Thailand,Cat Lai,Pharmaceuticals,3161.0,167002.0,Road,2025-11-13,5,Delayed
+S1844,Germany,Ho Chi Minh,Textiles,3426.0,193305.0,Air,2025-06-23,6,Hold
+S1845,Germany,Danang,Furniture,1790.0,218893.0,Sea,2025-12-11,4,Delayed
+S1846,Japan,Ho Chi Minh,Spices,2941.0,281524.0,Air,2025-01-18,4,In Transit
+S1847,Japan,Danang,Furniture,1945.0,212968.0,Sea,2025-03-11,2,Delivered
+S1848,Thailand,Haiphong,Pharmaceuticals,3135.0,75934.0,Road,2025-12-04,2,In Transit
+S1849,India,Ho Chi Minh,Automotive Parts,2718.0,60830.0,Air,2025-04-26,2,Hold
+S1850,Thailand,Danang,Furniture,1298.0,272673.0,Air,2025-03-21,7,Delayed
+S1851,Japan,Cat Lai,Automotive Parts,2524.0,257364.0,Sea,2025-01-15,3,Delivered
+S1852,Germany,Cat Lai,Furniture,1139.0,238294.0,Sea,2025-06-25,2,Hold
+S1853,South Korea,Ho Chi Minh,Furniture,3916.0,87987.0,Sea,2025-09-26,6,Delivered
+S1854,Thailand,Ho Chi Minh,Automotive Parts,3614.0,54178.0,Air,2025-04-29,6,Delivered
+S1855,Germany,Haiphong,Machinery,16480.0,143009.0,Road,2025-10-26,7,Hold
+S1856,South Korea,Ho Chi Minh,Furniture,770.0,44886.0,Road,2025-07-07,7,In Transit
+S1857,South Korea,Haiphong,Textiles,3782.0,54699.0,Sea,2025-02-26,1,Hold
+S1858,Japan,Haiphong,Spices,3104.0,81396.0,Road,2025-07-18,5,Hold
+S1859,Thailand,Cat Lai,Pharmaceuticals,1200.0,95678.0,Sea,2025-01-17,2,In Transit
+S1860,USA,Cat Lai,Machinery,1405.0,30279.0,Road,2025-10-15,6,Delayed
+S1861,China,Danang,Automotive Parts,2705.0,115776.0,Air,2025-02-24,7,Hold
+S1862,Japan,Cat Lai,Machinery,1117.0,106444.0,Sea,2025-09-26,6,Delivered
+S1863,Japan,Cat Lai,Electronics,2074.0,118793.0,Road,2025-10-30,6,Hold
+S1864,USA,Ho Chi Minh,Electronics,1032.0,215809.0,Air,2025-03-28,7,Hold
+S1865,China,Cat Lai,Furniture,3335.0,176616.0,Road,2025-11-14,3,Delivered
+S1866,Germany,Danang,Furniture,3086.0,247262.0,Air,2025-01-29,7,In Transit
+S1867,India,Ho Chi Minh,Textiles,3531.0,13997.0,Air,2025-01-22,7,Delayed
+S1868,Thailand,Danang,Spices,2440.0,111102.0,Road,2025-11-17,5,Delayed
+S1869,India,Cat Lai,Pharmaceuticals,1878.0,45860.0,Road,2025-10-12,7,Delivered
+S1870,Germany,Danang,Machinery,815.0,270369.0,Air,2025-02-17,4,In Transit
+S1871,Vietnam,Ho Chi Minh,Electronics,605.0,115114.0,Air,2025-01-05,7,Hold
+S1872,Japan,Haiphong,Furniture,1949.0,118218.0,Air,2025-09-07,6,Hold
+S1873,China,Danang,Toys,3190.0,112041.0,Sea,2025-06-12,2,Hold
+S1874,Japan,Danang,Toys,2968.0,197150.0,Air,2025-07-21,6,Hold
+S1875,South Korea,Ho Chi Minh,Pharmaceuticals,292.0,81290.0,Sea,2025-04-11,5,Hold
+S1876,Japan,Ho Chi Minh,Machinery,2677.0,61633.0,Air,2025-03-12,4,Delivered
+S1877,Japan,Danang,Furniture,853.0,293799.0,Sea,2025-06-12,7,Hold
+S1878,Germany,Cat Lai,Furniture,3705.0,126118.0,Air,2025-06-22,3,Hold
+S1879,Germany,Danang,Electronics,3675.0,179673.0,Air,2025-05-21,1,In Transit
+S1880,Germany,Ho Chi Minh,Electronics,633.0,8114.0,Air,2025-05-18,7,Hold
+S1881,India,Haiphong,Furniture,1335.0,293646.0,Road,2025-03-07,2,Delayed
+S1882,South Korea,Haiphong,Automotive Parts,574.0,,Road,2025-07-17,1,Delivered
+S1883,Vietnam,Cat Lai,Furniture,3330.0,88123.0,Air,2025-11-24,3,Delivered
+S1884,Vietnam,Danang,Pharmaceuticals,1266.0,113255.0,Sea,2025-08-16,5,Delivered
+S1885,Germany,Haiphong,Furniture,406.0,171405.0,Sea,2025-10-08,5,Delayed
+S1886,China,Danang,Textiles,979.0,8174.0,Air,2025-06-21,3,Hold
+S1887,India,Ho Chi Minh,Spices,1519.0,122769.0,Road,2025-11-12,6,Delivered
+S1888,USA,Haiphong,Textiles,1341.0,140393.0,Sea,2025-02-09,3,Delayed
+S1889,China,Cat Lai,Textiles,731.0,232043.0,Road,2025-01-07,7,In Transit
+S1890,Thailand,Ho Chi Minh,Automotive Parts,3493.0,247580.0,Sea,2025-06-23,2,Hold
+S1891,Thailand,Cat Lai,Automotive Parts,2413.0,191493.0,Air,2025-05-31,4,Delayed
+S1892,China,Ho Chi Minh,Toys,2890.0,77635.0,Road,2025-07-30,7,Hold
+S1893,Germany,Haiphong,Furniture,,290904.0,Sea,2025-10-29,7,In Transit
+S1894,USA,Cat Lai,Textiles,3455.0,146385.0,Air,2025-03-27,7,Delayed
+S1895,USA,Cat Lai,Automotive Parts,289.0,247878.0,Air,2025-09-10,1,Hold
+S1896,India,Ho Chi Minh,Electronics,1317.0,222070.0,Air,2025-01-21,1,Delayed
+S1897,USA,Cat Lai,Furniture,212.0,281274.0,Road,2025-09-14,5,Delivered
+S1898,Thailand,Ho Chi Minh,Pharmaceuticals,3220.0,155056.0,Road,2025-02-02,7,Hold
+S1899,South Korea,Ho Chi Minh,Spices,2057.0,148933.0,Air,2025-09-17,6,Delayed
+S1900,Germany,Ho Chi Minh,Machinery,1004.0,103970.0,Road,2025-08-22,5,Delivered
+S1901,USA,Ho Chi Minh,Furniture,1144.0,87203.0,Sea,2025-01-03,2,In Transit
+S1902,India,Haiphong,Machinery,2989.0,197319.0,Air,2025-12-13,3,Hold
+S1903,Thailand,Ho Chi Minh,Textiles,2057.0,205173.0,Air,2025-11-04,1,Hold
+S1904,South Korea,Danang,Spices,3709.0,157049.0,Road,2025-08-15,7,In Transit
+S1905,Japan,Cat Lai,Machinery,3809.0,222726.0,Air,2025-10-11,2,Delivered
+S1906,Japan,Danang,Textiles,1810.0,77902.0,Sea,2025-03-11,5,In Transit
+S1907,South Korea,Haiphong,Electronics,3123.0,97172.0,Road,2025-11-09,5,Hold
+S1908,Thailand,Danang,Machinery,2159.0,151702.0,Road,2025-12-30,1,Delayed
+S1909,India,Cat Lai,Spices,3421.0,25056.0,Air,2025-09-11,5,Delivered
+S1910,South Korea,Danang,Toys,2907.0,143454.0,Air,2025-05-24,6,Delivered
+S1911,Germany,Haiphong,Furniture,3279.0,60739.0,Air,2025-01-24,5,Delivered
+S1912,Germany,Ho Chi Minh,Textiles,1252.0,53639.0,Road,2025-08-22,4,In Transit
+S1913,Japan,Danang,Furniture,495.0,268136.0,Air,2025-11-29,3,In Transit
+S1914,USA,Haiphong,Spices,3233.0,77394.0,Sea,2025-06-24,5,Delayed
+S1915,India,Haiphong,Automotive Parts,1125.0,294304.0,Air,2025-11-28,4,Delayed
+S1916,Japan,Cat Lai,Textiles,3992.0,187447.0,Air,2025-11-21,2,Delivered
+S1917,USA,Cat Lai,Machinery,839.0,155644.0,Road,2025-12-23,5,Delayed
+S1918,USA,Danang,Textiles,2587.0,9136.0,Air,2025-06-08,6,In Transit
+S1919,Vietnam,Ho Chi Minh,Furniture,827.0,66868.0,Road,2025-12-14,2,Delayed
+S1920,Germany,Haiphong,Electronics,,,Air,2025-12-14,7,In Transit
+S1921,Thailand,Danang,Textiles,1367.0,115957.0,Sea,2025-10-13,5,Delayed
+S1922,China,Haiphong,Machinery,1141.0,20479.0,Sea,2025-01-18,1,Hold
+S1923,Thailand,Haiphong,Automotive Parts,1029.0,124392.0,Road,2025-02-13,4,In Transit
+S1924,China,Ho Chi Minh,Toys,1970.0,167448.0,Road,2025-06-04,4,Hold
+S1925,South Korea,Ho Chi Minh,Pharmaceuticals,2766.0,140895.0,Air,2025-12-21,1,In Transit
+S1926,Germany,Danang,Electronics,1175.0,261228.0,Air,2025-08-19,3,Delayed
+S1927,USA,Ho Chi Minh,Toys,3316.0,206528.0,Sea,2025-11-12,7,Hold
+S1928,India,Ho Chi Minh,Automotive Parts,1154.0,286729.0,Air,2025-08-13,6,Delayed
+S1929,China,Danang,Textiles,1462.0,239847.0,Sea,2025-08-05,4,In Transit
+S1930,Thailand,Ho Chi Minh,Furniture,1151.0,293763.0,Road,2025-02-25,2,Hold
+S1931,USA,Cat Lai,Spices,1143.0,270864.0,Air,2025-01-31,6,Delivered
+S1932,China,Haiphong,Furniture,2402.0,286411.0,Road,2025-12-23,4,Delayed
+S1933,China,Haiphong,Toys,,151768.0,Air,2025-02-28,7,In Transit
+S1934,Vietnam,Haiphong,Machinery,3486.0,166040.0,Sea,2025-12-19,3,Hold
+S1935,China,Haiphong,Furniture,2335.0,56567.0,Road,2025-08-23,7,Delayed
+S1936,India,Danang,Electronics,3527.0,96229.0,Road,2025-04-17,2,Hold
+S1937,Germany,Haiphong,Furniture,1734.0,204316.0,Air,2025-07-10,7,Delayed
+S1938,India,Haiphong,Machinery,1296.0,201497.0,Road,2025-01-18,6,Delayed
+S1939,Japan,Haiphong,Pharmaceuticals,3178.0,87844.0,Sea,2025-08-14,2,Delayed
+S1940,USA,Haiphong,Textiles,378.0,168991.0,Road,2025-06-16,1,Hold
+S1941,Germany,Cat Lai,Spices,2459.0,95697.0,Road,2025-03-12,5,Hold
+S1942,Vietnam,Haiphong,Toys,2028.0,62196.0,Air,2025-12-28,1,Delayed
+S1943,Germany,Cat Lai,Textiles,1457.0,120600.0,Road,2025-02-23,6,Delivered
+S1944,Germany,Danang,Furniture,664.0,105625.0,Air,2025-09-02,5,Delivered
+S1945,Thailand,Ho Chi Minh,Automotive Parts,1974.0,574860.0,Air,2025-12-16,1,Delivered
+S1946,Germany,Haiphong,Textiles,3494.0,56272.0,Road,2025-03-17,5,In Transit
+S1947,Vietnam,Ho Chi Minh,Pharmaceuticals,2878.0,254264.0,Sea,2025-02-04,4,Delivered
+S1948,India,Ho Chi Minh,Furniture,3072.0,168996.0,Air,2025-09-24,7,Hold
+S1949,Germany,Danang,Spices,3535.0,232459.0,Road,2025-11-13,2,Delivered
+S1950,South Korea,Ho Chi Minh,Machinery,1430.0,159961.0,Air,2025-10-27,5,Hold
+S1951,USA,Cat Lai,Pharmaceuticals,2854.0,241538.0,Sea,2025-05-01,4,In Transit
+S1952,Germany,Ho Chi Minh,Furniture,1084.0,59675.0,Sea,2025-11-20,7,Hold
+S1953,USA,Ho Chi Minh,Pharmaceuticals,2613.0,78591.0,Air,2025-01-25,7,Hold
+S1954,South Korea,Ho Chi Minh,Textiles,2523.0,158706.0,Sea,2025-06-09,3,Hold
+S1955,South Korea,Haiphong,Spices,2627.0,299507.0,Road,2025-03-25,1,Delivered
+S1956,USA,Haiphong,Machinery,15320.0,199824.0,Road,2025-04-24,3,Delayed
+S1957,China,Cat Lai,Furniture,1854.0,234530.0,Air,2025-08-11,6,Hold
+S1958,Japan,Cat Lai,Electronics,35390.0,118627.0,Sea,2025-06-15,4,Delivered
+S1959,Thailand,Haiphong,Toys,1144.0,218988.0,Road,2025-07-10,3,Delivered
+S1960,China,Cat Lai,Machinery,3335.0,294014.0,Road,2025-06-24,3,Delivered
+S1961,China,Haiphong,Electronics,3057.0,42394.0,Road,2025-01-01,7,Delayed
+S1962,India,Danang,Pharmaceuticals,3621.0,84795.0,Air,2025-08-17,4,Delayed
+S1963,Thailand,Ho Chi Minh,Automotive Parts,1124.0,280160.0,Air,2025-03-27,7,Delayed
+S1964,Thailand,Ho Chi Minh,Machinery,2138.0,47137.0,Road,2025-03-03,2,Delayed
+S1965,China,Cat Lai,Pharmaceuticals,693.0,143925.0,Road,2025-11-16,5,In Transit
+S1966,Germany,Haiphong,Electronics,1746.0,17379.0,Sea,2025-07-25,6,Delayed
+S1967,India,Haiphong,Textiles,3369.0,126169.0,Sea,2025-04-15,6,Delayed
+S1968,India,Cat Lai,Textiles,2169.0,174439.0,Sea,2025-11-14,1,Delayed
+S1969,South Korea,Haiphong,Automotive Parts,1294.0,154172.0,Air,2025-10-18,7,Hold
+S1970,Vietnam,Danang,Toys,2611.0,131082.0,Road,2025-09-07,5,Hold
+S1971,Thailand,Ho Chi Minh,Machinery,2817.0,16049.0,Air,2025-01-13,1,Delayed
+S1972,China,Cat Lai,Machinery,2025.0,166771.0,Road,2025-06-12,6,In Transit
+S1973,South Korea,Cat Lai,Machinery,962.0,173112.0,Sea,2025-02-12,5,Hold
+S1974,USA,Haiphong,Toys,2523.0,254527.0,Sea,2025-04-21,3,Delivered
+S1975,Japan,Cat Lai,Pharmaceuticals,249.0,229062.0,Sea,2025-07-24,2,Hold
+S1976,Vietnam,Danang,Spices,3629.0,62986.0,Sea,2025-09-13,3,Delivered
+S1977,Vietnam,Haiphong,Spices,2975.0,159672.0,Road,2025-11-03,2,Hold
+S1978,Vietnam,Haiphong,Automotive Parts,1105.0,226849.0,Sea,2025-05-24,7,Delayed
+S1979,India,Haiphong,Machinery,3175.0,221775.0,Road,2025-05-26,4,Hold
+S1980,USA,Haiphong,Pharmaceuticals,763.0,110315.0,Road,2025-10-28,1,Delayed
+S1981,Vietnam,Danang,Textiles,982.0,287229.0,Air,2025-06-13,1,Delayed
+S1982,USA,Haiphong,Electronics,2732.0,182926.0,Sea,2025-06-18,4,Hold
+S1983,Germany,Cat Lai,Pharmaceuticals,3355.0,220341.0,Sea,2025-10-25,5,Delivered
+S1984,Vietnam,Danang,Toys,3909.0,175851.0,Air,2025-08-21,4,Delivered
+S1985,Japan,Ho Chi Minh,Spices,2240.0,192279.0,Road,2025-09-28,7,Hold
+S1986,USA,Ho Chi Minh,Spices,2031.0,,Sea,2025-03-01,6,Delayed
+S1987,USA,Cat Lai,Textiles,783.0,150213.0,Road,2025-10-23,4,Delivered
+S1988,Japan,Cat Lai,Textiles,,145416.0,Air,2025-08-23,2,In Transit
+S1989,Vietnam,Danang,Toys,435.0,20896.0,Road,2025-06-14,6,Delayed
+S1990,Japan,Ho Chi Minh,Electronics,2303.0,94353.0,Sea,2025-07-13,4,Hold
+S1991,USA,Ho Chi Minh,Textiles,2142.0,34813.0,Road,2025-08-22,1,Delayed
+S1992,Japan,Ho Chi Minh,Automotive Parts,559.0,220503.0,Road,2025-07-02,3,In Transit
+S1993,USA,Ho Chi Minh,Electronics,2130.0,70679.0,Sea,2025-11-29,2,In Transit
+S1994,USA,Ho Chi Minh,Textiles,309.0,146753.0,Sea,2025-08-20,7,Delivered
+S1995,Germany,Haiphong,Furniture,391.0,208975.0,Road,2025-12-27,2,In Transit
+S1996,China,Cat Lai,Pharmaceuticals,1103.0,270372.0,Road,2025-04-17,5,Delayed
+S1997,USA,Haiphong,Textiles,,214755.0,Air,2025-08-11,3,Delivered
+S1998,Vietnam,Ho Chi Minh,Automotive Parts,1061.0,278541.0,Sea,2025-03-21,2,In Transit
+S1999,South Korea,Danang,Machinery,2815.0,84183.0,Road,2025-08-22,4,Delivered
+S2000,India,Danang,Textiles,1283.0,47317.0,Sea,2025-07-03,2,Delivered
+S2001,Thailand,Ho Chi Minh,Spices,849.0,183986.0,Air,2025-07-04,2,Hold
+S2002,China,Ho Chi Minh,Spices,238.0,220705.0,Road,2025-05-14,2,Delivered
+S2003,China,Danang,Spices,3811.0,181326.0,Road,2025-08-08,5,Delivered
+S2004,China,Haiphong,Machinery,3320.0,57344.0,Road,2025-10-15,2,In Transit
+S2005,Germany,Haiphong,Spices,3691.0,251060.0,Sea,2025-12-30,2,Delayed
+S2006,USA,Ho Chi Minh,Furniture,836.0,204618.0,Air,2025-07-21,5,Delayed
+S2007,Germany,Haiphong,Textiles,1236.0,164484.0,Sea,2025-05-26,6,In Transit
+S2008,USA,Danang,Toys,235.0,115489.0,Road,2025-11-20,3,Delayed
+S2009,Vietnam,Haiphong,Spices,2348.0,263667.0,Air,2025-05-07,7,Delivered
+S2010,Germany,Ho Chi Minh,Electronics,3357.0,16549.0,Road,2025-05-15,6,Hold
+S2011,Germany,Danang,Toys,3787.0,30739.0,Road,2025-04-24,1,Delivered
+S2012,India,Haiphong,Machinery,,288353.0,Sea,2025-09-21,5,Delivered
+S2013,South Korea,Cat Lai,Furniture,1561.0,112051.0,Road,2025-03-05,5,Hold
+S2014,Germany,Danang,Electronics,2183.0,,Air,2025-05-15,2,In Transit
+S2015,India,Danang,Electronics,365.0,25045.0,Road,2025-02-10,2,Delivered
+S2016,Japan,Cat Lai,Electronics,2630.0,40709.0,Road,2025-10-23,7,Delivered
+S2017,South Korea,Cat Lai,Electronics,2079.0,162977.0,Sea,2025-01-03,1,In Transit
+S2018,Vietnam,Danang,Toys,3647.0,208675.0,Air,2025-07-13,2,Delivered
+S2019,Germany,Cat Lai,Toys,3742.0,234167.0,Sea,2025-04-20,4,Delivered
+S2020,Thailand,Ho Chi Minh,Textiles,3037.0,224222.0,Road,2025-08-09,2,Delayed
+S2021,China,Ho Chi Minh,Spices,3913.0,194518.0,Sea,2025-01-04,2,In Transit
+S2022,Japan,Ho Chi Minh,Pharmaceuticals,,188500.0,Sea,2025-09-01,4,Delivered
+S2023,Japan,Danang,Textiles,3646.0,273591.0,Sea,2025-06-15,1,Delivered
+S2024,Vietnam,Cat Lai,Textiles,210.0,10499.0,Sea,2025-01-26,4,Hold
+S2025,India,Cat Lai,Furniture,2211.0,44041.0,Road,2025-01-17,5,Hold
+S2026,Japan,Haiphong,Furniture,3573.0,298459.0,Road,2025-08-04,4,Hold
+S2027,South Korea,Haiphong,Spices,2343.0,137371.0,Air,2025-04-02,3,Delivered
+S2028,Germany,Cat Lai,Pharmaceuticals,3461.0,141066.0,Sea,2025-01-31,5,Delivered
+S2029,Germany,Cat Lai,Furniture,2700.0,231486.0,Sea,2025-07-24,2,Hold
+S2030,Thailand,Cat Lai,Spices,2439.0,217235.0,Air,2025-07-26,7,Delayed
+S2031,Vietnam,Danang,Spices,685.0,262831.0,Sea,2025-04-17,5,Delayed
+S2032,China,Cat Lai,Toys,1489.0,299499.0,Air,2025-05-26,1,Delayed
+S2033,India,Haiphong,Automotive Parts,1647.0,121220.0,Road,2025-04-11,1,Delayed
+S2034,China,Danang,Toys,3399.0,226421.0,Air,2025-11-14,4,In Transit
+S2035,Japan,Cat Lai,Pharmaceuticals,2485.0,269140.0,Sea,2025-08-29,5,Hold
+S2036,Vietnam,Haiphong,Furniture,2143.0,256071.0,Air,2025-09-04,2,Delivered
+S2037,Thailand,Danang,Pharmaceuticals,,8089.0,Road,2025-06-12,1,Hold
+S2038,China,Cat Lai,Textiles,2163.0,287803.0,Sea,2025-06-22,6,Delayed
+S2039,South Korea,Cat Lai,Textiles,3383.0,100965.0,Road,2025-02-04,2,Delivered
+S2040,Germany,Cat Lai,Pharmaceuticals,2051.0,86268.0,Road,2025-10-11,6,In Transit
+S2041,Japan,Danang,Automotive Parts,1669.0,206798.0,Air,2025-12-25,3,Hold
+S2042,Thailand,Haiphong,Automotive Parts,1566.0,242103.0,Road,2025-12-24,6,Delivered
+S2043,China,Haiphong,Toys,3416.0,249754.0,Sea,2025-01-21,1,Delivered
+S2044,India,Ho Chi Minh,Pharmaceuticals,3336.0,170637.0,Road,2025-11-04,4,Delayed
+S2045,South Korea,Cat Lai,Furniture,3518.0,94242.0,Road,2025-06-12,3,Delayed
+S2046,South Korea,Ho Chi Minh,Toys,2982.0,158956.0,Air,2025-04-07,5,Hold
+S2047,China,Ho Chi Minh,Machinery,1190.0,284343.0,Road,2025-11-03,2,In Transit
+S2048,Germany,Haiphong,Automotive Parts,3761.0,65038.0,Air,2025-12-05,1,Delivered
+S2049,China,Danang,Electronics,1024.0,62786.0,Air,2025-02-24,3,Delayed
+S2050,Japan,Danang,Toys,1662.0,241042.0,Sea,2025-11-29,3,Hold
+S2051,China,Haiphong,Textiles,2353.0,,Sea,2025-05-07,1,Delayed
+S2052,South Korea,Danang,Toys,2428.0,170250.0,Sea,2025-07-12,5,Hold
+S2053,Thailand,Ho Chi Minh,Pharmaceuticals,2431.0,267678.0,Sea,2025-08-31,5,Delayed
+S2054,China,Cat Lai,Electronics,425.0,194826.0,Air,2025-12-15,4,In Transit
+S2055,Germany,Haiphong,Pharmaceuticals,976.0,51233.0,Road,2025-03-29,7,Delivered
+S2056,Vietnam,Cat Lai,Spices,3037.0,202780.0,Sea,2025-12-02,6,Delayed
+S2057,Thailand,Danang,Textiles,1312.0,229522.0,Sea,2025-08-03,5,Delivered
+S2058,India,Cat Lai,Textiles,887.0,111311.0,Sea,2025-04-02,4,Hold
+S2059,USA,Danang,Automotive Parts,729.0,39409.0,Road,2025-10-30,6,In Transit
+S2060,China,Danang,Toys,3642.0,251231.0,Sea,2025-08-23,3,Delivered
+S2061,Germany,Ho Chi Minh,Automotive Parts,1171.0,291198.0,Road,2025-07-03,1,Delayed
+S2062,Thailand,Danang,Electronics,1135.0,34709.0,Air,2025-02-07,5,Delivered
+S2063,Germany,Ho Chi Minh,Toys,1622.0,114321.0,Air,2025-05-19,4,Delivered
+S2064,India,Ho Chi Minh,Spices,2353.0,5363.0,Air,2025-07-14,3,Hold
+S2065,South Korea,Ho Chi Minh,Pharmaceuticals,1494.0,277502.0,Road,2025-01-15,5,In Transit
+S2066,Germany,Haiphong,Spices,2198.0,50689.0,Sea,2025-09-14,2,In Transit
+S2067,Thailand,Haiphong,Textiles,3078.0,269080.0,Sea,2025-05-15,7,Delivered
+S2068,Germany,Danang,Electronics,1726.0,96074.0,Sea,2025-01-01,3,Delivered
+S2069,Germany,Ho Chi Minh,Machinery,878.0,180037.0,Sea,2025-02-18,5,Hold
+S2070,Germany,Haiphong,Electronics,3796.0,213606.0,Sea,2025-04-06,3,Delivered
+S2071,Japan,Ho Chi Minh,Furniture,3096.0,5882.0,Road,2025-07-20,1,Hold
+S2072,Japan,Cat Lai,Electronics,3303.0,259822.0,Air,2025-01-26,1,In Transit
+S2073,South Korea,Cat Lai,Spices,2640.0,130865.0,Sea,2025-12-09,7,In Transit
+S2074,China,Cat Lai,Furniture,239.0,128745.0,Air,2025-08-23,1,Hold
+S2075,Germany,Danang,Furniture,2907.0,33885.0,Road,2025-12-15,6,Delivered
+S2076,India,Ho Chi Minh,Toys,3489.0,176128.0,Road,2025-09-01,2,In Transit
+S2077,China,Cat Lai,Toys,3228.0,196313.0,Sea,2025-12-24,1,Delayed
+S2078,India,Haiphong,Furniture,1305.0,26584.0,Road,2025-11-23,2,Hold
+S2079,China,Cat Lai,Machinery,1044.0,275665.0,Air,2025-12-17,1,In Transit
+S2080,South Korea,Cat Lai,Toys,1943.0,186089.0,Sea,2025-02-20,6,In Transit
+S2081,Germany,Cat Lai,Electronics,2448.0,34063.0,Sea,2025-03-22,3,In Transit
+S2082,Germany,Danang,Spices,646.0,1129020.0,Air,2025-02-05,5,Delayed
+S2083,USA,Haiphong,Electronics,3699.0,261306.0,Sea,2025-03-08,5,Delayed
+S2084,India,Ho Chi Minh,Machinery,3309.0,131218.0,Sea,2025-05-09,1,Delayed
+S2085,China,Haiphong,Textiles,1434.0,229126.0,Air,2025-06-04,5,Delivered
+S2086,China,Ho Chi Minh,Automotive Parts,2691.0,175635.0,Sea,2025-09-02,1,Hold
+S2087,Vietnam,Danang,Spices,1550.0,,Sea,2025-04-21,1,Delivered
+S2088,Vietnam,Danang,Toys,3008.0,231305.0,Air,2025-06-17,7,Delayed
+S2089,Japan,Danang,Spices,426.0,81411.0,Road,2025-05-22,4,Hold
+S2090,USA,Danang,Electronics,247.0,114876.0,Air,2025-12-22,4,Delivered
+S2091,Thailand,Ho Chi Minh,Automotive Parts,3289.0,203153.0,Sea,2025-07-16,7,Delivered
+S2092,Vietnam,Cat Lai,Pharmaceuticals,3159.0,165212.0,Air,2025-04-19,4,Delivered
+S2093,Thailand,Ho Chi Minh,Pharmaceuticals,1662.0,145399.0,Sea,2025-03-20,2,Delayed
+S2094,Japan,Haiphong,Toys,2030.0,28331.0,Sea,2025-06-10,4,In Transit
+S2095,Japan,Danang,Machinery,3979.0,28004.0,Air,2025-01-19,1,Hold
+S2096,Japan,Danang,Pharmaceuticals,386.0,243441.0,Sea,2025-05-07,6,Delayed
+S2097,India,Haiphong,Spices,2592.0,194167.0,Road,2025-07-24,6,Hold
+S2098,India,Ho Chi Minh,Pharmaceuticals,2471.0,94044.0,Sea,2025-01-29,3,Delayed
+S2099,South Korea,Cat Lai,Textiles,3077.0,276189.0,Air,2025-07-26,4,Delivered
+S2100,South Korea,Cat Lai,Textiles,2735.0,287260.0,Road,2025-10-07,6,Delivered
+S2101,Japan,Haiphong,Toys,2132.0,23667.0,Road,2025-05-31,4,In Transit
+S2102,USA,Cat Lai,Textiles,,79205.0,Sea,2025-08-28,3,In Transit
+S2103,China,Ho Chi Minh,Pharmaceuticals,1048.0,32302.0,Air,2025-09-23,6,Hold
+S2104,India,Ho Chi Minh,Machinery,2232.0,167007.0,Sea,2025-07-01,1,In Transit
+S2105,USA,Haiphong,Furniture,1452.0,77534.0,Sea,2025-04-15,2,In Transit
+S2106,Germany,Ho Chi Minh,Furniture,1613.0,230414.0,Air,2025-08-24,7,Hold
+S2107,India,Danang,Toys,1178.0,167696.0,Air,2025-06-22,7,Delayed
+S2108,India,Haiphong,Automotive Parts,1812.0,18440.0,Sea,2025-06-07,7,In Transit
+S2109,South Korea,Ho Chi Minh,Furniture,1216.0,275012.0,Road,2025-06-21,4,Delayed
+S2110,China,Haiphong,Furniture,2435.0,166323.0,Sea,2025-11-07,6,Delivered
+S2111,China,Cat Lai,Textiles,2081.0,89523.0,Road,2025-06-06,6,In Transit
+S2112,Vietnam,Ho Chi Minh,Textiles,469.0,174801.0,Sea,2025-09-15,3,Delivered
+S2113,Thailand,Danang,Pharmaceuticals,1830.0,20734.0,Air,2025-06-13,1,Delivered
+S2114,Thailand,Ho Chi Minh,Toys,509.0,178501.0,Road,2025-05-27,5,Delayed
+S2115,Thailand,Haiphong,Automotive Parts,3403.0,177409.0,Air,2025-06-03,6,Hold
+S2116,Thailand,Haiphong,Toys,2243.0,275577.0,Air,2025-02-07,2,In Transit
+S2117,Germany,Ho Chi Minh,Electronics,1774.0,145183.0,Air,2025-05-11,3,Delayed
+S2118,Germany,Danang,Spices,1295.0,108986.0,Air,2025-12-24,6,Hold
+S2119,India,Danang,Automotive Parts,3092.0,118783.0,Air,2025-09-12,6,Delivered
+S2120,Japan,Danang,Automotive Parts,1895.0,216655.0,Sea,2025-07-27,3,In Transit
+S2121,South Korea,Haiphong,Machinery,3458.0,288895.0,Road,2025-04-05,3,Delivered
+S2122,South Korea,Ho Chi Minh,Toys,27330.0,152525.0,Sea,2025-12-14,4,Delivered
+S2123,Thailand,Cat Lai,Pharmaceuticals,3462.0,221916.0,Sea,2025-11-23,6,In Transit
+S2124,India,Haiphong,Machinery,1645.0,166149.0,Sea,2025-06-20,5,Hold
+S2125,Vietnam,Danang,Automotive Parts,2367.0,244654.0,Air,2025-09-07,2,Hold
+S2126,USA,Ho Chi Minh,Automotive Parts,419.0,194216.0,Sea,2025-07-09,1,In Transit
+S2127,Japan,Danang,Automotive Parts,252.0,182169.0,Road,2025-07-18,1,In Transit
+S2128,India,Cat Lai,Furniture,1957.0,291647.0,Sea,2025-08-09,5,Delayed
+S2129,Japan,Danang,Toys,1674.0,138851.0,Air,2025-01-24,3,Delayed
+S2130,Japan,Danang,Spices,3683.0,136827.0,Road,2025-09-01,3,Delivered
+S2131,Japan,Cat Lai,Spices,1866.0,56482.0,Road,2025-11-20,3,In Transit
+S2132,India,Ho Chi Minh,Machinery,1460.0,127989.0,Road,2025-05-08,6,Hold
+S2133,Thailand,Haiphong,Automotive Parts,3005.0,281393.0,Road,2025-04-03,3,Delivered
+S2134,South Korea,Ho Chi Minh,Spices,2985.0,249255.0,Sea,2025-10-27,3,Delivered
+S2135,South Korea,Cat Lai,Textiles,919.0,115361.0,Air,2025-05-13,6,Delivered
+S2136,Thailand,Danang,Toys,605.0,291744.0,Road,2025-02-24,6,Delivered
+S2137,Japan,Ho Chi Minh,Spices,2855.0,286366.0,Road,2025-06-07,5,Hold
+S2138,USA,Haiphong,Pharmaceuticals,3268.0,46139.0,Air,2025-01-29,4,Delivered
+S2139,China,Cat Lai,Toys,2669.0,119919.0,Sea,2025-07-30,6,In Transit
+S2140,India,Ho Chi Minh,Pharmaceuticals,2959.0,252677.0,Road,2025-06-03,2,Delayed
+S2141,China,Haiphong,Spices,2494.0,230756.0,Sea,2025-10-20,3,Hold
+S2142,Vietnam,Cat Lai,Textiles,271.0,144718.0,Sea,2025-08-10,4,In Transit
+S2143,Thailand,Haiphong,Pharmaceuticals,2053.0,149615.0,Sea,2025-04-25,1,In Transit
+S2144,USA,Cat Lai,Furniture,2432.0,230568.0,Sea,2025-06-07,5,In Transit
+S2145,India,Danang,Spices,2253.0,158857.0,Road,2025-09-16,4,Delayed
+S2146,Thailand,Ho Chi Minh,Furniture,1429.0,28777.0,Road,2025-09-08,6,Delayed
+S2147,Japan,Haiphong,Spices,1767.0,62939.0,Sea,2025-05-02,3,Delayed
+S2148,South Korea,Cat Lai,Electronics,,28548.0,Sea,2025-10-26,3,In Transit
+S2149,China,Haiphong,Electronics,3153.0,130549.0,Air,2025-09-20,3,Delayed
+S2150,Germany,Haiphong,Electronics,586.0,142799.0,Air,2025-02-18,4,Delivered
+S2151,Germany,Ho Chi Minh,Pharmaceuticals,1991.0,246532.0,Air,2025-11-25,3,Delayed
+S2152,USA,Danang,Furniture,898.0,186789.0,Road,2025-10-24,6,Hold
+S2153,Japan,Haiphong,Furniture,3347.0,152764.0,Air,2025-12-28,4,In Transit
+S2154,Vietnam,Cat Lai,Furniture,1400.0,36625.0,Road,2025-03-18,3,In Transit
+S2155,China,Cat Lai,Textiles,1026.0,292062.0,Road,2025-05-07,1,Delivered
+S2156,Japan,Danang,Furniture,2022.0,119881.0,Road,2025-07-16,1,Delayed
+S2157,China,Cat Lai,Textiles,,282721.0,Road,2025-08-09,2,Delayed
+S2158,USA,Danang,Electronics,1478.0,116776.0,Air,2025-04-01,3,Hold
+S2159,USA,Cat Lai,Electronics,3973.0,238996.0,Sea,2025-01-08,3,Delivered
+S2160,Vietnam,Ho Chi Minh,Pharmaceuticals,507.0,262831.0,Sea,2025-02-01,4,Hold
+S2161,Germany,Haiphong,Spices,3616.0,217803.0,Sea,2025-11-16,4,Hold
+S2162,Japan,Ho Chi Minh,Electronics,1350.0,163761.0,Air,2025-09-26,7,In Transit
+S2163,India,Haiphong,Spices,2160.0,147226.0,Sea,2025-07-10,3,In Transit
+S2164,Germany,Haiphong,Spices,2534.0,26341.0,Air,2025-12-15,2,Delayed
+S2165,Japan,Haiphong,Toys,965.0,210753.0,Air,2025-06-12,3,Delayed
+S2166,Germany,Ho Chi Minh,Pharmaceuticals,924.0,254141.0,Air,2025-03-02,6,Hold
+S2167,India,Haiphong,Automotive Parts,3009.0,204488.0,Sea,2025-09-21,4,Delayed
+S2168,South Korea,Ho Chi Minh,Automotive Parts,1819.0,261139.0,Sea,2025-10-12,3,Hold
+S2169,South Korea,Danang,Machinery,3758.0,83840.0,Sea,2025-04-05,4,Delayed
+S2170,Vietnam,Cat Lai,Toys,582.0,170767.0,Road,2025-02-10,3,Delayed
+S2171,South Korea,Cat Lai,Pharmaceuticals,3677.0,166297.0,Air,2025-05-29,5,In Transit
+S2172,South Korea,Haiphong,Machinery,2635.0,54156.0,Road,2025-07-23,4,In Transit
+S2173,Thailand,Ho Chi Minh,Machinery,724.0,213281.0,Air,2025-09-24,2,In Transit
+S2174,China,Cat Lai,Toys,3828.0,92453.0,Sea,2025-01-02,5,In Transit
+S2175,Thailand,Ho Chi Minh,Automotive Parts,2886.0,163901.0,Air,2025-06-27,6,Delivered
+S2176,Thailand,Ho Chi Minh,Pharmaceuticals,3185.0,30938.0,Air,2025-07-13,3,In Transit
+S2177,Vietnam,Haiphong,Automotive Parts,3897.0,64164.0,Road,2025-12-02,7,Delivered
+S2178,Thailand,Cat Lai,Machinery,475.0,204271.0,Air,2025-07-15,6,In Transit
+S2179,South Korea,Haiphong,Pharmaceuticals,2747.0,65282.0,Sea,2025-12-09,4,Delayed
+S2180,India,Haiphong,Machinery,2964.0,270470.0,Air,2025-09-06,5,Hold
+S2181,Vietnam,Cat Lai,Furniture,536.0,163666.0,Air,2025-07-31,6,Delayed
+S2182,Vietnam,Cat Lai,Toys,2173.0,120819.0,Air,2025-06-02,2,Delayed
+S2183,USA,Danang,Spices,3179.0,271907.0,Road,2025-06-07,7,Delivered
+S2184,Vietnam,Danang,Pharmaceuticals,680.0,146900.0,Air,2025-12-28,4,In Transit
+S2185,USA,Ho Chi Minh,Pharmaceuticals,1110.0,278365.0,Air,2025-05-19,5,Hold
+S2186,Vietnam,Cat Lai,Spices,2196.0,18569.0,Road,2025-08-09,6,Hold
+S2187,China,Danang,Machinery,3544.0,232966.0,Road,2025-09-30,5,In Transit
+S2188,South Korea,Ho Chi Minh,Furniture,3329.0,42860.0,Road,2025-06-03,5,Delivered
+S2189,Vietnam,Ho Chi Minh,Textiles,1551.0,207630.0,Road,2025-09-06,6,Delivered
+S2190,South Korea,Ho Chi Minh,Spices,2233.0,149587.0,Sea,2025-10-06,1,Delivered
+S2191,South Korea,Danang,Toys,1954.0,76695.0,Sea,2025-10-31,3,Hold
+S2192,Germany,Cat Lai,Automotive Parts,308.0,258078.0,Air,2025-10-03,4,Delivered
+S2193,Vietnam,Haiphong,Machinery,3550.0,247599.0,Sea,2025-01-02,4,Delivered
+S2194,Japan,Ho Chi Minh,Spices,3957.0,160976.0,Air,2025-03-29,7,Hold
+S2195,Germany,Danang,Spices,527.0,196007.0,Sea,2025-10-14,7,Hold
+S2196,Japan,Danang,Pharmaceuticals,1999.0,10636.0,Road,2025-05-10,7,Delayed
+S2197,South Korea,Haiphong,Automotive Parts,514.0,266578.0,Road,2025-03-19,4,Hold
+S2198,South Korea,Haiphong,Automotive Parts,3745.0,288816.0,Sea,2025-09-17,5,In Transit
+S2199,Germany,Danang,Toys,1334.0,272956.0,Sea,2025-08-29,7,Hold
+S2200,Germany,Cat Lai,Automotive Parts,2946.0,232693.0,Air,2025-05-21,6,Hold
+S2201,Japan,Haiphong,Spices,980.0,5654.0,Air,2025-08-16,3,Delivered
+S2202,USA,Danang,Textiles,3500.0,59633.0,Air,2025-06-12,2,Delayed
+S2203,Japan,Haiphong,Electronics,1720.0,22143.0,Road,2025-08-24,4,Delivered
+S2204,Germany,Cat Lai,Machinery,355.0,60934.0,Road,2025-05-08,6,Delayed
+S2205,India,Ho Chi Minh,Electronics,1696.0,108463.0,Road,2025-07-19,3,Delivered
+S2206,Germany,Haiphong,Spices,1924.0,130851.0,Road,2025-01-31,3,In Transit
+S2207,India,Cat Lai,Electronics,3543.0,34087.0,Air,2025-05-18,1,Delivered
+S2208,China,Danang,Spices,,147690.0,Road,2025-01-21,6,Delivered
+S2209,Germany,Haiphong,Electronics,3273.0,275590.0,Road,2025-08-22,4,In Transit
+S2210,China,Haiphong,Automotive Parts,3005.0,163272.0,Road,2025-07-21,7,In Transit
+S2211,USA,Danang,Furniture,921.0,231179.0,Road,2025-10-06,5,Hold
+S2212,Japan,Ho Chi Minh,Automotive Parts,3782.0,197537.0,Sea,2025-05-11,7,Delivered
+S2213,India,Danang,Automotive Parts,1112.0,222508.0,Air,2025-05-28,3,In Transit
+S2214,Japan,Haiphong,Toys,3557.0,123422.0,Air,2025-01-29,3,In Transit
+S2215,China,Danang,Pharmaceuticals,10700.0,224631.0,Road,2025-12-27,2,Hold
+S2216,India,Cat Lai,Pharmaceuticals,212.0,44148.0,Sea,2025-11-04,7,Delayed
+S2217,Japan,Danang,Electronics,2855.0,156770.0,Air,2025-06-11,1,In Transit
+S2218,Germany,Haiphong,Spices,697.0,192535.0,Air,2025-12-23,3,In Transit
+S2219,South Korea,Danang,Toys,1956.0,83012.0,Road,2025-12-06,3,Delivered
+S2220,China,Ho Chi Minh,Automotive Parts,2485.0,61116.0,Road,2025-03-02,5,Hold
+S2221,Japan,Danang,Toys,13170.0,149233.0,Air,2025-05-05,5,Delivered
+S2222,China,Ho Chi Minh,Electronics,3609.0,37152.0,Air,2025-03-12,2,Delayed
+S2223,Thailand,Cat Lai,Pharmaceuticals,,111379.0,Sea,2025-11-22,6,Hold
+S2224,China,Ho Chi Minh,Furniture,1394.0,231905.0,Air,2025-12-30,2,Delivered
+S2225,India,Danang,Machinery,2204.0,25836.0,Air,2025-08-31,2,In Transit
+S2226,Thailand,Haiphong,Electronics,2853.0,226439.0,Road,2025-09-06,5,In Transit
+S2227,Vietnam,Ho Chi Minh,Toys,2908.0,191720.0,Air,2025-08-09,7,Hold
+S2228,India,Cat Lai,Furniture,1847.0,162403.0,Road,2025-01-21,7,In Transit
+S2229,South Korea,Ho Chi Minh,Machinery,1790.0,146835.0,Air,2025-03-23,7,Delivered
+S2230,Thailand,Ho Chi Minh,Textiles,3096.0,98109.0,Air,2025-12-10,6,Hold
+S2231,Vietnam,Ho Chi Minh,Electronics,3183.0,155259.0,Air,2025-01-10,5,In Transit
+S2232,Germany,Cat Lai,Electronics,1690.0,148029.0,Sea,2025-01-12,1,In Transit
+S2233,China,Danang,Textiles,2875.0,87018.0,Road,2025-09-20,4,Delayed
+S2234,Japan,Ho Chi Minh,Textiles,342.0,128076.0,Sea,2025-05-25,4,Delayed
+S2235,USA,Ho Chi Minh,Electronics,1424.0,163177.0,Air,2025-07-11,1,Hold
+S2236,China,Haiphong,Textiles,3451.0,184425.0,Sea,2025-09-07,7,Delayed
+S2237,Vietnam,Cat Lai,Automotive Parts,2961.0,220657.0,Road,2025-04-24,4,Delivered
+S2238,China,Ho Chi Minh,Machinery,3635.0,7637.0,Air,2025-01-26,6,In Transit
+S2239,South Korea,Cat Lai,Machinery,2726.0,242989.0,Sea,2025-09-28,5,In Transit
+S2240,Germany,Ho Chi Minh,Machinery,764.0,237259.0,Sea,2025-02-02,4,In Transit
+S2241,USA,Danang,Automotive Parts,2718.0,87464.0,Road,2025-03-03,6,Hold
+S2242,Thailand,Danang,Spices,2631.0,295886.0,Sea,2025-08-17,5,Hold
+S2243,Thailand,Ho Chi Minh,Textiles,1915.0,16831.0,Road,2025-10-30,6,Delayed
+S2244,Thailand,Danang,Furniture,,,Air,2025-04-05,1,In Transit
+S2245,Vietnam,Ho Chi Minh,Textiles,616.0,251983.0,Air,2025-02-04,2,In Transit
+S2246,India,Danang,Electronics,2048.0,109824.0,Sea,2025-07-12,1,In Transit
+S2247,India,Haiphong,Pharmaceuticals,2555.0,93741.0,Air,2025-03-17,4,In Transit
+S2248,Japan,Haiphong,Toys,2896.0,23830.0,Air,2025-09-06,5,In Transit
+S2249,USA,Haiphong,Toys,1917.0,74202.0,Sea,2025-03-24,6,Delivered
+S2250,Thailand,Cat Lai,Machinery,1590.0,222394.0,Air,2025-01-25,4,In Transit
+S2251,India,Cat Lai,Textiles,3272.0,207123.0,Sea,2025-02-26,4,Delivered
+S2252,Vietnam,Haiphong,Furniture,1267.0,162699.0,Road,2025-02-01,2,In Transit
+S2253,Japan,Cat Lai,Electronics,2986.0,282342.0,Road,2025-11-15,7,Hold
+S2254,Germany,Danang,Automotive Parts,2066.0,111471.0,Road,2025-01-12,4,Hold
+S2255,Japan,Ho Chi Minh,Spices,1321.0,296619.0,Sea,2025-11-15,2,Delivered
+S2256,India,Ho Chi Minh,Automotive Parts,3991.0,241824.0,Sea,2025-11-29,5,In Transit
+S2257,South Korea,Ho Chi Minh,Furniture,1488.0,24403.0,Air,2025-04-02,5,Hold
+S2258,Vietnam,Haiphong,Electronics,2006.0,8681.0,Air,2025-01-01,6,Hold
+S2259,South Korea,Cat Lai,Machinery,2387.0,120260.0,Air,2025-11-22,7,In Transit
+S2260,Thailand,Danang,Textiles,1704.0,178364.0,Air,2025-05-16,2,In Transit
+S2261,South Korea,Danang,Electronics,3508.0,110386.0,Air,2025-07-15,1,Hold
+S2262,Thailand,Haiphong,Toys,3221.0,238378.0,Sea,2025-05-13,5,In Transit
+S2263,Thailand,Danang,Spices,1216.0,98246.0,Sea,2025-03-27,7,Delayed
+S2264,India,Danang,Automotive Parts,1152.0,100864.0,Road,2025-10-22,6,In Transit
+S2265,South Korea,Danang,Spices,3151.0,213886.0,Road,2025-10-06,1,Hold
+S2266,Thailand,Danang,Spices,271.0,275561.0,Road,2025-11-20,5,Hold
+S2267,USA,Cat Lai,Furniture,1890.0,170837.0,Road,2025-06-29,5,Delivered
+S2268,Germany,Danang,Furniture,3461.0,250160.0,Sea,2025-01-04,6,Delayed
+S2269,Japan,Ho Chi Minh,Textiles,1491.0,192646.0,Sea,2025-05-06,6,Hold
+S2270,Japan,Haiphong,Furniture,1544.0,264278.0,Sea,2025-06-24,3,Delayed
+S2271,India,Cat Lai,Furniture,2354.0,294819.0,Air,2025-09-08,4,In Transit
+S2272,South Korea,Danang,Electronics,3503.0,261681.0,Air,2025-01-21,4,Hold
+S2273,South Korea,Cat Lai,Toys,3313.0,176635.0,Road,2025-04-15,1,Delivered
+S2274,Thailand,Danang,Machinery,3973.0,16332.0,Air,2025-03-07,4,Hold
+S2275,Vietnam,Ho Chi Minh,Textiles,1082.0,259817.0,Sea,2025-09-20,1,Delivered
+S2276,China,Haiphong,Electronics,338.0,,Road,2025-02-18,7,Delayed
+S2277,Thailand,Danang,Machinery,2862.0,3379890.0,Road,2025-01-16,5,Delivered
+S2278,Germany,Danang,Spices,3954.0,204519.0,Air,2025-05-25,3,In Transit
+S2279,USA,Danang,Electronics,3110.0,266849.0,Road,2025-12-06,3,In Transit
+S2280,Japan,Danang,Pharmaceuticals,2520.0,85730.0,Air,2025-09-07,5,In Transit
+S2281,Thailand,Haiphong,Electronics,1704.0,242474.0,Air,2025-12-09,6,Hold
+S2282,China,Haiphong,Furniture,2663.0,295477.0,Road,2025-12-20,2,In Transit
+S2283,China,Ho Chi Minh,Machinery,2753.0,288817.0,Air,2025-03-16,2,In Transit
+S2284,Thailand,Haiphong,Textiles,932.0,45870.0,Air,2025-10-17,4,Hold
+S2285,India,Danang,Textiles,,258017.0,Air,2025-10-09,6,Delayed
+S2286,Japan,Ho Chi Minh,Machinery,623.0,132536.0,Air,2025-03-07,1,In Transit
+S2287,India,Ho Chi Minh,Furniture,3678.0,289965.0,Road,2025-05-05,7,In Transit
+S2288,USA,Ho Chi Minh,Automotive Parts,1791.0,30494.0,Sea,2025-11-15,3,Hold
+S2289,China,Danang,Electronics,589.0,104477.0,Sea,2025-03-28,4,Delayed
+S2290,China,Cat Lai,Furniture,541.0,210232.0,Air,2025-02-10,5,Delayed
+S2291,Germany,Danang,Pharmaceuticals,1145.0,285790.0,Air,2025-07-05,6,Delayed
+S2292,USA,Haiphong,Toys,813.0,128777.0,Air,2025-12-20,3,Hold
+S2293,China,Haiphong,Spices,692.0,82360.0,Sea,2025-12-01,1,Delivered
+S2294,USA,Danang,Machinery,391.0,138501.0,Air,2025-09-23,1,Delivered
+S2295,Japan,Danang,Toys,698.0,65654.0,Road,2025-09-28,2,In Transit
+S2296,South Korea,Ho Chi Minh,Electronics,1021.0,124975.0,Road,2025-02-11,4,In Transit
+S2297,China,Danang,Textiles,1935.0,204215.0,Road,2025-04-03,5,In Transit
+S2298,Germany,Ho Chi Minh,Spices,1456.0,107326.0,Sea,2025-07-04,3,Delivered
+S2299,Japan,Haiphong,Toys,2168.0,82527.0,Air,2025-08-03,7,Hold
+S2300,Thailand,Ho Chi Minh,Automotive Parts,426.0,171991.0,Air,2025-01-17,1,In Transit
+S2301,USA,Danang,Toys,1594.0,101952.0,Air,2025-09-22,3,Hold
+S2302,Thailand,Haiphong,Pharmaceuticals,2386.0,151895.0,Sea,2025-04-24,5,In Transit
+S2303,India,Cat Lai,Textiles,3103.0,51015.0,Sea,2025-10-19,3,Hold
+S2304,Japan,Ho Chi Minh,Machinery,1016.0,107877.0,Sea,2025-10-19,4,Hold
+S2305,Thailand,Haiphong,Electronics,3420.0,282483.0,Sea,2025-02-17,2,Delivered
+S2306,Vietnam,Ho Chi Minh,Machinery,3386.0,139563.0,Road,2025-11-03,3,Hold
+S2307,Vietnam,Haiphong,Spices,1673.0,102493.0,Sea,2025-04-07,6,Delayed
+S2308,China,Haiphong,Electronics,1286.0,151800.0,Sea,2025-04-05,2,Delivered
+S2309,USA,Ho Chi Minh,Furniture,303.0,196480.0,Sea,2025-11-22,5,In Transit
+S2310,South Korea,Cat Lai,Automotive Parts,2074.0,126648.0,Air,2025-03-15,2,Delivered
+S2311,Japan,Haiphong,Furniture,1070.0,292307.0,Air,2025-12-02,3,Delayed
+S2312,China,Haiphong,Furniture,867.0,153790.0,Air,2025-03-09,3,Delayed
+S2313,Germany,Haiphong,Machinery,2242.0,92508.0,Road,2025-09-03,6,Hold
+S2314,India,Cat Lai,Spices,472.0,219839.0,Road,2025-03-18,1,Delayed
+S2315,USA,Cat Lai,Automotive Parts,1229.0,279270.0,Sea,2025-07-27,6,Delayed
+S2316,Japan,Danang,Toys,3418.0,69926.0,Air,2025-09-11,3,Delayed
+S2317,Vietnam,Ho Chi Minh,Electronics,2431.0,45633.0,Road,2025-08-09,7,Delayed
+S2318,Japan,Cat Lai,Electronics,1251.0,213726.0,Air,2025-09-19,2,In Transit
+S2319,South Korea,Ho Chi Minh,Pharmaceuticals,1773.0,8317.0,Road,2025-11-27,6,In Transit
+S2320,Vietnam,Danang,Textiles,3390.0,197718.0,Road,2025-12-10,6,Delivered
+S2321,South Korea,Ho Chi Minh,Pharmaceuticals,492.0,192035.0,Sea,2025-09-16,7,Hold
+S2322,Germany,Cat Lai,Toys,3642.0,185388.0,Sea,2025-11-04,7,In Transit
+S2323,India,Ho Chi Minh,Pharmaceuticals,3515.0,282648.0,Road,2025-03-15,7,Delayed
+S2324,Germany,Cat Lai,Electronics,3851.0,204665.0,Sea,2025-05-05,1,Hold
+S2325,China,Ho Chi Minh,Machinery,3997.0,217369.0,Road,2025-07-07,3,In Transit
+S2326,China,Cat Lai,Furniture,3489.0,60501.0,Road,2025-09-11,3,Delivered
+S2327,Germany,Cat Lai,Spices,2424.0,189381.0,Air,2025-11-17,5,Delayed
+S2328,India,Ho Chi Minh,Furniture,3570.0,32043.0,Sea,2025-11-04,1,Hold
+S2329,Germany,Danang,Furniture,3947.0,38635.0,Sea,2025-08-23,5,In Transit
+S2330,India,Haiphong,Automotive Parts,2305.0,215387.0,Sea,2025-09-07,5,Hold
+S2331,India,Danang,Electronics,1492.0,85691.0,Air,2025-11-28,5,In Transit
+S2332,Thailand,Ho Chi Minh,Toys,507.0,282510.0,Air,2025-12-11,4,Delivered
+S2333,Vietnam,Danang,Toys,3841.0,98944.0,Air,2025-03-13,5,Delayed
+S2334,USA,Cat Lai,Spices,3559.0,208179.0,Sea,2025-08-23,6,Delivered
+S2335,India,Haiphong,Machinery,1176.0,44236.0,Sea,2025-11-20,2,Delayed
+S2336,South Korea,Ho Chi Minh,Automotive Parts,3376.0,271294.0,Sea,2025-06-05,6,Delayed
+S2337,India,Ho Chi Minh,Textiles,1451.0,286567.0,Air,2025-04-25,6,Hold
+S2338,India,Ho Chi Minh,Machinery,1470.0,9137.0,Air,2025-11-09,3,In Transit
+S2339,India,Haiphong,Pharmaceuticals,2947.0,34992.0,Road,2025-08-16,4,Delivered
+S2340,Thailand,Cat Lai,Machinery,1717.0,120140.0,Air,2025-11-18,5,Delivered
+S2341,Vietnam,Ho Chi Minh,Machinery,2330.0,180993.0,Road,2025-12-12,3,Delivered
+S2342,Thailand,Danang,Furniture,1409.0,126225.0,Sea,2025-09-02,1,Hold
+S2343,China,Ho Chi Minh,Machinery,2499.0,215047.0,Air,2025-11-02,1,Hold
+S2344,Thailand,Ho Chi Minh,Toys,1578.0,24122.0,Sea,2025-01-14,3,Hold
+S2345,South Korea,Ho Chi Minh,Pharmaceuticals,1973.0,291100.0,Sea,2025-01-16,2,Delayed
+S2346,South Korea,Ho Chi Minh,Pharmaceuticals,1919.0,68879.0,Sea,2025-02-11,3,Delivered
+S2347,Thailand,Cat Lai,Electronics,2242.0,63560.0,Sea,2025-04-20,3,Delayed
+S2348,Vietnam,Danang,Machinery,995.0,204757.0,Air,2025-10-05,4,Delivered
+S2349,Germany,Cat Lai,Furniture,1096.0,242268.0,Sea,2025-11-20,1,Delivered
+S2350,USA,Danang,Machinery,2161.0,268312.0,Road,2025-01-19,1,In Transit
+S2351,Vietnam,Ho Chi Minh,Textiles,409.0,171969.0,Air,2025-03-07,5,Delivered
+S2352,Thailand,Haiphong,Textiles,3063.0,151104.0,Sea,2025-06-16,6,Hold
+S2353,India,Cat Lai,Furniture,2856.0,270660.0,Air,2025-03-14,3,Hold
+S2354,Japan,Haiphong,Electronics,2694.0,,Road,2025-11-06,3,Hold
+S2355,USA,Cat Lai,Electronics,2707.0,35373.0,Sea,2025-04-22,2,In Transit
+S2356,USA,Ho Chi Minh,Pharmaceuticals,1167.0,127026.0,Road,2025-10-01,7,In Transit
+S2357,South Korea,Cat Lai,Pharmaceuticals,671.0,35270.0,Sea,2025-03-26,7,Delayed
+S2358,USA,Ho Chi Minh,Automotive Parts,3991.0,237931.0,Road,2025-05-19,1,Delivered
+S2359,Thailand,Cat Lai,Furniture,2617.0,200889.0,Sea,2025-02-08,2,Delivered
+S2360,India,Ho Chi Minh,Machinery,3147.0,70184.0,Air,2025-04-15,4,Hold
+S2361,India,Ho Chi Minh,Spices,3763.0,215765.0,Sea,2025-11-20,5,Hold
+S2362,China,Danang,Furniture,1122.0,42879.0,Air,2025-10-08,2,Hold
+S2363,India,Ho Chi Minh,Automotive Parts,336.0,8626.0,Sea,2025-05-03,1,Hold
+S2364,Vietnam,Danang,Pharmaceuticals,566.0,90936.0,Sea,2025-08-06,4,Hold
+S2365,India,Ho Chi Minh,Furniture,3159.0,239873.0,Road,2025-03-02,3,Hold
+S2366,South Korea,Haiphong,Furniture,383.0,86515.0,Road,2025-04-10,4,Delivered
+S2367,India,Ho Chi Minh,Pharmaceuticals,3859.0,213137.0,Road,2025-11-03,6,In Transit
+S2368,China,Haiphong,Toys,3558.0,60390.0,Sea,2025-12-20,2,Hold
+S2369,Japan,Haiphong,Automotive Parts,2719.0,228032.0,Sea,2025-07-23,1,Delivered
+S2370,Thailand,Ho Chi Minh,Pharmaceuticals,1598.0,,Sea,2025-09-15,2,Hold
+S2371,South Korea,Haiphong,Electronics,2901.0,149454.0,Air,2025-01-05,3,Delayed
+S2372,Vietnam,Danang,Machinery,2996.0,9025.0,Air,2025-07-16,7,Delayed
+S2373,Japan,Cat Lai,Pharmaceuticals,736.0,259043.0,Sea,2025-06-29,3,Delivered
+S2374,South Korea,Ho Chi Minh,Automotive Parts,3782.0,123910.0,Road,2025-12-08,1,In Transit
+S2375,Germany,Haiphong,Textiles,3049.0,101055.0,Road,2025-05-13,6,Delayed
+S2376,USA,Ho Chi Minh,Electronics,1802.0,210782.0,Road,2025-11-20,5,Delayed
+S2377,Germany,Danang,Textiles,1473.0,288539.0,Sea,2025-09-10,4,In Transit
+S2378,India,Ho Chi Minh,Spices,3167.0,277869.0,Road,2025-09-22,4,Delayed
+S2379,Japan,Ho Chi Minh,Pharmaceuticals,2757.0,38461.0,Sea,2025-04-03,3,Hold
+S2380,India,Haiphong,Electronics,2877.0,263072.0,Air,2025-05-30,2,In Transit
+S2381,USA,Danang,Machinery,3249.0,46115.0,Road,2025-05-18,7,Delayed
+S2382,South Korea,Cat Lai,Pharmaceuticals,1296.0,115084.0,Air,2025-07-27,2,In Transit
+S2383,USA,Cat Lai,Machinery,1505.0,164762.0,Road,2025-05-05,6,Hold
+S2384,China,Haiphong,Toys,1115.0,268551.0,Sea,2025-08-22,5,Delayed
+S2385,USA,Ho Chi Minh,Furniture,3631.0,78568.0,Sea,2025-03-02,2,Delivered
+S2386,China,Haiphong,Textiles,3281.0,63560.0,Sea,2025-11-03,4,Delayed
+S2387,USA,Haiphong,Electronics,3482.0,153866.0,Sea,2025-09-23,7,Delayed
+S2388,Thailand,Haiphong,Machinery,351.0,155953.0,Road,2025-05-14,2,Hold
+S2389,China,Ho Chi Minh,Automotive Parts,1228.0,,Air,2025-11-14,7,Delivered
+S2390,Japan,Danang,Machinery,1418.0,241770.0,Sea,2025-04-23,5,Delivered
+S2391,India,Haiphong,Automotive Parts,2177.0,231024.0,Road,2025-07-10,4,Delivered
+S2392,Vietnam,Ho Chi Minh,Pharmaceuticals,3554.0,185775.0,Air,2025-07-06,7,Hold
+S2393,India,Danang,Electronics,2711.0,96288.0,Sea,2025-11-15,2,Hold
+S2394,Germany,Haiphong,Machinery,3384.0,254836.0,Air,2025-03-30,4,Hold
+S2395,India,Cat Lai,Spices,470.0,19390.0,Sea,2025-07-06,3,Hold
+S2396,South Korea,Danang,Machinery,1386.0,223547.0,Air,2025-11-03,3,Hold
+S2397,Thailand,Haiphong,Toys,659.0,32307.0,Air,2025-05-12,6,Delivered
+S2398,USA,Danang,Spices,304.0,232436.0,Sea,2025-12-26,3,In Transit
+S2399,Germany,Danang,Electronics,3964.0,230121.0,Road,2025-05-03,2,Hold
+S2400,South Korea,Danang,Toys,3827.0,256063.0,Air,2025-02-17,5,In Transit
+S2401,South Korea,Danang,Machinery,3553.0,29502.0,Sea,2025-10-15,4,Delayed
+S2402,China,Danang,Automotive Parts,1910.0,27486.0,Air,2025-06-28,7,Delayed
+S2403,India,Danang,Machinery,2409.0,,Air,2025-06-29,1,Hold
+S2404,Japan,Haiphong,Textiles,2598.0,193788.0,Road,2025-04-09,3,Delayed
+S2405,Vietnam,Cat Lai,Pharmaceuticals,633.0,233300.0,Air,2025-11-26,3,In Transit
+S2406,Japan,Ho Chi Minh,Furniture,3099.0,108920.0,Air,2025-02-03,1,Delayed
+S2407,Germany,Danang,Automotive Parts,,217566.0,Sea,2025-03-11,7,Delayed
+S2408,Thailand,Ho Chi Minh,Textiles,1694.0,67785.0,Sea,2025-06-20,7,In Transit
+S2409,Japan,Haiphong,Spices,3403.0,81050.0,Road,2025-09-29,1,Delayed
+S2410,USA,Danang,Pharmaceuticals,286.0,27738.0,Air,2025-02-28,7,Hold
+S2411,Japan,Cat Lai,Electronics,1911.0,79231.0,Air,2025-06-30,2,In Transit
+S2412,Germany,Ho Chi Minh,Automotive Parts,2430.0,78606.0,Air,2025-01-19,7,In Transit
+S2413,Vietnam,Danang,Furniture,2615.0,232369.0,Road,2025-08-14,4,Delivered
+S2414,Japan,Haiphong,Pharmaceuticals,328.0,282267.0,Air,2025-04-05,7,Delivered
+S2415,USA,Cat Lai,Spices,1469.0,161688.0,Sea,2025-10-24,3,In Transit
+S2416,China,Ho Chi Minh,Toys,3872.0,278326.0,Road,2025-03-22,5,In Transit
+S2417,Thailand,Ho Chi Minh,Toys,1801.0,167403.0,Sea,2025-06-24,2,Delivered
+S2418,Germany,Danang,Furniture,869.0,182170.0,Sea,2025-08-10,2,Hold
+S2419,China,Cat Lai,Electronics,3649.0,31128.0,Road,2025-04-13,7,Delayed
+S2420,China,Cat Lai,Electronics,348.0,,Sea,2025-02-23,5,Delayed
+S2421,China,Cat Lai,Spices,1184.0,263470.0,Air,2025-07-02,5,Delayed
+S2422,South Korea,Cat Lai,Automotive Parts,1051.0,157948.0,Road,2025-12-17,6,In Transit
+S2423,Thailand,Haiphong,Spices,1656.0,145021.0,Sea,2025-11-14,5,Hold
+S2424,Vietnam,Cat Lai,Machinery,827.0,56962.0,Air,2025-12-21,7,Delivered
+S2425,India,Ho Chi Minh,Electronics,3997.0,95054.0,Air,2025-12-15,7,Hold
+S2426,Thailand,Ho Chi Minh,Pharmaceuticals,1692.0,207278.0,Sea,2025-11-17,1,Hold
+S2427,South Korea,Haiphong,Machinery,2693.0,29099.0,Air,2025-03-09,3,Delayed
+S2428,India,Ho Chi Minh,Toys,2244.0,240943.0,Road,2025-01-28,6,Delivered
+S2429,Thailand,Ho Chi Minh,Toys,3752.0,188683.0,Sea,2025-10-01,7,Hold
+S2430,China,Cat Lai,Textiles,1083.0,174957.0,Air,2025-10-09,1,Delivered
+S2431,Germany,Ho Chi Minh,Furniture,2541.0,201292.0,Air,2025-12-26,6,In Transit
+S2432,India,Haiphong,Machinery,1988.0,12837.0,Sea,2025-11-07,3,Delayed
+S2433,USA,Cat Lai,Furniture,3414.0,185427.0,Sea,2025-04-29,6,Delivered
+S2434,USA,Danang,Spices,449.0,183371.0,Sea,2025-05-14,1,In Transit
+S2435,Japan,Cat Lai,Machinery,3125.0,253003.0,Sea,2025-05-09,4,In Transit
+S2436,India,Haiphong,Spices,1147.0,107413.0,Road,2025-01-08,7,In Transit
+S2437,Germany,Cat Lai,Textiles,1174.0,56012.0,Sea,2025-02-20,3,Hold
+S2438,Vietnam,Cat Lai,Electronics,1525.0,135193.0,Road,2025-12-07,2,Hold
+S2439,South Korea,Haiphong,Toys,3296.0,223168.0,Road,2025-10-08,3,Delayed
+S2440,China,Cat Lai,Textiles,3036.0,153178.0,Sea,2025-06-24,3,Delayed
+S2441,Japan,Haiphong,Toys,1183.0,63123.0,Road,2025-07-02,3,In Transit
+S2442,USA,Haiphong,Electronics,1088.0,116825.0,Sea,2025-07-11,4,Delayed
+S2443,South Korea,Danang,Spices,3137.0,13720.0,Sea,2025-09-06,7,Hold
+S2444,South Korea,Ho Chi Minh,Electronics,2317.0,173733.0,Air,2025-08-23,1,Delayed
+S2445,China,Ho Chi Minh,Toys,2872.0,251103.0,Sea,2025-03-24,7,Delivered
+S2446,Vietnam,Cat Lai,Toys,1074.0,229970.0,Air,2025-04-03,2,Hold
+S2447,Vietnam,Cat Lai,Furniture,3383.0,229866.0,Road,2025-11-08,1,In Transit
+S2448,India,Danang,Pharmaceuticals,3635.0,155862.0,Air,2025-09-25,6,In Transit
+S2449,USA,Danang,Textiles,1526.0,63655.0,Road,2025-04-30,6,Delayed
+S2450,Vietnam,Danang,Machinery,670.0,195715.0,Sea,2025-03-12,6,Hold
+S2451,Germany,Haiphong,Toys,21870.0,98448.0,Road,2025-01-17,1,In Transit
+S2452,Vietnam,Danang,Textiles,290.0,183446.0,Road,2025-09-10,5,In Transit
+S2453,South Korea,Danang,Furniture,729.0,178979.0,Sea,2025-05-02,4,Hold
+S2454,China,Cat Lai,Electronics,860.0,186143.0,Road,2025-01-10,5,Hold
+S2455,Germany,Danang,Furniture,938.0,125507.0,Sea,2025-10-14,7,In Transit
+S2456,India,Haiphong,Automotive Parts,,65186.0,Air,2025-11-12,6,Delayed
+S2457,USA,Haiphong,Automotive Parts,1071.0,127066.0,Sea,2025-11-22,4,Delayed
+S2458,India,Cat Lai,Machinery,1886.0,186323.0,Sea,2025-09-30,1,Delayed
+S2459,South Korea,Danang,Furniture,391.0,201243.0,Road,2025-11-02,6,Delivered
+S2460,Germany,Danang,Spices,2186.0,41160.0,Air,2025-10-20,1,Hold
+S2461,Germany,Haiphong,Machinery,3823.0,24156.0,Sea,2025-07-29,4,In Transit
+S2462,Germany,Danang,Spices,3513.0,81208.0,Air,2025-08-06,1,Delivered
+S2463,South Korea,Danang,Machinery,2385.0,154001.0,Air,2025-08-29,1,Delayed
+S2464,South Korea,Danang,Automotive Parts,544.0,236226.0,Road,2025-07-19,2,Delivered
+S2465,India,Ho Chi Minh,Machinery,3451.0,246766.0,Sea,2025-08-04,7,In Transit
+S2466,Japan,Cat Lai,Automotive Parts,1208.0,200413.0,Road,2025-07-24,5,In Transit
+S2467,India,Ho Chi Minh,Toys,3983.0,217909.0,Sea,2025-08-04,5,Hold
+S2468,USA,Cat Lai,Electronics,2750.0,70439.0,Air,2025-03-21,5,Delayed
+S2469,China,Haiphong,Spices,402.0,143266.0,Sea,2025-09-24,3,Delayed
+S2470,Germany,Danang,Furniture,772.0,207459.0,Sea,2025-02-04,2,Delivered
+S2471,Japan,Cat Lai,Toys,,126361.0,Air,2025-10-16,6,Delayed
+S2472,China,Ho Chi Minh,Toys,2252.0,217986.0,Air,2025-01-18,6,Delivered
+S2473,Japan,Danang,Machinery,2113.0,202286.0,Sea,2025-06-14,6,In Transit
+S2474,Vietnam,Haiphong,Automotive Parts,3508.0,34777.0,Road,2025-01-13,5,In Transit
+S2475,Vietnam,Cat Lai,Textiles,1916.0,,Sea,2025-07-21,7,In Transit
+S2476,Thailand,Cat Lai,Spices,,162255.0,Air,2025-08-17,5,In Transit
+S2477,Vietnam,Cat Lai,Toys,2796.0,203110.0,Road,2025-12-12,7,In Transit
+S2478,India,Danang,Machinery,2303.0,186649.0,Air,2025-01-01,2,Delivered
+S2479,Vietnam,Ho Chi Minh,Pharmaceuticals,642.0,283011.0,Air,2025-11-15,7,In Transit
+S2480,South Korea,Ho Chi Minh,Electronics,1460.0,67501.0,Road,2025-08-05,1,Delivered
+S2481,Germany,Cat Lai,Electronics,1069.0,150338.0,Air,2025-02-03,5,In Transit
+S2482,India,Haiphong,Textiles,3468.0,171280.0,Air,2025-12-25,6,Delivered
+S2483,China,Haiphong,Automotive Parts,784.0,126544.0,Air,2025-09-23,1,Delivered
+S2484,Thailand,Ho Chi Minh,Machinery,1794.0,143439.0,Air,2025-05-08,5,Delivered
+S2485,Thailand,Haiphong,Spices,2999.0,260230.0,Air,2025-07-31,4,Delayed
+S2486,Thailand,Ho Chi Minh,Automotive Parts,1737.0,40362.0,Air,2025-09-20,3,Delivered
+S2487,China,Cat Lai,Electronics,3720.0,255449.0,Air,2025-11-08,5,Delivered
+S2488,China,Ho Chi Minh,Automotive Parts,559.0,174357.0,Air,2025-03-21,4,In Transit
+S2489,China,Ho Chi Minh,Electronics,1923.0,131683.0,Air,2025-06-14,2,Delivered
+S2490,China,Cat Lai,Automotive Parts,3066.0,261157.0,Sea,2025-09-09,4,Delivered
+S2491,Thailand,Haiphong,Textiles,2277.0,210827.0,Sea,2025-01-12,2,Hold
+S2492,Thailand,Ho Chi Minh,Furniture,2002.0,,Air,2025-10-31,5,Delayed
+S2493,Japan,Ho Chi Minh,Textiles,2211.0,220757.0,Sea,2025-07-31,2,Hold
+S2494,India,Cat Lai,Textiles,2355.0,112669.0,Road,2025-10-09,4,In Transit
+S2495,Germany,Haiphong,Furniture,1043.0,213030.0,Sea,2025-04-22,7,Delayed
+S2496,Vietnam,Ho Chi Minh,Furniture,1825.0,163998.0,Air,2025-07-30,3,Delayed
+S2497,Vietnam,Cat Lai,Toys,2964.0,108215.0,Air,2025-08-27,1,Hold
+S2498,South Korea,Ho Chi Minh,Toys,1090.0,103707.0,Sea,2025-09-25,1,Delayed
+S2499,Thailand,Danang,Machinery,2191.0,97837.0,Air,2025-10-25,3,Hold
+S2500,South Korea,Cat Lai,Spices,2182.0,250847.0,Road,2025-11-13,6,Delivered
+S2501,India,Haiphong,Spices,1159.0,232544.0,Road,2025-02-27,1,Hold
+S2502,India,Haiphong,Machinery,1668.0,272614.0,Air,2025-02-03,5,Delayed
+S2503,South Korea,Haiphong,Textiles,3140.0,232467.0,Road,2025-09-20,6,Delayed
+S2504,Thailand,Haiphong,Textiles,1661.0,151025.0,Road,2025-12-31,5,In Transit
+S2505,South Korea,Ho Chi Minh,Electronics,931.0,240652.0,Sea,2025-02-04,4,In Transit
+S2506,Vietnam,Ho Chi Minh,Electronics,805.0,96493.0,Road,2025-09-28,4,In Transit
+S2507,Japan,Haiphong,Spices,2704.0,273667.0,Sea,2025-08-15,6,In Transit
+S2508,Vietnam,Haiphong,Machinery,814.0,222995.0,Air,2025-01-25,6,Delayed
+S2509,USA,Haiphong,Pharmaceuticals,2945.0,193262.0,Sea,2025-08-22,6,In Transit
+S2510,Thailand,Ho Chi Minh,Toys,2204.0,298313.0,Air,2025-02-28,6,Hold
+S2511,Thailand,Haiphong,Pharmaceuticals,19190.0,50641.0,Air,2025-09-08,2,Delivered
+S2512,Germany,Haiphong,Machinery,3766.0,159062.0,Air,2025-12-01,7,Delayed
+S2513,China,Danang,Electronics,873.0,34661.0,Air,2025-03-27,6,In Transit
+S2514,USA,Danang,Spices,1470.0,149491.0,Air,2025-09-08,7,Delayed
+S2515,India,Haiphong,Spices,2790.0,281601.0,Sea,2025-06-29,6,In Transit
+S2516,Thailand,Cat Lai,Electronics,1787.0,108619.0,Air,2025-07-26,4,Delayed
+S2517,South Korea,Haiphong,Pharmaceuticals,3104.0,38085.0,Road,2025-12-10,5,In Transit
+S2518,USA,Danang,Automotive Parts,,102064.0,Road,2025-05-29,7,Delivered
+S2519,Germany,Cat Lai,Automotive Parts,1096.0,186726.0,Air,2025-03-12,4,In Transit
+S2520,India,Cat Lai,Electronics,1662.0,110723.0,Road,2025-05-01,1,Hold
+S2521,China,Haiphong,Automotive Parts,477.0,138114.0,Sea,2025-09-10,2,Delayed
+S2522,China,Danang,Furniture,751.0,,Sea,2025-04-03,2,Delayed
+S2523,Germany,Danang,Machinery,1836.0,119161.0,Air,2025-09-13,5,Hold
+S2524,Germany,Cat Lai,Machinery,2358.0,164788.0,Air,2025-09-11,6,Hold
+S2525,South Korea,Haiphong,Electronics,2632.0,144133.0,Air,2025-12-18,4,Delivered
+S2526,Thailand,Ho Chi Minh,Textiles,960.0,144681.0,Road,2025-10-15,1,Delayed
+S2527,China,Ho Chi Minh,Toys,3462.0,246422.0,Road,2025-11-05,4,Delivered
+S2528,India,Danang,Pharmaceuticals,3761.0,275001.0,Sea,2025-02-28,6,Delayed
+S2529,USA,Ho Chi Minh,Electronics,2941.0,147692.0,Road,2025-03-10,6,Delayed
+S2530,India,Danang,Automotive Parts,1649.0,13177.0,Sea,2025-03-27,3,Delivered
+S2531,Japan,Danang,Pharmaceuticals,604.0,256842.0,Road,2025-10-01,4,Delayed
+S2532,Japan,Danang,Textiles,1558.0,94941.0,Sea,2025-08-15,5,Delayed
+S2533,Germany,Ho Chi Minh,Automotive Parts,1432.0,263121.0,Air,2025-03-22,4,Delivered
+S2534,South Korea,Danang,Spices,221.0,16826.0,Road,2025-04-24,2,In Transit
+S2535,Japan,Cat Lai,Toys,877.0,149962.0,Sea,2025-07-03,1,Delivered
+S2536,China,Haiphong,Furniture,2858.0,131044.0,Road,2025-10-07,7,Delayed
+S2537,India,Haiphong,Automotive Parts,2228.0,194103.0,Air,2025-11-18,5,Hold
+S2538,India,Danang,Furniture,1431.0,10495.0,Sea,2025-11-14,3,In Transit
+S2539,Germany,Haiphong,Pharmaceuticals,2255.0,33481.0,Road,2025-02-23,1,Hold
+S2540,Thailand,Ho Chi Minh,Furniture,2949.0,147339.0,Road,2025-07-16,1,In Transit
+S2541,Thailand,Ho Chi Minh,Pharmaceuticals,3958.0,241774.0,Air,2025-10-20,7,Hold
+S2542,USA,Haiphong,Pharmaceuticals,2008.0,142815.0,Air,2025-10-20,2,In Transit
+S2543,Germany,Ho Chi Minh,Pharmaceuticals,728.0,108475.0,Sea,2025-10-18,2,Delivered
+S2544,Vietnam,Haiphong,Pharmaceuticals,2237.0,184845.0,Road,2025-06-29,2,In Transit
+S2545,USA,Haiphong,Pharmaceuticals,2849.0,54476.0,Road,2025-08-10,5,In Transit
+S2546,Vietnam,Haiphong,Automotive Parts,1876.0,228177.0,Air,2025-10-01,4,In Transit
+S2547,Thailand,Danang,Pharmaceuticals,856.0,295696.0,Air,2025-09-01,1,Delayed
+S2548,Germany,Haiphong,Automotive Parts,365.0,201314.0,Sea,2025-06-03,4,Hold
+S2549,Vietnam,Danang,Pharmaceuticals,1048.0,165020.0,Road,2025-10-31,4,Delivered
+S2550,Germany,Haiphong,Furniture,695.0,212383.0,Road,2025-09-30,2,Hold
+S2551,Germany,Haiphong,Spices,789.0,74093.0,Sea,2025-05-15,4,Hold
+S2552,Thailand,Haiphong,Pharmaceuticals,628.0,74123.0,Sea,2025-11-09,1,Delivered
+S2553,USA,Ho Chi Minh,Textiles,3021.0,21535.0,Air,2025-01-08,1,Delayed
+S2554,USA,Danang,Pharmaceuticals,362.0,51562.0,Air,2025-05-08,6,In Transit
+S2555,Germany,Danang,Pharmaceuticals,2613.0,261323.0,Sea,2025-02-25,3,Delayed
+S2556,Japan,Haiphong,Furniture,3797.0,263916.0,Sea,2025-05-06,5,Delayed
+S2557,South Korea,Haiphong,Toys,1462.0,194607.0,Road,2025-06-08,4,In Transit
+S2558,Thailand,Ho Chi Minh,Machinery,,235063.0,Sea,2025-02-28,5,Hold
+S2559,South Korea,Ho Chi Minh,Furniture,3716.0,46269.0,Sea,2025-02-27,5,In Transit
+S2560,South Korea,Ho Chi Minh,Textiles,854.0,85674.0,Road,2025-05-20,5,Delivered
+S2561,USA,Danang,Machinery,3780.0,290291.0,Sea,2025-06-25,7,In Transit
+S2562,USA,Danang,Electronics,468.0,82095.0,Air,2025-04-18,6,Hold
+S2563,Japan,Danang,Electronics,1976.0,249172.0,Air,2025-07-30,5,Delayed
+S2564,South Korea,Haiphong,Toys,2662.0,205003.0,Road,2025-03-15,6,Delayed
+S2565,South Korea,Danang,Textiles,1468.0,95925.0,Sea,2025-06-16,1,In Transit
+S2566,Germany,Cat Lai,Furniture,1215.0,71381.0,Air,2025-12-23,7,Delivered
+S2567,USA,Cat Lai,Automotive Parts,2922.0,104468.0,Air,2025-10-31,4,Hold
+S2568,South Korea,Ho Chi Minh,Textiles,1283.0,247330.0,Air,2025-08-21,6,Delayed
+S2569,India,Danang,Spices,205.0,18731.0,Air,2025-11-23,3,In Transit
+S2570,Japan,Cat Lai,Machinery,3980.0,56024.0,Sea,2025-07-01,5,Delivered
+S2571,Vietnam,Ho Chi Minh,Machinery,1181.0,121712.0,Sea,2025-05-02,7,Delivered
+S2572,India,Danang,Pharmaceuticals,2817.0,106121.0,Sea,2025-11-30,3,Delayed
+S2573,India,Haiphong,Electronics,606.0,270976.0,Sea,2025-07-22,1,Delayed
+S2574,Vietnam,Cat Lai,Toys,3488.0,37332.0,Air,2025-01-29,1,Hold
+S2575,Thailand,Haiphong,Machinery,2153.0,17467.0,Road,2025-07-21,2,Delivered
+S2576,Thailand,Danang,Textiles,2273.0,46025.0,Road,2025-04-03,5,Hold
+S2577,Japan,Cat Lai,Machinery,3276.0,149179.0,Air,2025-11-25,2,Delivered
+S2578,India,Danang,Toys,1185.0,,Air,2025-12-22,7,Delivered
+S2579,South Korea,Haiphong,Toys,3803.0,99202.0,Road,2025-06-25,3,In Transit
+S2580,USA,Cat Lai,Toys,589.0,48481.0,Road,2025-11-26,4,Delayed
+S2581,Japan,Haiphong,Textiles,909.0,80118.0,Air,2025-07-30,2,Delivered
+S2582,Germany,Danang,Automotive Parts,2818.0,128714.0,Air,2025-07-03,1,Hold
+S2583,Vietnam,Danang,Pharmaceuticals,1671.0,229699.0,Sea,2025-04-05,5,Delayed
+S2584,India,Haiphong,Electronics,953.0,165185.0,Sea,2025-09-30,3,Hold
+S2585,Japan,Cat Lai,Machinery,2393.0,89363.0,Road,2025-05-17,6,Delayed
+S2586,China,Haiphong,Textiles,1611.0,216027.0,Air,2025-08-25,7,Delayed
+S2587,China,Danang,Furniture,3032.0,278958.0,Road,2025-12-19,7,Delivered
+S2588,Thailand,Haiphong,Electronics,1472.0,277168.0,Sea,2025-09-22,1,In Transit
+S2589,Vietnam,Danang,Automotive Parts,725.0,199360.0,Sea,2025-05-15,6,Delivered
+S2590,USA,Haiphong,Textiles,,,Road,2025-05-24,7,Delayed
+S2591,South Korea,Cat Lai,Spices,2260.0,274579.0,Sea,2025-01-19,4,Delivered
+S2592,USA,Cat Lai,Spices,3150.0,260095.0,Air,2025-08-19,5,Delivered
+S2593,USA,Haiphong,Pharmaceuticals,2631.0,266176.0,Road,2025-05-14,4,Delayed
+S2594,USA,Haiphong,Pharmaceuticals,755.0,254717.0,Air,2025-04-24,7,Delayed
+S2595,Vietnam,Cat Lai,Automotive Parts,3134.0,139479.0,Air,2025-05-19,4,Delivered
+S2596,USA,Danang,Automotive Parts,3670.0,37940.0,Sea,2025-05-05,7,Delivered
+S2597,Germany,Cat Lai,Pharmaceuticals,218.0,10666.0,Air,2025-07-23,5,Delivered
+S2598,Vietnam,Danang,Machinery,774.0,161164.0,Road,2025-03-02,5,Hold
+S2599,Germany,Haiphong,Machinery,3762.0,211717.0,Air,2025-09-07,6,Delivered
+S2600,Vietnam,Haiphong,Textiles,2998.0,31505.0,Air,2025-10-25,4,Hold
+S2601,Thailand,Danang,Furniture,1203.0,41713.0,Air,2025-01-13,3,In Transit
+S2602,Japan,Haiphong,Textiles,2666.0,209354.0,Air,2025-09-12,6,Hold
+S2603,China,Danang,Furniture,3608.0,82511.0,Air,2025-03-26,5,Delivered
+S2604,USA,Ho Chi Minh,Automotive Parts,2666.0,217204.0,Sea,2025-01-20,1,In Transit
+S2605,Thailand,Cat Lai,Electronics,2138.0,255694.0,Road,2025-02-19,7,Hold
+S2606,Japan,Ho Chi Minh,Textiles,2139.0,254836.0,Sea,2025-06-13,6,Hold
+S2607,China,Danang,Textiles,1835.0,239561.0,Road,2025-04-02,2,Delayed
+S2608,India,Cat Lai,Furniture,1898.0,8880.0,Road,2025-03-29,3,In Transit
+S2609,South Korea,Danang,Toys,2369.0,48539.0,Road,2025-03-10,7,Delayed
+S2610,Germany,Cat Lai,Automotive Parts,631.0,245056.0,Road,2025-02-06,6,In Transit
+S2611,India,Cat Lai,Automotive Parts,2291.0,224057.0,Road,2025-09-10,5,Hold
+S2612,Vietnam,Cat Lai,Spices,2095.0,19799.0,Air,2025-09-09,5,Delayed
+S2613,China,Cat Lai,Toys,2143.0,109843.0,Sea,2025-05-20,3,Delivered
+S2614,India,Danang,Furniture,1540.0,53784.0,Sea,2025-12-21,2,Hold
+S2615,South Korea,Cat Lai,Automotive Parts,2628.0,118034.0,Air,2025-06-17,6,In Transit
+S2616,Thailand,Cat Lai,Toys,344.0,205598.0,Road,2025-02-23,6,In Transit
+S2617,China,Ho Chi Minh,Pharmaceuticals,3598.0,59362.0,Sea,2025-06-27,4,Delayed
+S2618,India,Haiphong,Toys,2610.0,58997.0,Air,2025-10-24,1,Delayed
+S2619,Germany,Haiphong,Machinery,1273.0,186413.0,Air,2025-10-28,5,In Transit
+S2620,Germany,Ho Chi Minh,Spices,1288.0,281693.0,Sea,2025-12-25,6,Hold
+S2621,Japan,Ho Chi Minh,Pharmaceuticals,2602.0,221398.0,Sea,2025-04-16,6,Delayed
+S2622,India,Danang,Electronics,999.0,265464.0,Road,2025-05-17,7,Delivered
+S2623,USA,Danang,Textiles,3435.0,162255.0,Road,2025-07-09,7,In Transit
+S2624,India,Danang,Spices,3412.0,29624.0,Sea,2025-05-08,6,Delivered
+S2625,Thailand,Ho Chi Minh,Electronics,,198587.0,Road,2025-12-08,2,In Transit
+S2626,China,Ho Chi Minh,Textiles,1351.0,239784.0,Air,2025-02-16,1,Delivered
+S2627,China,Cat Lai,Machinery,2645.0,51705.0,Road,2025-01-05,6,Hold
+S2628,Thailand,Danang,Toys,2156.0,94326.0,Road,2025-09-14,3,In Transit
+S2629,India,Danang,Automotive Parts,3127.0,73369.0,Air,2025-10-27,5,Hold
+S2630,Thailand,Danang,Pharmaceuticals,662.0,206893.0,Road,2025-05-30,4,Delayed
+S2631,South Korea,Haiphong,Furniture,1974.0,276733.0,Air,2025-10-21,7,In Transit
+S2632,Vietnam,Cat Lai,Pharmaceuticals,2245.0,118012.0,Road,2025-08-31,3,Hold
+S2633,Thailand,Danang,Machinery,1007.0,180858.0,Sea,2025-10-02,5,Delivered
+S2634,Germany,Danang,Electronics,386.0,230758.0,Road,2025-07-27,7,Hold
+S2635,Thailand,Danang,Furniture,1943.0,128711.0,Sea,2025-04-25,2,In Transit
+S2636,China,Haiphong,Automotive Parts,931.0,81425.0,Sea,2025-07-14,7,Hold
+S2637,Germany,Haiphong,Machinery,2135.0,,Sea,2025-12-09,1,Delivered
+S2638,China,Ho Chi Minh,Furniture,1413.0,116915.0,Sea,2025-06-19,1,Delivered
+S2639,Japan,Cat Lai,Machinery,1611.0,109672.0,Sea,2025-03-23,5,Delivered
+S2640,USA,Ho Chi Minh,Toys,628.0,293783.0,Air,2025-06-03,3,Delayed
+S2641,China,Cat Lai,Machinery,3105.0,284349.0,Air,2025-05-21,4,In Transit
+S2642,Germany,Haiphong,Automotive Parts,1507.0,37930.0,Air,2025-11-10,2,Delivered
+S2643,Japan,Danang,Spices,2484.0,78313.0,Sea,2025-05-26,5,Delayed
+S2644,China,Ho Chi Minh,Textiles,1417.0,229923.0,Road,2025-11-19,2,Delivered
+S2645,South Korea,Danang,Furniture,1510.0,118153.0,Air,2025-05-02,1,Hold
+S2646,Thailand,Ho Chi Minh,Toys,970.0,285460.0,Road,2025-09-09,6,In Transit
+S2647,USA,Haiphong,Automotive Parts,957.0,237911.0,Road,2025-12-09,6,Hold
+S2648,China,Haiphong,Machinery,335.0,101058.0,Sea,2025-11-07,4,Delayed
+S2649,Japan,Haiphong,Toys,991.0,92876.0,Sea,2025-03-30,2,Hold
+S2650,South Korea,Ho Chi Minh,Automotive Parts,370.0,90366.0,Sea,2025-02-27,5,Hold
+S2651,India,Cat Lai,Spices,2406.0,18403.0,Air,2025-03-04,4,Delivered
+S2652,Japan,Ho Chi Minh,Toys,2448.0,253550.0,Sea,2025-12-13,7,Hold
+S2653,Thailand,Cat Lai,Toys,3758.0,266420.0,Air,2025-11-04,7,Delivered
+S2654,Japan,Ho Chi Minh,Textiles,1780.0,168004.0,Air,2025-10-07,3,Delivered
+S2655,South Korea,Ho Chi Minh,Pharmaceuticals,1161.0,257396.0,Air,2025-03-13,6,In Transit
+S2656,Japan,Haiphong,Furniture,2830.0,62241.0,Air,2025-01-09,5,Delayed
+S2657,South Korea,Danang,Textiles,3775.0,146439.0,Sea,2025-04-04,2,Delayed
+S2658,China,Danang,Electronics,1075.0,70030.0,Air,2025-12-05,4,Delayed
+S2659,Vietnam,Cat Lai,Furniture,2618.0,182577.0,Sea,2025-12-02,5,Delivered
+S2660,South Korea,Danang,Textiles,302.0,169404.0,Sea,2025-06-01,4,Delayed
+S2661,South Korea,Ho Chi Minh,Machinery,1201.0,212397.0,Air,2025-12-22,4,Delivered
+S2662,USA,Ho Chi Minh,Furniture,1348.0,110185.0,Sea,2025-02-09,4,In Transit
+S2663,South Korea,Haiphong,Furniture,3584.0,41404.0,Road,2025-12-25,2,Delayed
+S2664,South Korea,Haiphong,Automotive Parts,3223.0,60182.0,Sea,2025-03-03,5,Delivered
+S2665,India,Danang,Machinery,3045.0,109601.0,Sea,2025-09-11,1,Delayed
+S2666,Vietnam,Cat Lai,Electronics,1681.0,183735.0,Air,2025-03-10,1,Delayed
+S2667,China,Danang,Pharmaceuticals,3501.0,127002.0,Air,2025-09-02,2,In Transit
+S2668,Thailand,Danang,Toys,857.0,230461.0,Sea,2025-12-31,7,Hold
+S2669,USA,Danang,Spices,3129.0,89146.0,Air,2025-06-19,2,Delayed
+S2670,India,Danang,Textiles,1420.0,52997.0,Road,2025-06-27,6,In Transit
+S2671,Germany,Ho Chi Minh,Automotive Parts,2980.0,12170.0,Road,2025-07-08,4,Delayed
+S2672,Vietnam,Cat Lai,Textiles,622.0,149375.0,Air,2025-09-17,5,Delayed
+S2673,China,Ho Chi Minh,Electronics,2819.0,40187.0,Sea,2025-03-13,5,Delayed
+S2674,China,Cat Lai,Toys,3881.0,201106.0,Road,2025-01-17,3,Delayed
+S2675,Germany,Haiphong,Electronics,370.0,137965.0,Road,2025-12-07,3,Hold
+S2676,Thailand,Danang,Furniture,3653.0,149825.0,Sea,2025-02-26,1,Hold
+S2677,South Korea,Ho Chi Minh,Spices,2420.0,43090.0,Air,2025-08-06,3,Delayed
+S2678,India,Cat Lai,Electronics,2910.0,258478.0,Road,2025-04-17,3,Delayed
+S2679,Japan,Haiphong,Textiles,652.0,22509.0,Sea,2025-10-31,1,In Transit
+S2680,USA,Haiphong,Machinery,2597.0,73653.0,Sea,2025-06-22,6,In Transit
+S2681,Japan,Danang,Machinery,2175.0,173001.0,Road,2025-08-07,7,Delivered
+S2682,Germany,Cat Lai,Furniture,1857.0,271186.0,Air,2025-09-04,1,Hold
+S2683,China,Ho Chi Minh,Pharmaceuticals,2741.0,198646.0,Road,2025-08-06,7,Delayed
+S2684,Thailand,Danang,Textiles,2867.0,228354.0,Sea,2025-01-31,3,Hold
+S2685,China,Ho Chi Minh,Textiles,3275.0,19016.0,Road,2025-02-16,5,In Transit
+S2686,USA,Haiphong,Electronics,3364.0,292166.0,Air,2025-05-14,3,Hold
+S2687,China,Ho Chi Minh,Spices,3166.0,237034.0,Sea,2025-04-18,4,Hold
+S2688,China,Ho Chi Minh,Textiles,2253.0,32938.0,Air,2025-03-13,7,Delayed
+S2689,USA,Danang,Automotive Parts,487.0,179750.0,Road,2025-11-23,7,Delayed
+S2690,India,Ho Chi Minh,Pharmaceuticals,1841.0,265710.0,Road,2025-04-18,4,In Transit
+S2691,India,Danang,Electronics,3417.0,237320.0,Air,2025-11-05,4,Delayed
+S2692,USA,Haiphong,Automotive Parts,1647.0,192877.0,Road,2025-09-29,6,In Transit
+S2693,Thailand,Danang,Furniture,2113.0,138058.0,Air,2025-06-20,2,In Transit
+S2694,Germany,Danang,Machinery,807.0,81478.0,Road,2025-04-26,4,Delivered
+S2695,Vietnam,Cat Lai,Furniture,656.0,132101.0,Air,2025-11-25,7,Delivered
+S2696,China,Ho Chi Minh,Machinery,1964.0,196996.0,Air,2025-03-15,5,Delivered
+S2697,Thailand,Haiphong,Furniture,1425.0,3155700.0,Sea,2025-09-13,7,Hold
+S2698,China,Danang,Textiles,1435.0,237200.0,Sea,2025-03-22,7,Delivered
+S2699,Vietnam,Haiphong,Automotive Parts,1229.0,68745.0,Air,2025-09-25,6,Delayed
+S2700,Germany,Cat Lai,Machinery,2871.0,137283.0,Road,2025-05-08,2,Delayed
+S2701,India,Ho Chi Minh,Electronics,2623.0,106489.0,Road,2025-11-22,2,Delivered
+S2702,Thailand,Danang,Automotive Parts,646.0,36819.0,Road,2025-08-23,4,Hold
+S2703,South Korea,Ho Chi Minh,Electronics,1034.0,52779.0,Air,2025-02-10,3,In Transit
+S2704,South Korea,Cat Lai,Automotive Parts,,218493.0,Air,2025-06-30,7,Hold
+S2705,Vietnam,Cat Lai,Automotive Parts,3922.0,70584.0,Air,2025-06-06,1,Hold
+S2706,South Korea,Haiphong,Furniture,1010.0,151245.0,Air,2025-02-28,3,In Transit
+S2707,India,Danang,Machinery,1624.0,253815.0,Sea,2025-12-11,3,In Transit
+S2708,Vietnam,Haiphong,Machinery,3367.0,295180.0,Air,2025-09-06,2,In Transit
+S2709,India,Cat Lai,Spices,1611.0,259957.0,Road,2025-07-11,2,Delayed
+S2710,Germany,Ho Chi Minh,Automotive Parts,1158.0,76356.0,Sea,2025-01-24,6,In Transit
+S2711,China,Haiphong,Textiles,1675.0,150364.0,Road,2025-03-21,6,In Transit
+S2712,Germany,Haiphong,Textiles,3096.0,120780.0,Air,2025-05-14,2,Hold
+S2713,Germany,Ho Chi Minh,Electronics,1008.0,203910.0,Sea,2025-08-01,5,Hold
+S2714,India,Haiphong,Electronics,1178.0,151692.0,Air,2025-12-14,5,Delivered
+S2715,Vietnam,Ho Chi Minh,Furniture,2663.0,35461.0,Sea,2025-06-15,1,Hold
+S2716,Vietnam,Danang,Automotive Parts,925.0,287894.0,Road,2025-12-14,2,In Transit
+S2717,South Korea,Ho Chi Minh,Electronics,3775.0,14472.0,Air,2025-12-03,4,Delayed
+S2718,Japan,Danang,Electronics,2701.0,,Air,2025-03-12,6,Hold
+S2719,China,Ho Chi Minh,Pharmaceuticals,3562.0,193674.0,Sea,2025-08-02,2,Hold
+S2720,India,Cat Lai,Automotive Parts,3805.0,292667.0,Sea,2025-03-06,5,In Transit
+S2721,South Korea,Cat Lai,Toys,1416.0,166838.0,Air,2025-08-09,2,Hold
+S2722,Thailand,Danang,Furniture,2397.0,71060.0,Sea,2025-11-04,5,Hold
+S2723,Japan,Danang,Electronics,2103.0,276223.0,Air,2025-10-13,2,In Transit
+S2724,Japan,Cat Lai,Furniture,3006.0,144471.0,Sea,2025-07-04,7,Hold
+S2725,India,Danang,Machinery,978.0,283676.0,Road,2025-07-26,4,Delayed
+S2726,USA,Ho Chi Minh,Furniture,1172.0,48162.0,Sea,2025-04-09,1,Delivered
+S2727,China,Ho Chi Minh,Toys,3010.0,278497.0,Road,2025-08-30,7,Hold
+S2728,Japan,Cat Lai,Textiles,3249.0,117313.0,Sea,2025-06-07,4,Delayed
+S2729,India,Haiphong,Toys,1738.0,33477.0,Sea,2025-04-08,5,Hold
+S2730,India,Ho Chi Minh,Textiles,1616.0,160642.0,Air,2025-02-11,6,Delivered
+S2731,South Korea,Danang,Furniture,3587.0,91373.0,Sea,2025-05-19,6,In Transit
+S2732,Thailand,Haiphong,Textiles,2323.0,174176.0,Sea,2025-10-10,3,Delivered
+S2733,USA,Haiphong,Machinery,798.0,199442.0,Road,2025-08-15,4,Hold
+S2734,China,Ho Chi Minh,Automotive Parts,3541.0,9551.0,Sea,2025-03-13,2,Delivered
+S2735,Vietnam,Ho Chi Minh,Textiles,424.0,73359.0,Air,2025-08-31,1,Delivered
+S2736,Germany,Haiphong,Textiles,1753.0,148988.0,Road,2025-01-18,2,In Transit
+S2737,Thailand,Haiphong,Furniture,2360.0,131150.0,Air,2025-03-18,2,Hold
+S2738,Thailand,Cat Lai,Machinery,2498.0,177517.0,Air,2025-02-14,4,Delivered
+S2739,South Korea,Danang,Spices,3504.0,296829.0,Air,2025-12-09,1,Delivered
+S2740,Vietnam,Cat Lai,Spices,1040.0,112967.0,Air,2025-05-20,3,In Transit
+S2741,Japan,Ho Chi Minh,Spices,2014.0,99455.0,Road,2025-06-26,7,Delayed
+S2742,Japan,Cat Lai,Spices,913.0,263835.0,Sea,2025-08-10,2,Hold
+S2743,South Korea,Cat Lai,Automotive Parts,1306.0,180405.0,Air,2025-04-02,1,Delayed
+S2744,India,Cat Lai,Toys,324.0,244646.0,Road,2025-01-22,3,Delayed
+S2745,Japan,Cat Lai,Furniture,3446.0,194937.0,Air,2025-06-21,7,In Transit
+S2746,USA,Danang,Furniture,1292.0,66192.0,Sea,2025-04-02,2,In Transit
+S2747,China,Danang,Pharmaceuticals,3318.0,196758.0,Road,2025-07-11,1,Hold
+S2748,Thailand,Haiphong,Machinery,3131.0,240161.0,Road,2025-03-18,7,Delayed
+S2749,Thailand,Ho Chi Minh,Spices,,293137.0,Sea,2025-10-08,4,Delivered
+S2750,USA,Cat Lai,Automotive Parts,1950.0,166564.0,Road,2025-12-30,6,Delayed
+S2751,Vietnam,Haiphong,Machinery,229.0,157053.0,Sea,2025-06-28,6,In Transit
+S2752,Japan,Haiphong,Spices,25280.0,291287.0,Road,2025-08-26,2,Delivered
+S2753,Thailand,Haiphong,Automotive Parts,3171.0,196349.0,Road,2025-05-15,2,Delivered
+S2754,Germany,Danang,Machinery,2217.0,112044.0,Sea,2025-12-31,7,In Transit
+S2755,Vietnam,Cat Lai,Furniture,3508.0,186062.0,Sea,2025-10-07,1,Delivered
+S2756,China,Cat Lai,Furniture,3519.0,133406.0,Road,2025-01-19,6,Delayed
+S2757,China,Ho Chi Minh,Toys,2615.0,74351.0,Road,2025-03-24,2,In Transit
+S2758,Thailand,Cat Lai,Electronics,694.0,186071.0,Sea,2025-08-16,3,Hold
+S2759,South Korea,Cat Lai,Toys,3296.0,239085.0,Sea,2025-09-22,2,In Transit
+S2760,Vietnam,Haiphong,Textiles,1809.0,238883.0,Road,2025-04-22,6,Hold
+S2761,Thailand,Ho Chi Minh,Toys,917.0,75309.0,Road,2025-09-08,5,Hold
+S2762,South Korea,Cat Lai,Spices,3761.0,166805.0,Road,2025-06-13,6,In Transit
+S2763,Thailand,Danang,Pharmaceuticals,1216.0,124156.0,Sea,2025-12-24,3,In Transit
+S2764,Germany,Cat Lai,Machinery,3765.0,26576.0,Road,2025-06-17,1,Hold
+S2765,Vietnam,Haiphong,Pharmaceuticals,1537.0,8320.0,Air,2025-08-09,3,Hold
+S2766,India,Danang,Electronics,805.0,146822.0,Sea,2025-10-31,5,Delivered
+S2767,China,Haiphong,Textiles,574.0,108002.0,Road,2025-07-10,5,In Transit
+S2768,Thailand,Cat Lai,Machinery,2886.0,189535.0,Sea,2025-11-21,2,In Transit
+S2769,Germany,Danang,Automotive Parts,2160.0,31572.0,Air,2025-06-19,2,Delivered
+S2770,South Korea,Ho Chi Minh,Spices,1248.0,285092.0,Sea,2025-02-14,6,In Transit
+S2771,South Korea,Ho Chi Minh,Textiles,1557.0,121528.0,Road,2025-01-14,4,Delivered
+S2772,China,Danang,Furniture,3626.0,174898.0,Air,2025-08-19,3,Delivered
+S2773,USA,Danang,Electronics,315.0,94051.0,Air,2025-06-06,6,In Transit
+S2774,Thailand,Haiphong,Textiles,2295.0,295011.0,Road,2025-05-14,4,Delayed
+S2775,Vietnam,Danang,Spices,2001.0,196303.0,Road,2025-02-06,6,Hold
+S2776,Japan,Haiphong,Toys,2346.0,227428.0,Road,2025-02-22,5,In Transit
+S2777,South Korea,Cat Lai,Textiles,,262412.0,Sea,2025-01-18,2,Delayed
+S2778,Vietnam,Haiphong,Toys,1746.0,208305.0,Sea,2025-02-07,2,Delivered
+S2779,Vietnam,Danang,Spices,1820.0,280107.0,Sea,2025-07-06,6,Delayed
+S2780,India,Danang,Furniture,2652.0,54434.0,Road,2025-07-15,2,In Transit
+S2781,Vietnam,Cat Lai,Machinery,3485.0,71617.0,Road,2025-08-31,1,In Transit
+S2782,Vietnam,Danang,Automotive Parts,,122569.0,Sea,2025-10-27,6,Delayed
+S2783,India,Danang,Furniture,3150.0,212384.0,Air,2025-10-30,5,In Transit
+S2784,South Korea,Ho Chi Minh,Toys,2750.0,86494.0,Sea,2025-02-04,7,Hold
+S2785,Vietnam,Ho Chi Minh,Toys,3992.0,224977.0,Air,2025-08-03,6,Delayed
+S2786,USA,Cat Lai,Automotive Parts,1671.0,82225.0,Road,2025-08-07,6,Delivered
+S2787,USA,Haiphong,Machinery,3141.0,87867.0,Road,2025-11-12,2,Delayed
+S2788,Germany,Ho Chi Minh,Textiles,1799.0,173600.0,Sea,2025-03-31,5,Delayed
+S2789,India,Haiphong,Automotive Parts,2505.0,260669.0,Sea,2025-11-04,6,Delayed
+S2790,Germany,Danang,Electronics,3091.0,95748.0,Road,2025-09-09,2,Delayed
+S2791,India,Ho Chi Minh,Electronics,2368.0,259265.0,Sea,2025-01-08,3,Delivered
+S2792,Thailand,Cat Lai,Spices,1009.0,169404.0,Road,2025-09-13,5,Delivered
+S2793,Thailand,Cat Lai,Furniture,11770.0,134529.0,Road,2025-12-29,4,Delivered
+S2794,Vietnam,Cat Lai,Toys,2301.0,,Air,2025-07-27,1,Delayed
+S2795,Japan,Ho Chi Minh,Machinery,3266.0,163099.0,Sea,2025-05-11,4,Hold
+S2796,Thailand,Haiphong,Spices,1554.0,102382.0,Road,2025-08-12,7,Hold
+S2797,Japan,Danang,Furniture,,14583.0,Sea,2025-07-16,5,Delivered
+S2798,Thailand,Haiphong,Furniture,440.0,55387.0,Air,2025-05-22,6,Hold
+S2799,China,Haiphong,Spices,1978.0,290248.0,Air,2025-09-09,2,Hold
+S2800,Thailand,Danang,Pharmaceuticals,1753.0,17224.0,Sea,2025-04-06,7,Hold
+S2801,Germany,Danang,Furniture,682.0,232444.0,Sea,2025-01-26,5,Hold
+S2802,South Korea,Ho Chi Minh,Pharmaceuticals,1212.0,271285.0,Road,2025-04-21,1,Hold
+S2803,Vietnam,Ho Chi Minh,Electronics,386.0,159422.0,Air,2025-05-03,5,In Transit
+S2804,Germany,Ho Chi Minh,Electronics,2081.0,141149.0,Air,2025-07-05,7,Delivered
+S2805,South Korea,Ho Chi Minh,Furniture,2903.0,51015.0,Air,2025-06-17,2,Delayed
+S2806,USA,Ho Chi Minh,Electronics,2509.0,176929.0,Sea,2025-02-20,4,Hold
+S2807,Germany,Danang,Machinery,1152.0,237268.0,Road,2025-01-05,3,In Transit
+S2808,USA,Haiphong,Pharmaceuticals,1587.0,195912.0,Sea,2025-03-18,4,Delayed
+S2809,Japan,Ho Chi Minh,Pharmaceuticals,690.0,10577.0,Sea,2025-06-09,2,In Transit
+S2810,Japan,Ho Chi Minh,Furniture,630.0,287146.0,Sea,2025-07-27,7,Hold
+S2811,China,Haiphong,Electronics,438.0,55711.0,Road,2025-09-14,2,Hold
+S2812,Thailand,Ho Chi Minh,Automotive Parts,2551.0,44451.0,Sea,2025-07-24,1,Hold
+S2813,Germany,Haiphong,Toys,2545.0,185175.0,Air,2025-09-12,5,Hold
+S2814,USA,Haiphong,Spices,275.0,39831.0,Air,2025-01-11,5,Delayed
+S2815,South Korea,Danang,Spices,3971.0,254402.0,Air,2025-01-08,4,Delayed
+S2816,Japan,Cat Lai,Pharmaceuticals,1556.0,236376.0,Road,2025-02-01,7,In Transit
+S2817,Thailand,Danang,Furniture,2123.0,249942.0,Sea,2025-01-28,3,Delivered
+S2818,Japan,Cat Lai,Furniture,3246.0,100119.0,Road,2025-07-25,3,Hold
+S2819,South Korea,Cat Lai,Machinery,1981.0,248466.0,Sea,2025-08-16,1,In Transit
+S2820,Thailand,Cat Lai,Textiles,2889.0,228936.0,Air,2025-05-08,2,In Transit
+S2821,Thailand,Ho Chi Minh,Toys,3745.0,291542.0,Sea,2025-09-12,1,In Transit
+S2822,USA,Danang,Textiles,1026.0,66554.0,Sea,2025-07-31,5,Hold
+S2823,USA,Cat Lai,Pharmaceuticals,2530.0,55755.0,Sea,2025-08-27,6,Hold
+S2824,Germany,Haiphong,Spices,790.0,158412.0,Road,2025-07-26,6,In Transit
+S2825,Germany,Ho Chi Minh,Machinery,2319.0,68884.0,Sea,2025-11-14,6,Hold
+S2826,India,Danang,Machinery,3534.0,22482.0,Sea,2025-10-10,2,In Transit
+S2827,Vietnam,Cat Lai,Machinery,2950.0,59225.0,Sea,2025-09-02,1,Delayed
+S2828,India,Haiphong,Pharmaceuticals,2102.0,194921.0,Road,2025-02-14,7,Hold
+S2829,China,Danang,Textiles,2110.0,79854.0,Road,2025-04-15,4,Delayed
+S2830,Japan,Danang,Spices,774.0,46256.0,Road,2025-12-14,5,Delivered
+S2831,Germany,Ho Chi Minh,Machinery,3247.0,245617.0,Sea,2025-10-08,6,Hold
+S2832,USA,Danang,Spices,1091.0,113721.0,Air,2025-08-22,7,Delivered
+S2833,South Korea,Ho Chi Minh,Electronics,2259.0,86110.0,Air,2025-07-08,3,In Transit
+S2834,USA,Cat Lai,Furniture,340.0,118606.0,Air,2025-02-13,1,Hold
+S2835,Japan,Ho Chi Minh,Furniture,1989.0,19650.0,Sea,2025-08-13,5,Hold
+S2836,India,Haiphong,Spices,3826.0,182190.0,Air,2025-05-22,5,Hold
+S2837,USA,Ho Chi Minh,Automotive Parts,216.0,33930.0,Air,2025-05-16,3,Delivered
+S2838,Vietnam,Haiphong,Automotive Parts,1286.0,221779.0,Air,2025-06-25,3,Delivered
+S2839,China,Ho Chi Minh,Pharmaceuticals,452.0,265102.0,Sea,2025-05-22,3,In Transit
+S2840,Japan,Danang,Pharmaceuticals,664.0,278945.0,Air,2025-03-21,6,Delayed
+S2841,India,Cat Lai,Furniture,575.0,56360.0,Air,2025-03-23,6,Delayed
+S2842,Vietnam,Haiphong,Electronics,2027.0,152631.0,Sea,2025-05-15,1,Delivered
+S2843,South Korea,Ho Chi Minh,Toys,3228.0,299478.0,Road,2025-07-26,3,Hold
+S2844,India,Ho Chi Minh,Textiles,,241545.0,Air,2025-12-10,4,Delayed
+S2845,Thailand,Ho Chi Minh,Textiles,2060.0,18288.0,Road,2025-06-26,5,Delayed
+S2846,Vietnam,Danang,Pharmaceuticals,289.0,,Air,2025-08-31,3,Delivered
+S2847,Vietnam,Danang,Electronics,919.0,212302.0,Sea,2025-02-24,5,In Transit
+S2848,China,Haiphong,Pharmaceuticals,3051.0,279335.0,Road,2025-05-21,2,Delivered
+S2849,Japan,Haiphong,Toys,3043.0,285195.0,Road,2025-02-25,7,Delivered
+S2850,South Korea,Danang,Textiles,,66715.0,Road,2025-01-15,2,Hold
+S2851,China,Haiphong,Spices,2084.0,15737.0,Road,2025-07-04,3,Delivered
+S2852,India,Cat Lai,Pharmaceuticals,3446.0,70140.0,Air,2025-11-10,5,Hold
+S2853,China,Cat Lai,Machinery,275.0,161323.0,Air,2025-03-29,7,In Transit
+S2854,Vietnam,Danang,Spices,3884.0,187047.0,Road,2025-04-07,2,Hold
+S2855,Japan,Haiphong,Toys,1125.0,272291.0,Air,2025-05-24,3,In Transit
+S2856,Germany,Ho Chi Minh,Toys,3934.0,55508.0,Road,2025-01-08,5,In Transit
+S2857,China,Cat Lai,Pharmaceuticals,2647.0,286787.0,Road,2025-08-03,3,In Transit
+S2858,Thailand,Danang,Furniture,2005.0,108535.0,Sea,2025-06-22,6,Delivered
+S2859,China,Haiphong,Pharmaceuticals,1169.0,203360.0,Road,2025-08-11,5,Hold
+S2860,India,Danang,Furniture,1294.0,63959.0,Air,2025-02-09,2,Delayed
+S2861,India,Ho Chi Minh,Toys,2228.0,203208.0,Road,2025-07-01,3,Delivered
+S2862,South Korea,Cat Lai,Electronics,,196812.0,Sea,2025-09-27,2,In Transit
+S2863,India,Danang,Toys,3395.0,117255.0,Air,2025-07-06,3,Delayed
+S2864,USA,Danang,Textiles,1604.0,91322.0,Sea,2025-09-02,1,Delivered
+S2865,Japan,Danang,Spices,3564.0,6132.0,Sea,2025-11-05,2,Delayed
+S2866,Japan,Ho Chi Minh,Spices,3044.0,174331.0,Road,2025-08-19,2,In Transit
+S2867,Germany,Danang,Automotive Parts,394.0,232684.0,Sea,2025-06-04,4,Delayed
+S2868,Germany,Ho Chi Minh,Automotive Parts,427.0,264427.0,Sea,2025-06-24,7,Delayed
+S2869,Japan,Ho Chi Minh,Toys,3702.0,113835.0,Air,2025-12-02,6,In Transit
+S2870,Thailand,Ho Chi Minh,Textiles,1659.0,147003.0,Sea,2025-04-25,2,Delayed
+S2871,Germany,Cat Lai,Automotive Parts,660.0,263228.0,Road,2025-11-07,5,Delivered
+S2872,South Korea,Cat Lai,Spices,817.0,78169.0,Road,2025-10-27,7,Delayed
+S2873,India,Danang,Pharmaceuticals,3292.0,265529.0,Road,2025-01-18,3,Hold
+S2874,Japan,Danang,Electronics,263.0,258608.0,Sea,2025-09-29,1,Delivered
+S2875,Vietnam,Cat Lai,Electronics,2412.0,239385.0,Air,2025-01-12,5,Delayed
+S2876,Germany,Haiphong,Textiles,,194973.0,Road,2025-10-28,7,Hold
+S2877,Japan,Cat Lai,Toys,3582.0,105417.0,Sea,2025-07-11,5,Hold
+S2878,USA,Ho Chi Minh,Automotive Parts,3259.0,6044.0,Road,2025-08-20,5,Hold
+S2879,China,Cat Lai,Pharmaceuticals,484.0,182763.0,Road,2025-04-03,5,Delayed
+S2880,India,Ho Chi Minh,Electronics,1883.0,236807.0,Air,2025-08-06,7,In Transit
+S2881,Japan,Danang,Electronics,2528.0,29363.0,Road,2025-10-05,1,Hold
+S2882,China,Haiphong,Machinery,1037.0,288445.0,Air,2025-12-19,4,In Transit
+S2883,Germany,Danang,Toys,1030.0,6620.0,Sea,2025-10-30,6,Delivered
+S2884,China,Ho Chi Minh,Machinery,1387.0,100419.0,Road,2025-01-29,2,In Transit
+S2885,India,Ho Chi Minh,Spices,3165.0,173606.0,Sea,2025-10-28,7,In Transit
+S2886,Japan,Ho Chi Minh,Electronics,423.0,207701.0,Sea,2025-03-18,5,In Transit
+S2887,USA,Haiphong,Textiles,983.0,185324.0,Sea,2025-01-09,2,In Transit
+S2888,Thailand,Cat Lai,Furniture,3417.0,27259.0,Road,2025-01-24,7,In Transit
+S2889,Germany,Danang,Furniture,3212.0,25655.0,Air,2025-01-15,2,Delivered
+S2890,Japan,Danang,Pharmaceuticals,1149.0,26602.0,Road,2025-06-13,5,Delivered
+S2891,India,Cat Lai,Electronics,3301.0,147182.0,Sea,2025-01-13,4,In Transit
+S2892,Germany,Danang,Electronics,244.0,6537.0,Air,2025-12-13,7,In Transit
+S2893,South Korea,Haiphong,Spices,2010.0,261210.0,Sea,2025-06-21,2,Hold
+S2894,China,Danang,Electronics,670.0,182274.0,Air,2025-12-23,3,Delivered
+S2895,Thailand,Ho Chi Minh,Textiles,2281.0,176236.0,Road,2025-11-23,2,Delayed
+S2896,India,Cat Lai,Machinery,2900.0,94743.0,Air,2025-07-19,6,Delivered
+S2897,South Korea,Haiphong,Electronics,3698.0,91155.0,Road,2025-03-17,5,Delayed
+S2898,Vietnam,Cat Lai,Electronics,1029.0,94846.0,Sea,2025-06-13,1,Hold
+S2899,Japan,Haiphong,Spices,2109.0,239507.0,Air,2025-03-02,2,In Transit
+S2900,USA,Ho Chi Minh,Toys,2468.0,297706.0,Sea,2025-09-02,4,Hold
+S2901,Germany,Cat Lai,Automotive Parts,2091.0,295180.0,Air,2025-06-04,3,In Transit
+S2902,China,Danang,Toys,2781.0,196824.0,Road,2025-09-14,3,Delivered
+S2903,Germany,Haiphong,Spices,891.0,88049.0,Air,2025-09-01,1,In Transit
+S2904,Thailand,Cat Lai,Toys,1590.0,244647.0,Air,2025-06-11,6,Delayed
+S2905,Japan,Danang,Spices,1131.0,294962.0,Road,2025-03-09,1,Delayed
+S2906,Germany,Cat Lai,Textiles,1040.0,25104.0,Road,2025-12-10,6,Hold
+S2907,China,Cat Lai,Pharmaceuticals,3258.0,132904.0,Road,2025-10-04,2,Delivered
+S2908,Japan,Cat Lai,Electronics,2138.0,107499.0,Air,2025-06-10,5,Delayed
+S2909,Germany,Haiphong,Spices,1773.0,232336.0,Sea,2025-09-16,4,Hold
+S2910,USA,Danang,Spices,2829.0,299461.0,Air,2025-11-03,3,Delivered
+S2911,India,Ho Chi Minh,Automotive Parts,3387.0,,Air,2025-12-01,1,Delivered
+S2912,Japan,Haiphong,Spices,2486.0,157472.0,Sea,2025-04-05,4,Hold
+S2913,India,Haiphong,Furniture,3606.0,208141.0,Road,2025-09-03,6,Delayed
+S2914,Vietnam,Haiphong,Pharmaceuticals,2688.0,124415.0,Air,2025-08-09,5,Delayed
+S2915,Japan,Ho Chi Minh,Electronics,347.0,2995740.0,Sea,2025-05-03,3,Hold
+S2916,USA,Danang,Electronics,1232.0,85206.0,Road,2025-07-06,3,Delayed
+S2917,India,Danang,Automotive Parts,1511.0,195545.0,Road,2025-09-19,6,Hold
+S2918,South Korea,Danang,Textiles,587.0,28723.0,Air,2025-09-30,5,Delayed
+S2919,China,Cat Lai,Electronics,33210.0,202327.0,Road,2025-03-01,3,Delayed
+S2920,South Korea,Cat Lai,Furniture,2073.0,5074.0,Road,2025-05-05,5,Hold
+S2921,Germany,Cat Lai,Electronics,3788.0,260245.0,Sea,2025-12-03,3,Hold
+S2922,USA,Ho Chi Minh,Furniture,1115.0,293642.0,Sea,2025-12-07,2,Delayed
+S2923,South Korea,Cat Lai,Pharmaceuticals,2078.0,201594.0,Road,2025-02-20,6,Hold
+S2924,Japan,Ho Chi Minh,Pharmaceuticals,2885.0,101881.0,Sea,2025-06-27,5,Delayed
+S2925,Germany,Danang,Machinery,3858.0,50929.0,Road,2025-05-19,4,In Transit
+S2926,Germany,Cat Lai,Machinery,3948.0,128199.0,Air,2025-11-23,2,Delivered
+S2927,South Korea,Cat Lai,Furniture,477.0,236525.0,Sea,2025-06-19,7,Delivered
+S2928,Vietnam,Haiphong,Textiles,2177.0,293172.0,Road,2025-02-08,4,Delayed
+S2929,South Korea,Ho Chi Minh,Electronics,2059.0,34545.0,Road,2025-03-10,6,Delivered
+S2930,Vietnam,Danang,Spices,3236.0,84569.0,Sea,2025-08-24,3,Delayed
+S2931,USA,Haiphong,Electronics,3571.0,36673.0,Sea,2025-02-17,7,Hold
+S2932,China,Haiphong,Machinery,2025.0,28525.0,Air,2025-02-26,4,In Transit
+S2933,South Korea,Danang,Toys,2836.0,62804.0,Road,2025-10-04,2,Delivered
+S2934,Thailand,Haiphong,Spices,2033.0,151115.0,Air,2025-12-04,7,Delivered
+S2935,Vietnam,Ho Chi Minh,Furniture,2896.0,46846.0,Air,2025-04-09,7,Hold
+S2936,South Korea,Ho Chi Minh,Spices,817.0,82261.0,Air,2025-01-15,5,In Transit
+S2937,India,Cat Lai,Toys,1830.0,238312.0,Sea,2025-11-21,1,In Transit
+S2938,Japan,Haiphong,Electronics,2382.0,189100.0,Air,2025-06-28,4,In Transit
+S2939,Thailand,Cat Lai,Electronics,779.0,296627.0,Sea,2025-11-28,1,Hold
+S2940,Thailand,Haiphong,Textiles,1370.0,183975.0,Sea,2025-03-03,6,Delivered
+S2941,Vietnam,Ho Chi Minh,Automotive Parts,689.0,289907.0,Air,2025-04-29,4,Delivered
+S2942,India,Ho Chi Minh,Spices,2725.0,211724.0,Air,2025-02-06,4,In Transit
+S2943,India,Ho Chi Minh,Machinery,1382.0,20733.0,Road,2025-05-14,5,Hold
+S2944,Germany,Haiphong,Toys,583.0,96038.0,Air,2025-01-26,3,Hold
+S2945,Vietnam,Ho Chi Minh,Toys,362.0,145319.0,Road,2025-01-08,2,Hold
+S2946,China,Haiphong,Toys,2688.0,26058.0,Air,2025-01-04,2,In Transit
+S2947,Japan,Cat Lai,Machinery,2076.0,251301.0,Air,2025-01-21,2,Hold
+S2948,USA,Haiphong,Automotive Parts,1412.0,167434.0,Air,2025-05-29,6,In Transit
+S2949,Thailand,Cat Lai,Electronics,2662.0,91489.0,Air,2025-01-25,7,In Transit
+S2950,USA,Haiphong,Textiles,1562.0,89664.0,Road,2025-05-23,3,In Transit
+S2951,South Korea,Cat Lai,Textiles,1830.0,183428.0,Road,2025-09-02,1,Delayed
+S2952,South Korea,Ho Chi Minh,Machinery,1404.0,82597.0,Air,2025-02-12,2,In Transit
+S2953,USA,Cat Lai,Textiles,487.0,273185.0,Air,2025-10-20,1,Hold
+S2954,South Korea,Ho Chi Minh,Toys,2057.0,83209.0,Road,2025-07-04,3,Delayed
+S2955,China,Ho Chi Minh,Pharmaceuticals,386.0,263109.0,Sea,2025-02-11,6,Delivered
+S2956,India,Cat Lai,Automotive Parts,2107.0,197941.0,Sea,2025-04-02,3,Delivered
+S2957,South Korea,Haiphong,Electronics,1361.0,157131.0,Sea,2025-11-13,5,Hold
+S2958,Germany,Haiphong,Pharmaceuticals,329.0,104864.0,Road,2025-11-20,7,Hold
+S2959,South Korea,Danang,Automotive Parts,2441.0,153620.0,Road,2025-02-22,2,Hold
+S2960,Japan,Haiphong,Furniture,2563.0,171562.0,Sea,2025-03-25,6,Hold
+S2961,China,Danang,Spices,2087.0,212158.0,Sea,2025-02-03,5,Delayed
+S2962,Japan,Haiphong,Machinery,343.0,120158.0,Air,2025-03-17,2,Hold
+S2963,Japan,Haiphong,Toys,215.0,6468.0,Road,2025-12-19,3,In Transit
+S2964,Germany,Ho Chi Minh,Textiles,3573.0,291453.0,Road,2025-07-16,3,Delivered
+S2965,China,Danang,Furniture,2670.0,77255.0,Sea,2025-10-13,4,Hold
+S2966,China,Haiphong,Textiles,444.0,263078.0,Sea,2025-03-29,4,In Transit
+S2967,Vietnam,Danang,Pharmaceuticals,1126.0,33718.0,Road,2025-08-23,3,Hold
+S2968,China,Ho Chi Minh,Electronics,3378.0,230409.0,Air,2025-08-20,3,In Transit
+S2969,China,Ho Chi Minh,Electronics,3359.0,244967.0,Sea,2025-01-07,1,Delayed
+S2970,China,Danang,Electronics,2376.0,173913.0,Road,2025-10-19,7,Delivered
+S2971,Germany,Ho Chi Minh,Toys,1106.0,219637.0,Road,2025-02-07,1,Delivered
+S2972,South Korea,Cat Lai,Textiles,1086.0,252113.0,Air,2025-02-21,7,Delayed
+S2973,Vietnam,Cat Lai,Furniture,540.0,267911.0,Air,2025-05-23,5,In Transit
+S2974,Japan,Ho Chi Minh,Electronics,2251.0,63026.0,Sea,2025-08-09,4,Hold
+S2975,China,Cat Lai,Furniture,3598.0,47968.0,Sea,2025-08-28,4,In Transit
+S2976,Thailand,Haiphong,Textiles,1633.0,176169.0,Sea,2025-05-23,3,Delivered
+S2977,South Korea,Danang,Toys,505.0,150693.0,Road,2025-12-15,3,Delayed
+S2978,South Korea,Haiphong,Pharmaceuticals,1107.0,81870.0,Sea,2025-12-29,5,Delayed
+S2979,Japan,Danang,Toys,2854.0,23174.0,Road,2025-02-18,6,In Transit
+S2980,Germany,Ho Chi Minh,Furniture,3992.0,45502.0,Sea,2025-10-04,6,In Transit
+S2981,USA,Haiphong,Toys,3496.0,42260.0,Air,2025-09-28,6,Delayed
+S2982,USA,Ho Chi Minh,Toys,1571.0,203681.0,Air,2025-01-14,4,Delivered
+S2983,South Korea,Ho Chi Minh,Pharmaceuticals,3239.0,185536.0,Road,2025-10-25,1,Hold
+S2984,India,Danang,Textiles,520.0,76805.0,Air,2025-01-15,6,Hold
+S2985,India,Danang,Textiles,758.0,200991.0,Road,2025-08-22,2,In Transit
+S2986,Japan,Danang,Machinery,1404.0,264636.0,Road,2025-03-04,5,Delayed
+S2987,USA,Haiphong,Toys,2865.0,,Air,2025-07-15,6,Delayed
+S2988,South Korea,Cat Lai,Textiles,2958.0,,Road,2025-01-27,2,Delayed
+S2989,Germany,Danang,Textiles,1609.0,162883.0,Air,2025-04-03,6,Delivered
+S2990,USA,Danang,Automotive Parts,1841.0,135864.0,Sea,2025-04-15,1,In Transit
+S2991,South Korea,Haiphong,Electronics,1331.0,48723.0,Sea,2025-11-05,1,In Transit
+S2992,South Korea,Danang,Machinery,2778.0,236408.0,Air,2025-02-21,6,In Transit
+S2993,China,Haiphong,Spices,2657.0,247113.0,Air,2025-11-15,2,Delivered
+S2994,Germany,Ho Chi Minh,Machinery,3567.0,81298.0,Air,2025-06-30,5,In Transit
+S2995,China,Danang,Machinery,1017.0,64238.0,Air,2025-02-26,2,Hold
+S2996,Japan,Danang,Spices,1394.0,264425.0,Sea,2025-04-30,5,In Transit
+S2997,China,Ho Chi Minh,Automotive Parts,3602.0,110433.0,Road,2025-11-04,6,In Transit
+S2998,Thailand,Ho Chi Minh,Toys,,112092.0,Road,2025-12-29,5,In Transit
+S2999,China,Ho Chi Minh,Pharmaceuticals,3466.0,269291.0,Sea,2025-02-12,3,Delivered

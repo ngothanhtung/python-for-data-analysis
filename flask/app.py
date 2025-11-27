@@ -6,6 +6,7 @@ from routes.no_thue import no_thue_bp
 from routes.products import products_bp
 from routes.thuc_hanh import thuc_hanh_bp
 from routes.hang_hoa import hang_hoa_bp
+from routes.logistics import logistics_bp
 
 app = Flask(__name__)
 app.config['JSON_AS_ASCII'] = False
@@ -21,6 +22,7 @@ app.register_blueprint(no_thue_bp)
 app.register_blueprint(products_bp)
 app.register_blueprint(thuc_hanh_bp)
 app.register_blueprint(hang_hoa_bp)
+app.register_blueprint(logistics_bp)
 
 
 @app.route('/')

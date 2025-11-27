@@ -26,6 +26,11 @@ const items = [
         key: '/bao-cao/no-thue/thong-ke',
         label: 'Báo cáo nợ thuế',
       },
+
+      {
+        key: '/bao-cao/logistics/thong-ke-tong-hop-theo-cang',
+        label: 'Tổng hợp theo cảng',
+      },
     ],
   },
   {
