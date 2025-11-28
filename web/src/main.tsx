@@ -16,6 +16,7 @@ import HangHoaThemMoi from './pages/hang_hoa/them_moi.tsx';
 import DanhSachHangHoa from './pages/hang_hoa/danh_sach.tsx';
 import TongHopTheoCang from './pages/bao-cao/logistics/tong-hop-theo-cang.tsx';
 import BaoCaoHangHoaTheoNhaCungCap from './pages/bao-cao/logistics/thong-ke-hang-hoa-theo-nha-cung-cap.tsx';
+import DanhSachLogistics from './pages/bao-cao/logistics/danh-sach.tsx';
 
 const router = createBrowserRouter([
   {
@@ -79,6 +80,10 @@ const router = createBrowserRouter([
               {
                 path: '/bao-cao/logistics/thong-ke-hang-hoa-theo-nha-cung-cap',
                 element: <BaoCaoHangHoaTheoNhaCungCap />,
+              },
+              {
+                path: '/bao-cao/logistics/danh-sach',
+                element: <DanhSachLogistics />,
               },
             ],
           },

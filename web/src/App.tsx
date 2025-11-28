@@ -1,3 +1,4 @@
+import { MailOutlined } from '@ant-design/icons';
 import './App.css';
 
 import { Layout, Menu } from 'antd';
@@ -13,6 +14,7 @@ const items = [
   {
     key: '/bao-cao',
     label: 'Báo cáo',
+    icon: <MailOutlined />,
     children: [
       {
         key: '/bao-cao/giao-ban/thong-ke',
@@ -26,15 +28,25 @@ const items = [
         key: '/bao-cao/no-thue/thong-ke',
         label: 'Báo cáo nợ thuế',
       },
-
       {
-        key: '/bao-cao/logistics/thong-ke-tong-hop-theo-cang',
-        label: 'Tổng hợp theo cảng',
-      },
+        label: 'Logistics',
+        type: 'group',
+        children: [
+          {
+            key: '/bao-cao/logistics/danh-sach',
+            label: 'Danh sách Logistics',
+          },
 
-      {
-        key: '/bao-cao/logistics/thong-ke-hang-hoa-theo-nha-cung-cap',
-        label: 'Tổng hợp theo nhà cung cấp',
+          {
+            key: '/bao-cao/logistics/thong-ke-tong-hop-theo-cang',
+            label: 'Tổng hợp theo cảng',
+          },
+
+          {
+            key: '/bao-cao/logistics/thong-ke-hang-hoa-theo-nha-cung-cap',
+            label: 'Tổng hợp theo nhà cung cấp',
+          },
+        ],
       },
     ],
   },
@@ -45,6 +57,7 @@ const items = [
       {
         key: '/bao-cao/giao-ban/bieu-do',
         label: 'Biểu đồ giao ban',
+        type: 'group',
       },
 
       {

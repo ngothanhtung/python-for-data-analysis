@@ -19,15 +19,21 @@ def get_db_connection():
 logistics_bp = Blueprint('logistics', __name__)
 
 
+@logistics_bp.route('/api/logistics/danh-sach')
+def danh_sach():
+    df = pd.read_csv('notebook/logistics.csv')
+    return jsonify(df.head(10).to_dict('records'))
+
+
 @logistics_bp.route('/api/bao-cao/logistics/thong-ke-chuyen-hang-theo-quoc-gia')
 def báo_cao_1():
     # Đọc dữ liệu từ file CSV
     df = pd.read_csv('notebook/logistics.csv')
 
-    country_stats = df.groupby('Country').agg({
-        'ShipmentID': 'count',
-        'Value(USD)': ['sum', 'mean', 'min', 'max'],
-        'Quantity(kg)': 'sum'
+    country_stats = df.groupby('country').agg({
+        'shipment_id': 'count',
+        'value_usd': ['sum', 'mean', 'min', 'max'],
+        'quantity_kg': 'sum'
     }).round(2)
 
     # Đổi tên cột
@@ -47,11 +53,11 @@ def báo_cao_2():
     # Đọc dữ liệu từ file CSV
     df = pd.read_csv('notebook/logistics.csv')
     # Thống kê tổng hợp theo cảng
-    port_stats = df.groupby('Port').agg({
-        'ShipmentID': 'count',
-        'Value(USD)': ['sum', 'mean', 'min', 'max'],
-        'Quantity(kg)': 'sum',
-        'ClearanceTime(days)': 'mean'
+    port_stats = df.groupby('port').agg({
+        'shipment_id': 'count',
+        'value_usd': ['sum', 'mean', 'min', 'max'],
+        'quantity_kg': 'sum',
+        'clearance_time_days': 'mean'
     }).round(2)
 
     # Đổi tên cột

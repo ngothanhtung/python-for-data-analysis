@@ -1,4 +1,4 @@
-import { Card, Col, Row, Spin } from 'antd';
+import { Card, Col, Row, Spin, Tabs, type TabsProps } from 'antd';
 import { useEffect, useState } from 'react';
 import Plot from 'react-plotly.js';
 
@@ -50,35 +50,50 @@ export default function BieuDoGiaoBan() {
   const pieLuongData = JSON.parse(chartData.pie_luong);
   const scatterData = JSON.parse(chartData.scatter);
 
+  const items: TabsProps['items'] = [
+    {
+      key: '1',
+      label: 'Tab 1',
+      children: (
+        <Card title='Tổng Trị giá theo Luồng và Loại Tờ khai'>
+          <Plot data={barGroupedData.data} layout={barGroupedData.layout} config={{ responsive: true }} style={{ width: '100%', height: '400px' }} />
+        </Card>
+      ),
+    },
+    {
+      key: '2',
+      label: 'Tab 2',
+      children: (
+        <Card title='Số lượng theo Loại Tờ khai'>
+          <Plot data={barToKhaiData.data} layout={barToKhaiData.layout} config={{ responsive: true }} style={{ width: '100%', height: '400px' }} />
+        </Card>
+      ),
+    },
+    {
+      key: '3',
+      label: 'Tab 3',
+      children: (
+        <Card title='Phân bố theo Luồng'>
+          <Plot data={pieLuongData.data} layout={pieLuongData.layout} config={{ responsive: true }} style={{ width: '100%', height: '400px' }} />
+        </Card>
+      ),
+    },
+    {
+      key: '4',
+      label: 'Tab 4',
+      children: (
+        <Card title='Trị giá vs Thuế suất'>
+          <Plot data={scatterData.data} layout={scatterData.layout} config={{ responsive: true }} style={{ width: '100%', height: '400px' }} />
+        </Card>
+      ),
+    },
+  ];
+
   return (
     <div style={{ padding: '24px' }}>
       <h1>Biểu Đồ Giao Ban</h1>
 
-      <Row gutter={[16, 16]}>
-        <Col xs={24} lg={12}>
-          <Card title='Tổng Trị giá theo Luồng và Loại Tờ khai'>
-            <Plot data={barGroupedData.data} layout={barGroupedData.layout} config={{ responsive: true }} style={{ width: '100%', height: '400px' }} />
-          </Card>
-        </Col>
-
-        <Col xs={24} lg={12}>
-          <Card title='Số lượng theo Loại Tờ khai'>
-            <Plot data={barToKhaiData.data} layout={barToKhaiData.layout} config={{ responsive: true }} style={{ width: '100%', height: '400px' }} />
-          </Card>
-        </Col>
-
-        <Col xs={24} lg={12}>
-          <Card title='Phân bố theo Luồng'>
-            <Plot data={pieLuongData.data} layout={pieLuongData.layout} config={{ responsive: true }} style={{ width: '100%', height: '400px' }} />
-          </Card>
-        </Col>
-
-        <Col xs={24} lg={12}>
-          <Card title='Trị giá vs Thuế suất'>
-            <Plot data={scatterData.data} layout={scatterData.layout} config={{ responsive: true }} style={{ width: '100%', height: '400px' }} />
-          </Card>
-        </Col>
-      </Row>
+      <Tabs defaultActiveKey='1' items={items} />
     </div>
   );
 }
