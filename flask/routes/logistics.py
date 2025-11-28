@@ -22,13 +22,17 @@ logistics_bp = Blueprint('logistics', __name__)
 @logistics_bp.route('/api/logistics/danh-sach')
 def danh_sach():
     df = pd.read_csv('notebook/logistics.csv')
-    return jsonify(df.head(10).to_dict('records'))
+    # Làm sạch dữ liệu: loại bỏ các dòng có NaN trong value_usd hoặc quantity_kg
+    df = df.dropna(subset=['value_usd', 'quantity_kg'])
+    return jsonify(df.to_dict('records'))
 
 
 @logistics_bp.route('/api/bao-cao/logistics/thong-ke-chuyen-hang-theo-quoc-gia')
 def báo_cao_1():
     # Đọc dữ liệu từ file CSV
     df = pd.read_csv('notebook/logistics.csv')
+    # Làm sạch dữ liệu: loại bỏ các dòng có NaN trong value_usd hoặc quantity_kg
+    df = df.dropna(subset=['value_usd', 'quantity_kg'])
 
     country_stats = df.groupby('country').agg({
         'shipment_id': 'count',
@@ -52,6 +56,8 @@ def báo_cao_1():
 def báo_cao_2():
     # Đọc dữ liệu từ file CSV
     df = pd.read_csv('notebook/logistics.csv')
+    # Làm sạch dữ liệu: loại bỏ các dòng có NaN trong value_usd hoặc quantity_kg
+    df = df.dropna(subset=['value_usd', 'quantity_kg'])
     # Thống kê tổng hợp theo cảng
     port_stats = df.groupby('port').agg({
         'shipment_id': 'count',

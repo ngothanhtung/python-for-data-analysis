@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import { Breadcrumb, Button, Card, Table } from 'antd';
 import axios from 'axios';
 import React from 'react';
@@ -13,28 +14,70 @@ export default function DanhSachLogistics() {
     const response = await axios.get('http://localhost:8000/api/logistics/danh-sach');
     // Dữ liệu đã có trong data
     const data = response.data;
+
+    // Lưu dữ liệu vào state
     setRecords(data);
-    console.log(data);
   };
 
   // Bước 2: Hiển thị data trong bảng
   // 1. Tạo cấu trúc cột (columns)
 
+  // Lấy danh sách unique countries để tạo filters
+  const getCountryFilters = () => {
+    const uniqueCountries = [...new Set(records.map((record: any) => record.country))];
+    return uniqueCountries.map((country) => ({ text: country, value: country }));
+  };
+
+  // Lấy danh sách unique transport modes để tạo filters
+  const getTransportModeFilters = () => {
+    const uniqueModes = [...new Set(records.map((record: any) => record.transport_mode))];
+    return uniqueModes.map((mode) => ({ text: mode, value: mode }));
+  };
+
   const columns = [
     {
-      title: 'Country',
-      key: 'country',
-      dataIndex: 'country',
+      title: 'No',
+      key: 'no',
+      dataIndex: 'no',
+      render: (value, record, index) => index + 1,
     },
     {
-      title: 'Port',
-      key: 'port',
-      dataIndex: 'port',
+      title: 'Country',
+      key: 'country_port',
+      dataIndex: 'country_port',
+      children: [
+        {
+          title: 'Country',
+          key: 'country',
+          dataIndex: 'country',
+          filters: getCountryFilters(),
+          onFilter: (value: string, record: any) => record.country === value,
+          render: (value: string) => (value === 'Vietnam' ? <span style={{ color: 'red', fontWeight: 600 }}>{value}</span> : value),
+        },
+        {
+          title: 'Port',
+          key: 'port',
+          dataIndex: 'port',
+          render: (value: string) => {
+            if (value === 'Ho Chi Minh') return <span style={{ color: 'gold', fontWeight: 600 }}>{value}</span>;
+            if (value === 'Haiphong') return <span style={{ color: 'blue', fontWeight: 600 }}>{value}</span>;
+            return value;
+          },
+        },
+      ],
+    },
+
+    {
+      title: 'Product',
+      key: 'product',
+      dataIndex: 'product',
     },
     {
       title: 'Value (USD)',
       key: 'value_usd',
       dataIndex: 'value_usd',
+      sorter: (a: any, b: any) => a.value_usd - b.value_usd,
+      render: (value: number) => value?.toLocaleString('en-US', { style: 'currency', currency: 'USD' }),
     },
     {
       title: 'Quantity (kg)',
@@ -45,6 +88,8 @@ export default function DanhSachLogistics() {
       title: 'Transport Mode',
       key: 'transport_mode',
       dataIndex: 'transport_mode',
+      filters: getTransportModeFilters(),
+      onFilter: (value, record: any) => record.transport_mode === value,
     },
     {
       title: 'Status',
@@ -62,7 +107,7 @@ export default function DanhSachLogistics() {
           Lấy dữ liệu từ API
         </Button>
 
-        <Table columns={columns} dataSource={records || []} style={{ marginTop: '16px' }} />
+        <Table bordered={true} columns={columns} dataSource={records || []} style={{ marginTop: '16px' }} pagination={false} />
       </Card>
     </React.Fragment>
   );
