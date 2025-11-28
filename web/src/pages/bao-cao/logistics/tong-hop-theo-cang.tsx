@@ -3,7 +3,7 @@ import { Breadcrumb, Card, Table } from 'antd';
 import React, { useEffect, useState } from 'react';
 
 interface TongHopTheoCangData {
-  Port: string;
+  port: string;
   'Số lượng chuyến hàng': number;
   'Tổng giá trị (USD)': number;
   'Tổng khối lượng (kg)': number;
@@ -36,8 +36,8 @@ export default function TongHopTheoCang() {
   const columns = [
     {
       title: 'Cảng',
-      dataIndex: 'Port',
-      key: 'Port',
+      dataIndex: 'port',
+      key: 'port',
       fixed: 'left' as const,
       width: 120,
     },
