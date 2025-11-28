@@ -1,0 +1,7 @@
+id,name,code,port_to,port_from
+7,Tàu Cao Tốc Superdong,SD,TP. Hồ Chí Minh,Cần Thơ
+8,Tàu Cao Tốc Phú Quốc Express,PX,TP. Hồ Chí Minh,Cần Thơ
+9,Tàu Cao Tốc Greenlines DP,GL,TP. Hồ Chí Minh,Cần Thơ
+10,Tàu Cao Tốc Superdong Cần Thơ,SDC,Cần Thơ,Phú Quốc
+11,Tàu Cao Tốc Phú Quốc Express Cần Thơ,PXC,Cần Thơ,Phú Quốc
+12,Tàu Cao Tốc Greenlines DP Cần Thơ,GLC,Cần Thơ,Phú Quốc
