@@ -5,3 +5,9 @@
 ```bash
 streamlit run app.py
 ```
+
+hoặc
+
+```bash
+python -m streamlit run app.py
+```
